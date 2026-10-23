@@ -150,7 +150,7 @@ Adjudicated overall judgements: high risk in 15 of 25 studies, some concerns in 
 
 **Studies that could not enter a pool.** Seven of the 25 studies contributed no arm to the fabricated pool, most often because they printed percentages without counts, graded accuracy on a composite score such as the Reference Hallucination Score without a whole reference fabricated count (Aljamaan 2024, Tas 2026, Metze 2024), or reported accuracy in a form that did not map to the review definitions. Their results are in extraction.csv and extraction-outcomes.csv and are described here so the pools are not mistaken for the whole included set.
 
-Forest plots for the three outcomes sit in forest-fabricated.png, forest-major_inaccuracy.png and forest-fully_accurate.png.
+Forest plots are printed after the references in this manuscript: one by-study plot per outcome (Figures 1 to 3), with the random-effects pooled proportion drawn as a diamond and the prediction interval as a capped line under it, and arm-level panels in the appendix figures. The plot files are forest-fabricated-bystudy.png, forest-fully_accurate-bystudy.png and forest-major_inaccuracy-bystudy.png for the by-study plots, and forest-fabricated-arms-1 to 3.png, forest-fully_accurate-arms-1 to 2.png and forest-major_inaccuracy-arms-1.png for the arm panels, all produced by forest_plots_v2.py. An earlier plot build (forest_plots.py, files forest-fabricated.png, forest-major_inaccuracy.png and forest-fully_accurate.png) drew no summary diamond and its images overflowed the page in the first PDF, so the major inaccuracy plot was also left out of that PDF; the fault and the fix are logged in llm-team-log.md, and the first-build files are kept in the repository for the record.
 
 ## Discussion
 

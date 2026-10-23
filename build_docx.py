@@ -30,11 +30,38 @@ while i<len(lines):
             if part.startswith("**"): run.bold=True
             run.font.size=Pt(11)
     i+=1
-doc.add_page_break(); doc.add_heading("Forest plot: completely fabricated",level=1)
-doc.add_picture(base+"forest-fabricated.png",width=Inches(6.5))
-doc.add_heading("Forest plot: fully accurate",level=1)
-doc.add_picture(base+"forest-fully_accurate.png",width=Inches(6.5))
-doc.add_heading("PRISMA flow diagram",level=1)
-doc.add_picture(base+"prisma-flow-diagram.png",width=Inches(5.5))
+from PIL import Image as PILImage
+MAXW, MAXH = 6.7, 8.6
+def add_fig(heading, filename, caption=None):
+    h = doc.add_heading(heading, level=1)
+    h.paragraph_format.keep_with_next = True
+    path = base + filename
+    iw, ih = PILImage.open(path).size
+    scale = min(MAXW / (iw / 200), MAXH / (ih / 200))
+    pic = doc.add_picture(path, width=Inches(iw / 200 * scale))
+    if caption:
+        p = doc.add_paragraph(caption)
+        for r in p.runs: r.font.size = Pt(9)
+    return pic
+
+doc.add_page_break()
+add_fig("Forest plot: completely fabricated, by study", "forest-fabricated-bystudy.png",
+        "Figure 1. One row per study (study totals across its model arms). The diamond is the arm-level random-effects pooled proportion, 18.6% (95% CI 12.8 to 26.3); the capped line under it is the 95% prediction interval, 0.9 to 84.7%. The per-study sensitivity pool was 23.0%.")
+add_fig("Forest plot: fully accurate, by study", "forest-fully_accurate-bystudy.png",
+        "Figure 2. One row per study. Diamond: arm-level pooled proportion fully accurate, 29.4% (95% CI 19.5 to 41.7); capped line: 95% prediction interval. Per-study sensitivity pool 41.2%.")
+add_fig("Forest plot: any major inaccuracy, by study", "forest-major_inaccuracy-bystudy.png",
+        "Figure 3. One row per study. Diamond: pooled proportion with any major inaccuracy including fabricated, 36.0% (95% CI 19.8 to 56.3), from 9 arms in 5 studies. This figure was missing from the first build and is restored here.")
+doc.add_page_break()
+doc.add_heading("Appendix figures: forest plots by model arm", level=1)
+for f, cap in [
+    ("forest-fabricated-arms-1.png", "Fabricated, arms 1 of 3. The diamond on each panel is the overall arm-level pool."),
+    ("forest-fabricated-arms-2.png", "Fabricated, arms 2 of 3."),
+    ("forest-fabricated-arms-3.png", "Fabricated, arms 3 of 3, with the prediction interval."),
+    ("forest-fully_accurate-arms-1.png", "Fully accurate, arms 1 of 2."),
+    ("forest-fully_accurate-arms-2.png", "Fully accurate, arms 2 of 2, with the prediction interval."),
+    ("forest-major_inaccuracy-arms-1.png", "Any major inaccuracy, all 9 arms."),
+]:
+    add_fig(cap.split(".")[0], f, cap)
+add_fig("PRISMA flow diagram", "prisma-flow-diagram.png")
 doc.save(base+"manuscript.docx")
-print("docx built")
+print("docx built v2")

@@ -12,7 +12,7 @@ Prepared 22 October 2026. NOT submitted by the review team. Submission through t
 - Email: rtmalikian@gmail.com
 - Abstract for the portal: the condensed 250 word abstract in manuscript-jmla-condensed.md
 - Keywords: large language models; citation accuracy; fabricated references; hallucination; systematic review; meta-analysis; research integrity; health sciences libraries
-- Word count: full manuscript 6,533 words (repository and preprint version). JMLA main text limit 5,000 words: use manuscript-jmla-condensed.md for the journal submission.
+- Word count: full manuscript 6,652 words (repository and preprint version). JMLA main text limit 5,000 words: use manuscript-jmla-condensed.md for the journal submission.
 - Figures and tables for JMLA (limit 6 in main text): summary of findings table; PRISMA flow diagram; forest plots for fabricated and for fully accurate (2 figures); characteristics summary counts in text. Remaining material as supplemental appendixes: forest plot for major inaccuracy, full extraction and RoB tables.
 - CRediT statement: Raphael Malikian: conceptualisation, methodology, investigation, data curation, formal analysis, writing (original draft), writing (review and editing), project administration. (Single author; AI assistance in the review process is declared in the manuscript declarations and in the cover letter, and is not a CRediT authorship role.)
 - Funding: none. Conflicts: none.
