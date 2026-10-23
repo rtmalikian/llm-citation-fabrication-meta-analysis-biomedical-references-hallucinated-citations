@@ -1,0 +1,31 @@
+{
+ "search": "hallucinated fabricated citations large language model ChatGPT",
+ "filter": "from_publication_date:2023-01-01,to_publication_date:2026-10-22",
+ "status": "blocked",
+ "meta_count": null,
+ "retrieved": 0,
+ "error": "HTTP 429 after 3 attempts on first/subsequent page: {\"error\":\"Rate limit exceeded\",\"message\":\"Insufficient budget. This request has no API key, so it counts against the free daily budget shared by everyone on your network's IP address, and that budget is used up ($0 remaining; resets at midnight UTC). Use your own key instead: add ?api_key=YOUR_KEY to the URL, or send it as an \\\"Authorization: Bearer YOUR_KEY\\\" header. Keys are free and have their own budget: https://help.openalex.org/api/authentication/ An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\\\"email\\\": \\\"<your user's email>\\\"}; we email t",
+ "attempts": [
+  {
+   "timestamp": "2026-10-23T02:31:49+00:00",
+   "source": "OpenAlex",
+   "attempt": 1,
+   "outcome": "HTTP 429: {\"error\":\"Rate limit exceeded\",\"message\":\"Insufficient budget. This request has no API key, so it counts against the free daily budget shared by everyone on your network's IP address, and that budget is used up ($0 remaining; resets at midnight UTC). Use your own key instead: add ?api_key=YOUR_KEY to the URL, or send it as an \\\"Authorization: Bearer YOUR_KEY\\\" header. Keys are free and have their own budget: https://help.openalex.org/api/authentication/ An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\\\"email\\\": \\\"<your user's email>\\\"}; we email t"
+  },
+  {
+   "timestamp": "2026-10-23T02:32:19+00:00",
+   "source": "OpenAlex",
+   "attempt": 2,
+   "outcome": "HTTP 429: {\"error\":\"Rate limit exceeded\",\"message\":\"Insufficient budget. This request has no API key, so it counts against the free daily budget shared by everyone on your network's IP address, and that budget is used up ($0 remaining; resets at midnight UTC). Use your own key instead: add ?api_key=YOUR_KEY to the URL, or send it as an \\\"Authorization: Bearer YOUR_KEY\\\" header. Keys are free and have their own budget: https://help.openalex.org/api/authentication/ An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\\\"email\\\": \\\"<your user's email>\\\"}; we email t"
+  },
+  {
+   "timestamp": "2026-10-23T02:33:19+00:00",
+   "source": "OpenAlex",
+   "attempt": 3,
+   "outcome": "HTTP 429: {\"error\":\"Rate limit exceeded\",\"message\":\"Insufficient budget. This request has no API key, so it counts against the free daily budget shared by everyone on your network's IP address, and that budget is used up ($0 remaining; resets at midnight UTC). Use your own key instead: add ?api_key=YOUR_KEY to the URL, or send it as an \\\"Authorization: Bearer YOUR_KEY\\\" header. Keys are free and have their own budget: https://help.openalex.org/api/authentication/ An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\\\"email\\\": \\\"<your user's email>\\\"}; we email t"
+  }
+ ],
+ "retrieved_at": "2026-10-23T02:33:19+00:00",
+ "note": "v1 test call (22 Oct 2026) returned meta.count 1773 with 25 retrieved. This pass did NOT obtain a meta.count: every full-retrieval attempt returned HTTP 429 (shared-IP daily budget exhausted, $0 remaining per API error body, resets midnight UTC). Logged as blocked, not searched. No count invented.",
+ "records": []
+}

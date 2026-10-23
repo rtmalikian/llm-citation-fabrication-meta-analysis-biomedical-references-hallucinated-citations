@@ -1,0 +1,20 @@
+study_id,model_arm,field,settled_value,wrong_pass,source_location
+Shi_2026,AI Research Army (pipeline),n_fabricated,1,B,"Table 3 (Failed=1, Corrupted=1, References=49), PDF p.11; category definitions §3.2, PDF p.4"
+Shi_2026,AI Scientist,n_fabricated,2,B,"Table 3 (Failed=2, Corrupted=1, References=43), PDF p.11; category definitions §3.2, PDF p.4"
+Shi_2026,AI Research Army (single),n_fabricated,3,B,"Table 3 (Failed=3, Corrupted=2, References=64), PDF p.11; category definitions §3.2, PDF p.4"
+Shi_2026,Baseline (GPT-4),n_fabricated,6,B,"Table 3 (Failed=6, Corrupted=2, References=68), PDF p.11; category definitions §3.2, PDF p.4"
+Shi_2026,AI-Researcher,n_fabricated,22,B,"Table 3 (Failed=22, Corrupted=1, References=79), PDF p.11; category definitions §3.2, PDF p.4"
+Shi_2026,Data-to-Paper,n_fabricated,30,B,"Table 3 (Failed=30, Corrupted=1, References=83), PDF p.11; category definitions §3.2, PDF p.4"
+Shi_2026,Agent Laboratory,n_fabricated,35,B,"Table 3 (Failed=35, Corrupted=1, References=97), PDF p.11; category definitions §3.2, PDF p.4"
+Shi_2026,AI Research Army (pipeline),retrieval,reference database or citation tool access,A,"§3.3 (pipeline = citation verification and repair), PDF p.6; §3.5 stages 2-3 (CrossRef and PubMed APIs), PDF p.7"
+Aljamaan_2024,ChatGPT 3.5,n_fabricated,blank_not_printed,neither,Table 2 (per-identifier counts only); Table 1 + footnotes d/e (Methods > RHS Development); Table 3 (RHS medians only)
+Aljamaan_2024,Perplexity,n_fabricated,blank_not_printed,neither,Table 2 (per-identifier counts only); Table 1 + footnotes d/e (Methods > RHS Development); Table 3 (RHS medians only)
+Aljamaan_2024,SciSpace,n_fabricated,blank_not_printed,neither,Table 2 (per-identifier counts only); Table 1 + footnotes d/e (Methods > RHS Development); Table 3 (RHS medians only)
+Aljamaan_2024,Elicit,n_fabricated,blank_not_printed,neither,Table 2 (per-identifier counts only); Table 1 + footnotes d/e (Methods > RHS Development); Table 3 (RHS medians only)
+Aljamaan_2024,Bing,n_fabricated,blank_not_printed,neither,Table 2 (per-identifier counts only); Table 1 + footnotes d/e (Methods > RHS Development); Table 3 (RHS medians only)
+Aljamaan_2024,Bard,arm_inclusion,no_arm_refs_generated_0_no_extractable_data,A,"Abstract Results; Results para 1 (Bard non-response quote; 500-reference denominator excludes Bard); Tables 2-3 (five chatbots only, df=4); Discussion > Principal Findings"
+Aljamaan_2024,ChatGPT 3.5,retrieval,not_reported,B,"Methods > Medical Prompts (uniform prompt format, all 6 chatbots); Methods > Testing AI Chatbots (authors' verification only); Introduction (generic internet-access history, no run setting)"
+Aljamaan_2024,Perplexity,retrieval,not_reported,B,"Methods > Medical Prompts (uniform prompt format, all 6 chatbots); Methods > Testing AI Chatbots (authors' verification only); ref 21 (name + URL only, no function description)"
+Aljamaan_2024,SciSpace,retrieval,not_reported,B,"Methods > Medical Prompts (uniform prompt format, all 6 chatbots); Discussion (Elicit/SciSpace 'dedicated to searching' general characterisation, no experiment retrieval condition)"
+Aljamaan_2024,Elicit,retrieval,not_reported,B,"Methods > Medical Prompts (uniform prompt format, all 6 chatbots); Discussion (Elicit/SciSpace 'dedicated to searching' general characterisation, no experiment retrieval condition)"
+Aljamaan_2024,Bing,retrieval,not_reported,B,"Methods > Medical Prompts (uniform prompt format, all 6 chatbots); Methods > Testing AI Chatbots (authors' verification only); ref 22 (name + URL only, no function description)"

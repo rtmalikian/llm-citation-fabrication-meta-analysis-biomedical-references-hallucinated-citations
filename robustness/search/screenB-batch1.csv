@@ -1,0 +1,99 @@
+record_id,call,flag,reason
+R15986,include,UNCLEAR,"No abstract; ChatGPT in scientific writing cautionary tale, fabricated references reasonably possible at full text"
+R15987,exclude,,General AI for academic communication/education editorial; abstract shows no citation generation or checking
+R15988,include,UNCLEAR,"No abstract; ChatGPT academic writing for cardiologists, citation/fabrication outcome reasonably possible"
+R15989,include,UNCLEAR,"No abstract; AI helping write next paper, reference generation reasonably possible at full text"
+R15990,include,UNCLEAR,"No abstract; ChatGPT generated an entire paper, its references could have been generated and checked"
+R15991,exclude,,Levenshtein distance methods paper 2007; no LLM and no citation generation task
+R15992,include,UNCLEAR,"No abstract; AI in academic writing, LLM reference generation reasonably possible at full text"
+R15993,include,UNCLEAR,"ChatGPT hallucinations in scientific writing; generated case content, fabricated references reasonably possible in full text"
+R15994,exclude,,Supervisor guidance/narrative synthesis on AI in research; no primary LLM citation generation or verification counts
+R15995,exclude,,LLM vs human replies to patient lab-result questions; no citation/reference generation outcome
+R15996,include,GEN,LLM answers to oral lichen planus FAQs; reference provision explicitly assessed as inconsistent
+R15997,exclude,,LLM health advice for axial spondyloarthritis assessed vs guidelines; no citation/reference outcome
+R15998,exclude,,LLM performance on neurosurgery board MCQs; no citation task
+R15999,exclude,,"LLM answers to keratoconus patient questions, reliability/readability only; no citation outcome visible"
+R16000,include,UNCLEAR,"No abstract; searching the literature using AI, citation/retrieval and fabricated-reference outcome reasonably possible"
+R16001,exclude,,Bibliometric audit of ChatGPT signalling words in dental papers; not an audit of fabricated citations
+R16002,include,UNCLEAR,"No abstract; inaccurate citation in biomedical literature is the topic, citation-checking/audit counts reasonably possible"
+R16003,exclude,,"No abstract; radiology AI visual chatbot perspective, title plainly shows no citation/writing task"
+R16004,exclude,,Claude diagnostic performance on radiology quiz cases; no citation task
+R16005,exclude,,"ChatGPT simplification of radiology reports; text simplification, no citation outcome"
+R16006,exclude,,Editorial on o1-Preview vs ChatGPT in healthcare; no primary citation study
+R16007,exclude,,Review of ChatGPT in medical research; no primary reference-generation experiment or counts
+R16008,exclude,,Review of LLMs in radiology fundamentals/applications; no citation generation study
+R16009,exclude,,"Bibliometric analysis of ChatGPT radiology publications; counts publications, not generated references verified"
+R16010,exclude,,RAG chatbot answering MRONJ clinical questions; no generated-reference verification outcome
+R16011,exclude,,"Review of citation misuse/bias in published literature, pre-LLM 2021; no LLM citation generation"
+R16012,include,GEN,"Primary study: ChatGPT generated 30 medical papers, 115 references verified in Medline/Google Scholar/DOAJ, 47% fabricated"
+R16013,exclude,,MI-CLEAR-LLM reporting guideline for LLM accuracy reports; methods/guideline paper with no LLM citation task
+R16014,exclude,,GPT-4o histology image interpretation by prompting strategy; no citation task
+R16015,exclude,,"Meta-analysis of digital mental health interventions for depression; clinical topic, no LLM citation task"
+R16016,include,UNCLEAR,"No abstract; survey of 1600 researchers on AI in science, LLM writing/reference use reasonably possible at full text"
+R16017,exclude,,Clinical review of body dysmorphic disorder; no AI/LLM citation task
+R16018,exclude,,Systematic review/meta-analysis of e-mental health for eating disorders; no LLM citation task
+R16019,exclude,,"RCT of internet CBT for body dysmorphic disorder; clinical trial, no LLM citation task"
+R16020,exclude,,"Zotero journal-annotation teaching activity; reference management education, no LLM generation or fabrication counts"
+R16021,exclude,,Mouse neuroscience study of stress circuits; no LLM or citation task
+R16022,exclude,,Critical analysis of AI in manuscript lifecycle discussing citation fabrication; abstract shows no primary generation/audit data
+R16023,exclude,,Narrative review of AI to improve scientific writing for non-native speakers; no primary reference verification
+R16024,exclude,,Editorial on AI chatbots in medicine as supplement not substitute; no citation outcome
+R16025,exclude,,Review/editorial on academic integrity and ChatGPT fabrication of information; no primary citation generation study
+R16026,include,GEN,LLM-generated appendicitis information; Bard listed verifiable sources and Claude-2 provided fabricated sources
+R16027,exclude,,Systematic review of language use in conversational-agent health communication; no LLM citation generation
+R16028,exclude,,Primer/narrative review on foundation models for physicians; no citation task
+R16029,exclude,,"Commentary counting ChatGPT publications on PubMed; bibliometric, not generated references verified"
+R16030,exclude,,"LLMs generating reasoning MCQs in physiology; generation task is questions, not references"
+R16031,exclude,,Scoping review of clinician competencies for AI tools; no LLM citation task
+R16032,exclude,,"Evaluation of DALL-E AI-generated heart imagery; image task, no citation task"
+R16033,exclude,,ChatGPT vs residents on orthopaedic exam questions; no citation outcome
+R16034,exclude,,Perspective on trust and medical AI expertise; no LLM citation generation study
+R16035,exclude,,GPT vs humans answering ophthalmology StatPearls questions; no citation outcome
+R16036,exclude,,"No abstract; demonstrative ChatGPT dialogue for infectious disease response, title plainly shows no citation/writing task"
+R16037,exclude,,LLM answers to consensus bone stress injury questions; no citation/reference outcome
+R16038,exclude,,Graph/RAG dental question-answering system benchmarked on QA accuracy; no generated-reference verification
+R16039,exclude,,Evidence-informed review of AI in pathology assisted by ChatGPT; no citation generation outcome
+R16040,exclude,,"LLM summaries of oncology literature, faithfulness/hallucination of summaries; summarisation with no citation outcome"
+R16041,exclude,,Commentary on AI enthusiasm in rehabilitation; no primary citation study
+R16042,exclude,,LLM breast reconstruction patient education quality scores; literature-cited RAG described but no reference verification outcome
+R16043,exclude,,"No abstract; methodological commentary on chatbot vs lecture instruction in endodontics, no citation/writing signal"
+R16044,exclude,,Survey/questionnaire on generative AI use for health prevention in Hungary; no citation generation
+R16045,exclude,,LLM patient education guides on diet/exercise assessed for readability/reliability; no citation verification outcome visible
+R16046,exclude,,LLM answers to PRP patient questions assessed for quality; no citation/reference outcome
+R16047,exclude,,LLM cochlear implant patient education comparison; no citation outcome
+R16048,exclude,,State-of-art review of generative AI for families/pediatricians; no primary citation study
+R16049,exclude,,"ChatGPT craniofacial injury vignette risk stratification, DISCERN/readability; no citation outcome visible"
+R16050,exclude,,"Questionnaire development for ChatGPT use in disease prevention; methods/survey, no citation task"
+R16051,exclude,,"MicroRAG microsurgery decision support using retrieved literature citations; RAG QA evaluation, no generated-reference fabrication counts"
+R16052,exclude,,LLM answers to Delphi patellar instability questions; no citation outcome
+R16053,exclude,,Perspective proposing safeguards for LLM summarisation of medical literature; no primary citation study
+R16054,exclude,,Propagation risk framework for AI failures/GPS spoofing; no LLM citation task and not a biomedical citation study
+R16055,exclude,,"ChatGPT-4 answers on ankylosing spondylitis scored for accuracy/completeness; fabricated-data warning only, no citation outcome"
+R16056,exclude,,"AI chatbots for head/neck cancer triage, DISCERN/readability; no citation/source outcome reported in abstract"
+R16057,exclude,,LLM answers on inguinal hernia accuracy/readability; no citation outcome
+R16058,include,GEN,AI chatbot counselling for mandibular distraction; DISCERN subscores explicitly include additional sources provided and citation of sources
+R16059,exclude,,"LLM orthodontic pre-treatment information across six quality dimensions, none citation/reference; no citation outcome"
+R16060,exclude,,Agentic AI workflow for healthcare simulation scenario design; no citation generation study
+R16061,exclude,,Development/usability of substance-use chatbot designed not to hallucinate; no citation generation outcome
+R16062,exclude,,"Cross-sectional survey of public food poisoning knowledge/practices; ChatGPT mention incidental, no LLM citation study"
+R16063,exclude,,Review of generative AI chatbots in urology; no primary citation generation study
+R16064,exclude,,"No abstract; custom ChatGPT on ESSKA osteotomy consensus, title plainly shows consensus QA with no citation/writing signal"
+R16065,exclude,,AI models vs residents on orthopaedic specialty exams; no citation outcome
+R16066,exclude,,Scholarly perspective on integrating generative AI into medical education curriculum/policy; no citation study
+R16067,exclude,,Evaluation of Cochrane Crowd crowdsourcing to identify RCTs; no LLM citation generation
+R16068,exclude,,"PubMed retrieval with RAG techniques, answer relevance/groundedness; no generated-reference verification counts"
+R16069,include,UNCLEAR,"No abstract; hallucinations in ChatGPT, cautionary tale for biomedical researchers, fabricated citations reasonably possible"
+R16070,exclude,,AI chatbots answering retinal/vitreous MCQ knowledge questions; no citation outcome
+R16071,include,UNCLEAR,"No abstract; abstracts written by ChatGPT fool scientists, scientific-writing generation study reported, citation content reasonably possible at full text"
+R16072,exclude,,"Systematic review/meta-analysis of awake prone positioning in COVID-19; clinical topic, no LLM"
+R16073,exclude,,"2012 audit of reference accuracy in one journal, pre-LLM; no LLM-generated citations"
+R16074,include,UNCLEAR,"No abstract; ChatGPT five priorities for research, LLM research/writing and citation issues reasonably possible at full text"
+R16075,exclude,,"Cross-sectional study of retracted paper-mill papers; audit of retractions, not fabricated LLM citations"
+R16076,exclude,,Science editorial that ChatGPT is not an author; abstract shows opinion with no citation generation study
+R16077,include,UNCLEAR,"No abstract; ChatGPT and the future of medical writing, reference generation reasonably possible at full text"
+R16078,exclude,,"No abstract; will ChatGPT transform healthcare, title plainly general healthcare editorial with no writing/citation signal"
+R16079,include,UNCLEAR,"No abstract; ChatGPT shaping the future of medical writing, reference generation reasonably possible at full text"
+R16080,exclude,,Clinical case report of SLE in HIV plus anecdotal ChatGPT publishing experience; no reference verification counts
+R16081,exclude,,Cohort study of family physician visits/continuity in Canada; no LLM or citation task
+R16082,exclude,,"2007 editorial on role of references in publishing, pre-LLM; no LLM citation study"
+R16083,exclude,,"Phase 1b RCT of emraclidine for schizophrenia; clinical trial, no LLM or citation task"

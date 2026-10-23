@@ -1,0 +1,8 @@
+R2314	robustness/fulltexts2/R2314.xml
+R2352	robustness/fulltexts2/R2352.xml
+R2551	robustness/fulltexts2/R2551.xml
+R5403	robustness/fulltexts2/R5403.xml
+R5556	robustness/fulltexts2/R5556.xml
+R5577	robustness/fulltexts2/R5577.xml
+R6331	robustness/fulltexts2/R6331.pdf
+R6555	robustness/fulltexts2/R6555.xml

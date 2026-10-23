@@ -1,0 +1,184 @@
+{
+ "Mugaanyi_2024": {
+  "elig": "include_generation",
+  "arms": 1,
+  "records": [
+   "R0391"
+  ]
+ },
+ "G\u00fcne\u015f_2026": {
+  "elig": "include_generation",
+  "arms": 6,
+  "records": [
+   "R2956"
+  ]
+ },
+ "Linardon_2025": {
+  "elig": "include_generation",
+  "arms": 1,
+  "records": [
+   "R3629"
+  ]
+ },
+ "Aljamaan_2024": {
+  "elig": "include_generation",
+  "arms": 6,
+  "records": [
+   "R5083"
+  ]
+ },
+ "Athaluri_2023": {
+  "elig": "include_generation",
+  "arms": 1,
+  "records": [
+   "R0094"
+  ]
+ },
+ "Civelekler_2026": {
+  "elig": "include_generation",
+  "arms": 4,
+  "records": [
+   "R0125"
+  ]
+ },
+ "Gravel_2023": {
+  "elig": "include_generation",
+  "arms": 1,
+  "records": [
+   "R0210"
+  ]
+ },
+ "Metze_2024": {
+  "elig": "include_generation",
+  "arms": 1,
+  "records": [
+   "R0570"
+  ]
+ },
+ "Pastucha_2026": {
+  "elig": "include_generation",
+  "arms": 6,
+  "records": [
+   "R0696"
+  ]
+ },
+ "Nieves-Lopez_2026": {
+  "elig": "include_generation",
+  "arms": 3,
+  "records": [
+   "R1103"
+  ]
+ },
+ "Chelli_2024": {
+  "elig": "include_generation",
+  "arms": 3,
+  "records": [
+   "R2136"
+  ]
+ },
+ "Dhaimade_2026": {
+  "elig": "include_generation",
+  "arms": 3,
+  "records": [
+   "R2475"
+  ]
+ },
+ "Hasnain_2025": {
+  "elig": "include_generation",
+  "arms": 2,
+  "records": [
+   "R3074"
+  ]
+ },
+ "Tas_2026": {
+  "elig": "include_generation",
+  "arms": 3,
+  "records": [
+   "R3715"
+  ]
+ },
+ "Shi_2026": {
+  "elig": "include_generation",
+  "arms": 7,
+  "records": [
+   "R5289"
+  ]
+ },
+ "Sawamura_2024": {
+  "elig": "include_generation",
+  "arms": 1,
+  "records": [
+   "R6708"
+  ]
+ },
+ "Kutluay_2026": {
+  "elig": "include_generation",
+  "arms": 1,
+  "records": [
+   "R0436"
+  ]
+ },
+ "Hueber_2023": {
+  "elig": "include_generation",
+  "arms": 1,
+  "records": [
+   "R0712"
+  ]
+ },
+ "J\u0119drzejczak_2024": {
+  "elig": "include_generation",
+  "arms": 6,
+  "records": [
+   "R1232"
+  ]
+ },
+ "U\u00e7ar_2026": {
+  "elig": "include_generation",
+  "arms": 3,
+  "records": [
+   "R2250"
+  ]
+ },
+ "U\u00e7arG\u00fcndo\u011far_2026": {
+  "elig": "include_generation",
+  "arms": 2,
+  "records": [
+   "R3820"
+  ]
+ },
+ "Yin_2026": {
+  "elig": "include_audit",
+  "arms": 1,
+  "records": [
+   "R6358"
+  ]
+ },
+ "Bernstein_2026": {
+  "elig": "include_generation",
+  "arms": 1,
+  "records": [
+   "R0043"
+  ]
+ },
+ "Ad\u0131g\u00fczel_2026": {
+  "elig": "include_generation",
+  "arms": 2,
+  "records": [
+   "R0045"
+  ]
+ },
+ "Seifi_2026": {
+  "elig": "include_generation",
+  "arms": 3,
+  "records": [
+   "R0053"
+  ]
+ },
+ "Singh_2026": {
+  "elig": "include_generation",
+  "arms": 1,
+  "records": [
+   "R0180"
+  ]
+ }
+}

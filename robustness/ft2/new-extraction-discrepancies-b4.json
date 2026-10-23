@@ -1,0 +1,96 @@
+[
+ [
+  "R2931",
+  "STUDY_ID",
+  "Idan_2025",
+  "Daphna_2025"
+ ],
+ [
+  "R3191",
+  "Ohlsen_2026",
+  "ChatGPT (GPT-4o)",
+  "n_major_inaccuracy_incl_fabricated",
+  "",
+  "4"
+ ],
+ [
+  "R3191",
+  "Ohlsen_2026",
+  "ChatGPT (GPT-4o)",
+  "n_fully_accurate",
+  "",
+  "2"
+ ],
+ [
+  "R3191",
+  "Ohlsen_2026",
+  "Gemini (Gemini 2.5 Pro)",
+  "n_major_inaccuracy_incl_fabricated",
+  "",
+  "5"
+ ],
+ [
+  "R3578",
+  "Pan_2026",
+  "ChatGPT-4.0 (browsing)",
+  "n_fabricated",
+  "0",
+  ""
+ ],
+ [
+  "R4142",
+  "Gwon_2024",
+  "ChatGPT (GPT-3.5)",
+  "n_fabricated",
+  "1095",
+  "211"
+ ],
+ [
+  "R4142",
+  "Gwon_2024",
+  "Bing AI (GPT-4, web search)",
+  "n_major_inaccuracy_incl_fabricated",
+  "",
+  "28"
+ ],
+ [
+  "R4263",
+  "Zhu_2025",
+  "ChatGPT-4",
+  "n_major_inaccuracy_incl_fabricated",
+  "",
+  "0"
+ ],
+ [
+  "R4263",
+  "Zhu_2025",
+  "ChatGPT-4",
+  "n_minor_error",
+  "",
+  "0"
+ ],
+ [
+  "R4518",
+  "Bridges_2025",
+  "ChatGPT-4 (Tree-of-Thought, expert panel size 2)",
+  "n_bad_doi",
+  "125",
+  "42"
+ ],
+ [
+  "R5078",
+  "Warren_2024",
+  "All four chatbots pooled (per-model citation counts not reported in the full text)",
+  "ARM_UNMATCHED_A",
+  "",
+  ""
+ ],
+ [
+  "R5078",
+  "Warren_2024",
+  "All 4 chatbots pooled (per-model citation counts not reported)",
+  "ARM_UNMATCHED_B",
+  "",
+  ""
+ ]
+]

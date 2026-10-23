@@ -1,10 +1,21 @@
 study,record,arm,family,retrieval,pub,year,topic,specialty,requested,n,x
-Athaluri_2023,R0094,ChatGPT,GPT,none,peer_reviewed,,not_reported,mixed biomedical,,178,69
 Gravel_2023,R0210,ChatGPT,GPT,none,peer_reviewed,,not_reported,mixed biomedical,,59,46
-Dhaimade_2026,R2475,GPT-5.0 (Full Test),GPT,none,peer_reviewed,,not_reported,dentistry (periodontology),,262,135
-Dhaimade_2026,R2475,GPT-5.0 (Individual Question),GPT,none,peer_reviewed,,not_reported,dentistry (periodontology),,328,105
-Dhaimade_2026,R2475,Claude Sonnet 4.0 (Individual Question),Claude,none,peer_reviewed,,not_reported,dentistry (periodontology),,322,18
+Metze_2024,R0570,ChatGPT-4,GPT,not_reported,peer_reviewed,,not_reported,pathology and related fields (professors' scientific activities),,260,194
+Nieves-Lopez_2026,R1103,Copilot,other,not_reported,peer_reviewed,,not_reported,foot and ankle surgery (orthopaedics),,929,26
 Seifi_2026,R0053,GPT-5.3,GPT,none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,44
 Seifi_2026,R0053,DeepSeek-V3,DeepSeek,none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,10
-Seifi_2026,R0053,Grok-4,other (Grok),none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,66
+Seifi_2026,R0053,Grok-4,Grok,none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,66
 Singh_2026,R0180,GPT-5,GPT,none,peer_reviewed,,not_reported,orthopaedic surgery (OITE examination),203.0,88,29
+DiFebo_2026,R0047,ChatGPT-5,GPT,retrieval,peer_reviewed,2025,cardiology literature search (established and emerging topics),medical specialty (cardiology),160.0,154,0
+DiFebo_2026,R0047,Elicit,other,retrieval,peer_reviewed,,cardiology literature search (established and emerging topics),medical specialty (cardiology),160.0,140,0
+DiFebo_2026,R0047,Consensus,other,retrieval,peer_reviewed,,cardiology literature search (established and emerging topics),medical specialty (cardiology),160.0,158,0
+DiFebo_2026,R0047,Scite,other,retrieval,peer_reviewed,,cardiology literature search (established and emerging topics),medical specialty (cardiology),160.0,113,0
+McLaughlin_2026,R0112,OpenEvidence,other,retrieval,peer_reviewed,,spine surgery topics (clinician-level and patient-level prompts pooled),surgical specialty (neurosurgery - spine surgery),,120,0
+Moskatel_2023,R11480,ChatGPT-3.5,GPT,none,peer_reviewed,2022,pharmacology (medications for prevention of migraine),medical specialty (neurology),141.0,115,82
+Ghanem_2024,R7279,ChatGPT-4,GPT,none,peer_reviewed,2023,ABCDE approach to trauma protocol,Orthopaedic surgery / trauma,,30,17
+Hack_2026,R3140,GPT-4.0,GPT,none,peer_reviewed,2023,"Chronic rhinosinusitis; infantile subglottic hemangioma (AI-generated review articles, narrative and PRISMA-style)",surgical specialty (otolaryngology),,77,0
+Hack_2026,R3140,Gemini 2.0,Gemini,none,peer_reviewed,2024,"Chronic rhinosinusitis; infantile subglottic hemangioma (AI-generated review articles, narrative and PRISMA-style)",surgical specialty (otolaryngology),,46,11
+Ohlsen_2026,R3191,ChatGPT (GPT-4o),GPT,not_reported,peer_reviewed,2024,Glenohumeral arthritis: patient questions based on AAOS clinical practice guideline recommendations,surgical specialty (orthopaedic surgery),,6,4
+Gwon_2024,R4142,"Bing AI (GPT-4, web search)",GPT,retrieval,peer_reviewed,2023,Medical treatment of Peyronie disease (systematic literature search for RCTs),medical specialty (urology),,48,28
+Zhu_2025,R4263,ChatGPT-4,GPT,none,peer_reviewed,2023,"Prevalence and incidence of common and rare diseases (pharmacoepidemiology; hypertension, diabetes, ALS, laryngeal cancer)",public health and epidemiology,,20,0
+Mikus_2024,R16144,ChatGPT GPT-4o,GPT,none,peer_reviewed,2024,established,pharmacology,,5,5

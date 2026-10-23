@@ -1,0 +1,99 @@
+record_id,call,flag,reason
+R15986,exclude,maybe,no citation outcome
+R15987,exclude,,review or editorial type
+R15988,exclude,,review or editorial type
+R15989,exclude,,review or editorial type
+R15990,exclude,maybe,review or editorial type
+R15991,exclude,,not a language model study
+R15992,exclude,,review or editorial type
+R15993,exclude,,anecdote
+R15994,exclude,,review or editorial type
+R15995,exclude,,no citation outcome
+R15996,exclude,,no citation outcome
+R15997,exclude,,no citation outcome
+R15998,exclude,,no citation outcome
+R15999,exclude,,no citation outcome
+R16000,exclude,maybe,no citation outcome
+R16001,exclude,,no citation outcome
+R16002,exclude,maybe,not a language model study
+R16003,exclude,,review or editorial type
+R16004,exclude,,no citation outcome
+R16005,exclude,,no citation outcome
+R16006,exclude,,review or editorial type
+R16007,exclude,,review or editorial type
+R16008,exclude,,review or editorial type
+R16009,exclude,,no citation outcome
+R16010,exclude,,no citation outcome
+R16011,exclude,,not a language model study
+R16012,include,,"GEN: ChatGPT-3.5 generated 115 references on medical topics; fabricated/inaccurate counts verified against Medline, Google Scholar and DOAJ"
+R16013,exclude,,registration or protocol with no results
+R16014,exclude,,no citation outcome
+R16015,exclude,,not a language model study
+R16016,exclude,,review or editorial type
+R16017,exclude,,not a language model study
+R16018,exclude,,not a language model study
+R16019,exclude,,not a language model study
+R16020,exclude,,not a language model study
+R16021,exclude,,not a language model study
+R16022,exclude,,review or editorial type
+R16023,exclude,,review or editorial type
+R16024,exclude,,review or editorial type
+R16025,exclude,,review or editorial type
+R16026,exclude,,no denominator
+R16027,exclude,,review or editorial type
+R16028,exclude,,review or editorial type
+R16029,exclude,,no citation outcome
+R16030,exclude,,no citation outcome
+R16031,exclude,,review or editorial type
+R16032,exclude,,no citation outcome
+R16033,exclude,,no citation outcome
+R16034,exclude,,review or editorial type
+R16035,exclude,,no citation outcome
+R16036,exclude,,anecdote
+R16037,exclude,,no citation outcome
+R16038,exclude,,no citation outcome
+R16039,exclude,,review or editorial type
+R16040,exclude,,no citation outcome
+R16041,exclude,,review or editorial type
+R16042,exclude,,no citation outcome
+R16043,exclude,,review or editorial type
+R16044,exclude,,no citation outcome
+R16045,exclude,,no citation outcome
+R16046,exclude,,no citation outcome
+R16047,exclude,,no citation outcome
+R16048,exclude,,review or editorial type
+R16049,exclude,,no citation outcome
+R16050,exclude,,no citation outcome
+R16051,exclude,,no citation outcome
+R16052,exclude,,no citation outcome
+R16053,exclude,,review or editorial type
+R16054,exclude,,no citation outcome
+R16055,exclude,,no citation outcome
+R16056,exclude,,no citation outcome
+R16057,exclude,,no citation outcome
+R16058,exclude,,no citation outcome
+R16059,exclude,,no citation outcome
+R16060,exclude,,no citation outcome
+R16061,exclude,,no citation outcome
+R16062,exclude,,not a language model study
+R16063,exclude,,review or editorial type
+R16064,exclude,,no citation outcome
+R16065,exclude,,no citation outcome
+R16066,exclude,,review or editorial type
+R16067,exclude,,not a language model study
+R16068,exclude,,no citation outcome
+R16069,exclude,maybe,no citation outcome
+R16070,exclude,,no citation outcome
+R16071,exclude,,review or editorial type
+R16072,exclude,,not a language model study
+R16073,exclude,,not a language model study
+R16074,exclude,,review or editorial type
+R16075,exclude,,no citation outcome
+R16076,exclude,,review or editorial type
+R16077,exclude,,review or editorial type
+R16078,exclude,,review or editorial type
+R16079,exclude,,review or editorial type
+R16080,exclude,,anecdote
+R16081,exclude,,not a language model study
+R16082,exclude,,not a language model study
+R16083,exclude,,not a language model study

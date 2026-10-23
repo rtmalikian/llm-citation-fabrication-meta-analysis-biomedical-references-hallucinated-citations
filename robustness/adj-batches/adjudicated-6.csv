@@ -1,0 +1,116 @@
+record_id,adjudicator_call,stratum,reason
+R3710,exclude,,no citation outcome
+R3715,include,GEN,Prompted 3 chatbots under 30 medical subheadings generating 3150 references assessed for verifiability and PMID validity
+R3720,exclude,,no citation outcome
+R3722,exclude,,no citation outcome
+R3739,exclude,,no citation outcome
+R3740,maybe,GEN,Reference validity percentages reported in clinical task responses but reference denominator and named external verification source not stated
+R3749,exclude,,no citation outcome
+R3751,exclude,,review or editorial type
+R3753,exclude,,no citation outcome
+R3757,exclude,,no citation outcome
+R3766,exclude,,no citation outcome
+R3786,exclude,,no citation outcome
+R3800,exclude,,no citation outcome
+R3803,exclude,,review or editorial type
+R3809,exclude,,review or editorial type
+R3816,exclude,,no citation outcome
+R3822,exclude,,no citation outcome
+R3833,exclude,,review or editorial type
+R3846,exclude,,no citation outcome
+R3885,exclude,,no citation outcome
+R3889,exclude,,review or editorial type
+R3901,exclude,,no citation outcome
+R3902,exclude,,no citation outcome
+R3911,exclude,,no citation outcome
+R3913,maybe,GEN,Prompts included journal references on anesthesiology topics with inaccuracy noted but reference denominator and external verification not stated
+R3919,exclude,,registration or protocol with no results
+R3927,exclude,,topic not biomedical and no biomedical split
+R3931,exclude,,review or editorial type
+R3934,exclude,,no citation outcome
+R3950,exclude,,no citation outcome
+R3951,exclude,,no citation outcome
+R3952,exclude,,review or editorial type
+R3981,exclude,,no citation outcome
+R4001,exclude,,no citation outcome
+R4011,exclude,,no citation outcome
+R4023,exclude,,no citation outcome
+R4031,exclude,,no citation outcome
+R4036,exclude,,no citation outcome
+R4039,exclude,,no citation outcome
+R4045,exclude,,no citation outcome
+R4081,maybe,GEN,Academic writing outputs cited sources with real and fabricated percentages but reference denominator and named external verification source not stated
+R4090,exclude,,topic not biomedical and no biomedical split
+R4101,exclude,,no citation outcome
+R4105,exclude,,review or editorial type
+R4106,exclude,,no citation outcome
+R4109,exclude,,no citation outcome
+R4121,exclude,,no citation outcome
+R4142,maybe,GEN,AI literature search returns graded by title existence with fake titles but denominator and named external verification source unclear
+R4149,exclude,,no citation outcome
+R4153,exclude,,no citation outcome
+R4159,exclude,,no citation outcome
+R4161,exclude,,no citation outcome
+R4168,exclude,,no citation outcome
+R4185,exclude,,no citation outcome
+R4187,exclude,,anecdote
+R4205,exclude,,no citation outcome
+R4206,exclude,,no citation outcome
+R4213,exclude,,no citation outcome
+R4221,exclude,,anecdote
+R4226,exclude,,no citation outcome
+R4234,maybe,GEN,162 references provided with 60 confirmed nonfabricated but external verification source not named in abstract
+R4250,exclude,,review or editorial type
+R4253,exclude,,review or editorial type
+R4263,maybe,GEN,Reference counts with authentic and fabricated proportions per model but external verification source not named in abstract
+R4268,exclude,,no denominator
+R4281,exclude,,review or editorial type
+R4288,exclude,,no citation outcome
+R4309,maybe,GEN,Citation accuracy compared across tools in simulated trials but denominator and verification source not stated
+R4326,exclude,,no citation outcome
+R4338,exclude,,no citation outcome
+R4367,exclude,,no citation outcome
+R4382,exclude,,topic not biomedical and no biomedical split
+R4400,exclude,,review or editorial type
+R4413,exclude,,no citation outcome
+R4420,exclude,,no citation outcome
+R4425,exclude,,review or editorial type
+R4462,exclude,,review or editorial type
+R4476,exclude,,no citation outcome
+R4483,exclude,,no citation outcome
+R4489,exclude,,no citation outcome
+R4497,exclude,,review or editorial type
+R4512,exclude,,no citation outcome
+R4518,maybe,GEN,Fabricated reference frequency objective with citation and DOI accuracy percentages but reference denominator and verification source not stated
+R4523,exclude,,no citation outcome
+R4534,exclude,,no citation outcome
+R4535,exclude,,review or editorial type
+R4541,exclude,,no citation outcome
+R4551,exclude,,topic not biomedical and no biomedical split
+R4557,exclude,,no citation outcome
+R4570,exclude,,review or editorial type
+R4590,maybe,GEN,58.8 percent of ChatGPT references in generated literature reviews fabricated but reference denominator and external verification source not stated
+R4600,maybe,GEN,LLM clinical reviews assessed for citation authenticity and accuracy but no denominator or verification source in abstract
+R4603,exclude,,no citation outcome
+R4610,exclude,,anecdote
+R4614,exclude,,no citation outcome
+R4628,exclude,,no citation outcome
+R4634,exclude,,review or editorial type
+R4640,exclude,,topic not biomedical and no biomedical split
+R4647,exclude,,no citation outcome
+R4662,exclude,,no citation outcome
+R4680,exclude,,no citation outcome
+R4681,exclude,,no denominator
+R4692,exclude,,no citation outcome
+R4721,exclude,,review or editorial type
+R4736,exclude,,no citation outcome
+R4750,exclude,,topic not biomedical and no biomedical split
+R4763,exclude,,not a language model study
+R4781,exclude,,no citation outcome
+R4785,exclude,,no citation outcome
+R4802,exclude,,no citation outcome
+R4821,exclude,,no citation outcome
+R4823,exclude,,no citation outcome
+R4831,exclude,,topic not biomedical and no biomedical split
+R4838,exclude,,topic not biomedical and no biomedical split
+R4839,exclude,,topic not biomedical and no biomedical split

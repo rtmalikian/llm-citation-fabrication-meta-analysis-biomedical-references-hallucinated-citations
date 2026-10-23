@@ -1,4 +1,5 @@
 study,record,arm,family,retrieval,pub,year,topic,specialty,requested,n,x
+Mugaanyi_2024,R0391,ChatGPT (GPT-3.5) - natural sciences (clinical/biomedical) topics only,GPT,none,peer_reviewed,,not_reported,mixed biomedical,,55,15
 Güneş_2026,R2956,Claude 3.5 Sonnet,Claude,not_reported,peer_reviewed,,not_reported,radiology,480.0,480,15
 Güneş_2026,R2956,Claude 3 Opus,Claude,not_reported,peer_reviewed,,not_reported,radiology,480.0,480,88
 Güneş_2026,R2956,ChatGPT-4o,GPT,not_reported,peer_reviewed,,not_reported,radiology,480.0,480,133
@@ -9,44 +10,105 @@ Linardon_2025,R3629,GPT-4o,GPT,none,peer_reviewed,,mixed,psychiatry and mental h
 Athaluri_2023,R0094,ChatGPT,GPT,none,peer_reviewed,,not_reported,mixed biomedical,,178,28
 Civelekler_2026,R0125,DeepSeek-R1,DeepSeek,none,peer_reviewed,,not_reported,"ophthalmology (anterior segment: corneal, conjunctival and eyelid diseases)",35.0,35,13
 Civelekler_2026,R0125,ChatGPT (GPT-5.1),GPT,none,peer_reviewed,,not_reported,"ophthalmology (anterior segment: corneal, conjunctival and eyelid diseases)",35.0,35,19
-Civelekler_2026,R0125,Copilot (Microsoft Copilot 4.2),other (Microsoft Copilot),none,peer_reviewed,,not_reported,"ophthalmology (anterior segment: corneal, conjunctival and eyelid diseases)",35.0,35,17
+Civelekler_2026,R0125,Copilot (Microsoft Copilot 4.2),other,none,peer_reviewed,,not_reported,"ophthalmology (anterior segment: corneal, conjunctival and eyelid diseases)",35.0,35,17
 Civelekler_2026,R0125,Gemini (Google Gemini Ultra 2.5),Gemini,none,peer_reviewed,,not_reported,"ophthalmology (anterior segment: corneal, conjunctival and eyelid diseases)",35.0,35,31
 Gravel_2023,R0210,ChatGPT,GPT,none,peer_reviewed,,not_reported,mixed biomedical,,59,41
+Metze_2024,R0570,ChatGPT-4,GPT,not_reported,peer_reviewed,,not_reported,pathology and related fields (professors' scientific activities),,260,194
 Pastucha_2026,R0696,ChatGPT-4,GPT,none,peer_reviewed,,not_reported,otorhinolaryngology,,231,17
 Pastucha_2026,R0696,ChatGPT-4.1,GPT,none,peer_reviewed,,not_reported,otorhinolaryngology,,396,82
-Pastucha_2026,R0696,ChatGPT-4.1 (web search),GPT,browsing,peer_reviewed,,not_reported,otorhinolaryngology,,296,7
+Pastucha_2026,R0696,ChatGPT-4.1 (web search),GPT,retrieval,peer_reviewed,,not_reported,otorhinolaryngology,,296,7
 Pastucha_2026,R0696,Gemini 1.5 Pro,Gemini,none,peer_reviewed,,not_reported,otorhinolaryngology,,193,30
 Pastucha_2026,R0696,Gemini 2.5 Pro,Gemini,none,peer_reviewed,,not_reported,otorhinolaryngology,,530,103
-Pastucha_2026,R0696,Gemini 2.5 Pro (web search),Gemini,browsing,peer_reviewed,,not_reported,otorhinolaryngology,,301,4
+Pastucha_2026,R0696,Gemini 2.5 Pro (web search),Gemini,retrieval,peer_reviewed,,not_reported,otorhinolaryngology,,301,4
 Nieves-Lopez_2026,R1103,ChatGPT-5.4,GPT,not_reported,peer_reviewed,,not_reported,foot and ankle surgery (orthopaedics),,703,32
 Nieves-Lopez_2026,R1103,Gemini-3,Gemini,not_reported,peer_reviewed,,not_reported,foot and ankle surgery (orthopaedics),,796,11
-Nieves-Lopez_2026,R1103,Copilot,other (Microsoft Copilot),not_reported,peer_reviewed,,not_reported,foot and ankle surgery (orthopaedics),,929,26
+Nieves-Lopez_2026,R1103,Copilot,other,not_reported,peer_reviewed,,not_reported,foot and ankle surgery (orthopaedics),,929,26
 Chelli_2024,R2136,GPT-3.5,GPT,none,peer_reviewed,,not_reported,"mixed biomedical (rotator cuff systematic reviews: surgery, sports medicine, physiotherapy, anesthesiology)",,139,55
 Chelli_2024,R2136,GPT-4,GPT,none,peer_reviewed,,not_reported,"mixed biomedical (rotator cuff systematic reviews: surgery, sports medicine, physiotherapy, anesthesiology)",,119,34
 Chelli_2024,R2136,Bard,Gemini,none,peer_reviewed,,not_reported,"mixed biomedical (rotator cuff systematic reviews: surgery, sports medicine, physiotherapy, anesthesiology)",,104,95
 Hasnain_2025,R3074,ChatGPT,GPT,not_reported,peer_reviewed,,not_reported,ophthalmology (conjunctivitis),30.0,15,2
 Hasnain_2025,R3074,DeepSeek,DeepSeek,not_reported,peer_reviewed,,not_reported,ophthalmology (conjunctivitis),30.0,30,2
-Shi_2026,R5289,AI Research Army (pipeline),Claude,database,preprint,,not_reported,clinical epidemiology (NHANES),,49,1
+Shi_2026,R5289,AI Research Army (pipeline),Claude,retrieval,preprint,,not_reported,clinical epidemiology (NHANES),,49,1
 Shi_2026,R5289,AI Scientist,GPT,not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,43,2
 Shi_2026,R5289,AI Research Army (single),Claude,none,preprint,,not_reported,clinical epidemiology (NHANES),,64,3
 Shi_2026,R5289,Baseline (GPT-4),GPT,not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,68,6
-Shi_2026,R5289,AI-Researcher,other (system-default models not reported),not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,79,22
-Shi_2026,R5289,Data-to-Paper,other (system-default models not reported),not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,83,30
-Shi_2026,R5289,Agent Laboratory,other (system-default models not reported),not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,97,35
+Shi_2026,R5289,AI-Researcher,other,not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,79,22
+Shi_2026,R5289,Data-to-Paper,other,not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,83,30
+Shi_2026,R5289,Agent Laboratory,other,not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,97,35
 Sawamura_2024,R6708,ChatGPT (free version),GPT,none,peer_reviewed,,not_reported,physical therapy (rehabilitation),,37,15
-Kutluay_2026,R0436,ChatGPT-5.3,GPT,browsing,peer_reviewed,,established,surgical specialty (orthopedics and traumatology),45.0,45,15
+Kutluay_2026,R0436,ChatGPT-5.3,GPT,retrieval,peer_reviewed,,established,surgical specialty (orthopedics and traumatology),45.0,45,15
 Hueber_2023,R0712,ChatGPT,GPT,none,peer_reviewed,,mixed,medical specialty (rheumatology),,25,16
-Jędrzejczak_2024,R1232,ChatGPT-4 - Session 1,GPT,none,preprint,,established,medical specialty (otorhinolaryngology),,76,5
-Jędrzejczak_2024,R1232,ChatGPT-4 - Session 2,GPT,none,preprint,,established,medical specialty (otorhinolaryngology),,81,8
-Jędrzejczak_2024,R1232,ChatGPT-4 - Session 3,GPT,none,preprint,,established,medical specialty (otorhinolaryngology),,74,4
-Jędrzejczak_2024,R1232,Gemini Advanced - Session 1,Gemini,none,preprint,,established,medical specialty (otorhinolaryngology),,65,17
-Jędrzejczak_2024,R1232,Gemini Advanced - Session 2,Gemini,none,preprint,,established,medical specialty (otorhinolaryngology),,68,7
-Jędrzejczak_2024,R1232,Gemini Advanced - Session 3,Gemini,none,preprint,,established,medical specialty (otorhinolaryngology),,60,6
 UçarGündoğar_2026,R3820,ChatGPT-4o,GPT,none,peer_reviewed,,established,dentistry (pediatric dentistry),,114,61
 UçarGündoğar_2026,R3820,DeepSeek R1,DeepSeek,none,peer_reviewed,,established,dentistry (pediatric dentistry),,149,98
-Bernstein_2026,R0043,ChatGPT-5,GPT,browsing,peer_reviewed,,not_reported,orthopaedic surgery (AAOS clinical practice guidelines),,2736,195
+Bernstein_2026,R0043,ChatGPT-5,GPT,retrieval,peer_reviewed,,not_reported,orthopaedic surgery (AAOS clinical practice guidelines),,2736,195
 Adıgüzel_2026,R0045,ChatGPT 5,GPT,none,peer_reviewed,,established,dentistry (endodontics),150.0,150,1
 Adıgüzel_2026,R0045,Claude Sonnet 4.6,Claude,none,peer_reviewed,,established,dentistry (endodontics),150.0,150,1
 Seifi_2026,R0053,GPT-5.3,GPT,none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,27
 Seifi_2026,R0053,DeepSeek-V3,DeepSeek,none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,8
-Seifi_2026,R0053,Grok-4,other (Grok),none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,50
+Seifi_2026,R0053,Grok-4,Grok,none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,50
+DiFebo_2026,R0047,ChatGPT-5,GPT,retrieval,peer_reviewed,2025,cardiology literature search (established and emerging topics),medical specialty (cardiology),160.0,154,0
+DiFebo_2026,R0047,Elicit,other,retrieval,peer_reviewed,,cardiology literature search (established and emerging topics),medical specialty (cardiology),160.0,140,0
+DiFebo_2026,R0047,Consensus,other,retrieval,peer_reviewed,,cardiology literature search (established and emerging topics),medical specialty (cardiology),160.0,158,0
+DiFebo_2026,R0047,Scite,other,retrieval,peer_reviewed,,cardiology literature search (established and emerging topics),medical specialty (cardiology),160.0,113,0
+DiFebo_2026,R0047,ChatGPT-5 (clinical-studies subanalysis),GPT,retrieval,peer_reviewed,2025,"cardiology literature search (clinical-studies subanalysis, longer reference lists)",medical specialty (cardiology),,59,10
+McLaughlin_2026,R0112,ChatGPT,GPT,retrieval,peer_reviewed,2025,spine surgery topics (clinician-level and patient-level prompts pooled),surgical specialty (neurosurgery - spine surgery),,98,11
+McLaughlin_2026,R0112,Gemini,Gemini,retrieval,peer_reviewed,2025,spine surgery topics (clinician-level and patient-level prompts pooled),surgical specialty (neurosurgery - spine surgery),,65,17
+McLaughlin_2026,R0112,Claude,Claude,retrieval,peer_reviewed,2025,spine surgery topics (clinician-level and patient-level prompts pooled),surgical specialty (neurosurgery - spine surgery),,100,11
+McLaughlin_2026,R0112,Microsoft Copilot,other,retrieval,peer_reviewed,,spine surgery topics (clinician-level and patient-level prompts pooled),surgical specialty (neurosurgery - spine surgery),,98,13
+McLaughlin_2026,R0112,OpenEvidence,other,retrieval,peer_reviewed,,spine surgery topics (clinician-level and patient-level prompts pooled),surgical specialty (neurosurgery - spine surgery),,120,0
+Knee_2026,R0264,ChatGPT-4o mini,GPT,none,peer_reviewed,2024,midshaft clavicle fracture management,surgical specialty (orthopaedic surgery),,128,113
+Knee_2025,R0277,ChatGPT 3.5,GPT,none,peer_reviewed,2022,Achilles tendon rupture management,surgical specialty (orthopaedic surgery),,47,12
+Moskatel_2023,R11480,ChatGPT-3.5,GPT,none,peer_reviewed,2022,pharmacology (medications for prevention of migraine),medical specialty (neurology),141.0,115,76
+Teke_2026,R2196,ChatGPT-5,GPT,retrieval,peer_reviewed,2025,restorative dentistry diagnosis and treatment planning,dentistry,,22,1
+Teke_2026,R2196,DeepSeek V3.2,DeepSeek,retrieval,peer_reviewed,2025,restorative dentistry diagnosis and treatment planning,dentistry,,9,5
+Teke_2026,R2196,Claude Sonnet 4.5,Claude,retrieval,peer_reviewed,2025,restorative dentistry diagnosis and treatment planning,dentistry,,21,1
+Teke_2026,R2196,Microsoft Copilot,other,retrieval,peer_reviewed,,restorative dentistry diagnosis and treatment planning,dentistry,,10,0
+Teke_2026,R2196,Google Gemini 3 Flash,Gemini,retrieval,peer_reviewed,2025,restorative dentistry diagnosis and treatment planning,dentistry,,19,0
+Kang_2026,R2282,OpenEvidence,other,retrieval,peer_reviewed,,pediatric hypospadias perioperative consultation,paediatrics,,47,0
+Kang_2026,R2282,Gemini-2.5-Pro,Gemini,not_reported,peer_reviewed,2025,pediatric hypospadias perioperative consultation,paediatrics,,40,0
+Kang_2026,R2282,DeepSeek,DeepSeek,not_reported,peer_reviewed,,pediatric hypospadias perioperative consultation,paediatrics,,39,13
+Kang_2026,R2282,ChatGPT-4o,GPT,not_reported,peer_reviewed,2024,pediatric hypospadias perioperative consultation,paediatrics,,33,5
+Kang_2026,R2282,Zhipu Qingyan,other,not_reported,peer_reviewed,,pediatric hypospadias perioperative consultation,paediatrics,,17,4
+Rao_2026,R2314,GPT-4,GPT,none,peer_reviewed,2023,patient education Q&A,Plastic surgery (scars and keloids),,3250,383
+Zhou_2026,R2352,DeepSeek R1,DeepSeek,none,peer_reviewed,2025,literature review generation (researched/controversial/open topics),Ophthalmology (SMILE surgery),,200,81
+Zhou_2026,R2352,Gemini 2.5 Pro,Gemini,none,peer_reviewed,2025,literature review generation (researched/controversial/open topics),Ophthalmology (SMILE surgery),,96,44
+Zhou_2026,R2352,GPT-4,GPT,none,peer_reviewed,2023,literature review generation (researched/controversial/open topics),Ophthalmology (SMILE surgery),,95,47
+Zhou_2026,R2352,Grok-3,Grok,none,peer_reviewed,2025,literature review generation (researched/controversial/open topics),Ophthalmology (SMILE surgery),,86,22
+Schumacher_2024,R5403,ChatGPT-4o,GPT,none,peer_reviewed,2024,clinical case Q&A (10 cases x 5 questions x 3 attempts),Ophthalmology (uveitis),,52,22
+Sina_2024,R5556,GPT-4 (prompting for references),GPT,none,peer_reviewed,2023,patient education Q&A,Otolaryngology (rhinology),,12,1
+Kaygisiz_2025,R5577,DeepSeek-V3,DeepSeek,none,peer_reviewed,2024,clinical case diagnosis (16 scenarios),Dentistry (oral pathology / oral and maxillofacial surgery),,48,8
+Kaygisiz_2025,R5577,ChatGPT-4o,GPT,none,peer_reviewed,2024,clinical case diagnosis (16 scenarios),Dentistry (oral pathology / oral and maxillofacial surgery),,62,50
+Ok_2026,R6331,ChatGPT-5,GPT,none,peer_reviewed,2025,narrative review generation,Urology (penile prosthesis implantation),,28,5
+Safrai_2024,R6555,ChatGPT-4,GPT,none,peer_reviewed,2023,scientific review generation,Reproductive medicine (fertility preservation),25.0,25,4
+Awosanya_2024,R6775,ChatGPT 4.0 AI-only,GPT,none,peer_reviewed,2023,COVID-19 and musculoskeletal health review article,Orthopaedic surgery / musculoskeletal,,113,19
+Ghanem_2024,R7279,ChatGPT-4,GPT,none,peer_reviewed,2023,ABCDE approach to trauma protocol,Orthopaedic surgery / trauma,,30,4
+Aiumtrakul_2023,R7442,ChatGPT-3.5,GPT,none,peer_reviewed,2022,"12 nephrology topics, 20 references requested per topic",Nephrology,240.0,199,32
+Aiumtrakul_2023,R7442,Bing Chat (GPT-4),GPT,retrieval,peer_reviewed,2023,"12 nephrology topics, 20 references requested per topic",Nephrology,240.0,158,21
+Aiumtrakul_2023,R7442,Bard AI (PaLM 2),other,not_reported,peer_reviewed,2023,"12 nephrology topics, 20 references requested per topic",Nephrology,240.0,112,71
+Suppadungsuk_2023,R7837,ChatGPT-3.5,GPT,none,peer_reviewed,2022,"12 nephrology topics, recent literature references in Vancouver style with links",Nephrology,,610,192
+Ettien_2026,R2620,ChatGPT,GPT,not_reported,peer_reviewed,,Medical literature search: Teach-Back for patient education at discharge; neutropenic diet / low bacterial diet and sepsis or length of stay,mixed biomedical,,177,125
+Ettien_2026,R2620,Claude,Claude,not_reported,peer_reviewed,,Medical literature search: Teach-Back for patient education at discharge; neutropenic diet / low bacterial diet and sepsis or length of stay,mixed biomedical,,138,37
+Ettien_2026,R2620,Copilot,GPT,not_reported,peer_reviewed,,Medical literature search: Teach-Back for patient education at discharge; neutropenic diet / low bacterial diet and sepsis or length of stay,mixed biomedical,,202,84
+Ettien_2026,R2620,Gemini,Gemini,not_reported,peer_reviewed,,Medical literature search: Teach-Back for patient education at discharge; neutropenic diet / low bacterial diet and sepsis or length of stay,mixed biomedical,,153,97
+Ettien_2026,R2620,OpenEvidence,other,not_reported,peer_reviewed,,Medical literature search: Teach-Back for patient education at discharge; neutropenic diet / low bacterial diet and sepsis or length of stay,mixed biomedical,,163,0
+Ettien_2026,R2620,Perplexity,other,not_reported,peer_reviewed,,Medical literature search: Teach-Back for patient education at discharge; neutropenic diet / low bacterial diet and sepsis or length of stay,mixed biomedical,,334,10
+Idan_2025,R2931,GPT-4o,GPT,not_reported,peer_reviewed,2024,Complex real-world clinical management queries (20 cases),medical specialty (mixed: paediatrics; paediatric endocrinology; paediatric gastroenterology; obstetric anaesthesiology),,101,36
+Idan_2025,R2931,Gemini 2.0,Gemini,not_reported,peer_reviewed,2024,Complex real-world clinical management queries (20 cases),medical specialty (mixed: paediatrics; paediatric endocrinology; paediatric gastroenterology; obstetric anaesthesiology),,26,8
+Idan_2025,R2931,Claude Sonnet 3.5,Claude,not_reported,peer_reviewed,2024,Complex real-world clinical management queries (20 cases),medical specialty (mixed: paediatrics; paediatric endocrinology; paediatric gastroenterology; obstetric anaesthesiology),,64,1
+Hack_2026,R3140,GPT-4.0,GPT,none,peer_reviewed,2023,"Chronic rhinosinusitis; infantile subglottic hemangioma (AI-generated review articles, narrative and PRISMA-style)",surgical specialty (otolaryngology),,77,0
+Hack_2026,R3140,Gemini 2.0,Gemini,none,peer_reviewed,2024,"Chronic rhinosinusitis; infantile subglottic hemangioma (AI-generated review articles, narrative and PRISMA-style)",surgical specialty (otolaryngology),,46,11
+Ohlsen_2026,R3191,ChatGPT (GPT-4o),GPT,not_reported,peer_reviewed,2024,Glenohumeral arthritis: patient questions based on AAOS clinical practice guideline recommendations,surgical specialty (orthopaedic surgery),,6,3
+Ohlsen_2026,R3191,Gemini (Gemini 2.5 Pro),Gemini,not_reported,peer_reviewed,2025,Glenohumeral arthritis: patient questions based on AAOS clinical practice guideline recommendations,surgical specialty (orthopaedic surgery),,32,0
+Lin_2025,R3432,GPT-4,GPT,not_reported,peer_reviewed,2023,Nephrology patient communication/education questions and renal biopsy report interpretation,medical specialty (nephrology),,101,0
+Pan_2026,R3578,DeepSeek-R1 (browsing),DeepSeek,retrieval,peer_reviewed,2025,"Gout nursing care (15 priority questions, posed in Chinese)",nursing and allied health,,25,4
+Pan_2026,R3578,ChatGPT-4.0 (browsing),GPT,retrieval,peer_reviewed,2023,"Gout nursing care (15 priority questions, posed in Chinese)",nursing and allied health,,23,0
+Eminovic_2026,R4081,DeepSeek-R1,DeepSeek,not_reported,peer_reviewed,2025,Neuroradiology academic writing (5 essays and 5 evidence-based Q&A tasks),radiology and imaging,,49,22
+Eminovic_2026,R4081,ChatGPT-o1,GPT,not_reported,peer_reviewed,2024,Neuroradiology academic writing (5 essays and 5 evidence-based Q&A tasks),radiology and imaging,,39,26
+Gwon_2024,R4142,ChatGPT (GPT-3.5),GPT,none,peer_reviewed,2022,Medical treatment of Peyronie disease (systematic literature search for RCTs),medical specialty (urology),,403,211
+Gwon_2024,R4142,"Bing AI (GPT-4, web search)",GPT,retrieval,peer_reviewed,2023,Medical treatment of Peyronie disease (systematic literature search for RCTs),medical specialty (urology),,48,0
+Blasingame_2025,R4234,GPT-4 via aiChat,GPT,none,peer_reviewed,2023,Clinicians' requests for evidence summaries (mixed clinical questions; 68.1% treatment-related),mixed biomedical,,162,102
+Zhu_2025,R4263,ChatGPT-4,GPT,none,peer_reviewed,2023,"Prevalence and incidence of common and rare diseases (pharmacoepidemiology; hypertension, diabetes, ALS, laryngeal cancer)",public health and epidemiology,,20,0
+Zhu_2025,R4263,Google Bard,other,retrieval,peer_reviewed,,"Prevalence and incidence of common and rare diseases (pharmacoepidemiology; hypertension, diabetes, ALS, laryngeal cancer)",public health and epidemiology,,65,9
+Bridges_2025,R4518,"ChatGPT-4 (Tree-of-Thought, expert panel size 2)",GPT,none,peer_reviewed,2023,"Differential diagnosis of 201 cases (NEJM and other cases, varied specialties)",mixed biomedical,,201,40
+Warren_2024,R5078,All four chatbots pooled (per-model citation counts not reported in the full text),other,not_reported,peer_reviewed,,Peyronie disease: patient FAQs and preoperative patient questions (prompted cohort),medical specialty (urology),,254,101
+Mikus_2024,R16144,ChatGPT GPT-4o,GPT,none,peer_reviewed,2024,established,pharmacology,,5,5

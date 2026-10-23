@@ -1,0 +1,1129 @@
+{
+ "R0003": {
+  "title": "A focused PubMed artificial intelligence search program creates better literature reviews than general purpose artificial intelligence and is comparable to trainees in shoulder and elbow surgery.",
+  "authors": "MacLeod James S; Lee Michael S; Baker Hayden; Serotte Jordan; Shi Lewis L; Maassen Nicholas H",
+  "year": "2026",
+  "journal": "JSES international",
+  "doi": "10.1097/jp9.0000000000000024"
+ },
+ "R0004": {
+  "title": "Comparing AI chat tools and PubMed for medical literature searches.",
+  "authors": "Ettien A'Llyn; Downing Kathleen; Drouhard Rebecca; Gunn Bridget; McNichol Megan; Silfen Kate; Tatarian Allie",
+  "year": "2026",
+  "journal": "Journal of the Medical Library Association : JMLA",
+  "doi": "10.1007/s13187-024-02547-1"
+ },
+ "R0015": {
+  "title": "The impact of colchicine treatment on long-term complications of familial Mediterranean fever since its introduction in 1972: an evaluation of artificial intelligence performance.",
+  "authors": "Ben-Chetrit Eli; Levin Phillip D; Ben-Chetrit Eldad",
+  "year": "2026",
+  "journal": "Clinical and experimental rheumatology",
+  "doi": "10.55563/clinexprheumatol/f2828p"
+ },
+ "R0028": {
+  "title": "Leveraging Artificial Intelligence Chatbot to Generate Cochlear Implant Insurance Appeal Letter.",
+  "authors": "Washington Caretia J; Lobo Brian C; Zeitler Daniel M; Hall Melissa; Braithwaite Dejana; Chen Si",
+  "year": "2026",
+  "journal": "Ear, nose, & throat journal",
+  "doi": "10.1177/01455613261480757"
+ },
+ "R0036": {
+  "title": "Open-source versus proprietary large language models for academic writing in medicine: A controlled evaluation of DeepSeek-R1 and ChatGPT-o1 in neuroradiology.",
+  "authors": "Eminovic Semil; Levita Bogdan; Schmidt Robin; Lindholz Maximilian; Desser Dmitriy; Penzkofer Tobias; Wattjes Mike P; Nawabi Jawed",
+  "year": "2026",
+  "journal": "Digital health",
+  "doi": "10.1186/s12967-025-06751-5"
+ },
+ "R0042": {
+  "title": "Evolution of generative artificial intelligence in clinical practice: comparative performance of OpenEvidence 2.0 and ChatGPT-4o.",
+  "authors": "Avrumova Fedan; Cesar Michael Dd; Loggia Giuseppe; Strebel Klemenz; Altorfer Franziska Cs; Castro Rafael I; Zhu Jiaqi; Abjornson Celeste; Bono Christopher M; Lebl Darren R",
+  "year": "2026",
+  "journal": "The spine journal : official journal of the North American Spine Society",
+  "doi": "10.1016/j.spinee.2026.08.002"
+ },
+ "R0047": {
+  "title": "Comparative evaluation of artificial intelligence-assisted literature search tools for identifying clinically meaningful evidence in cardiology.",
+  "authors": "Di Febo Riccardo; Jeanneret Medina Maximiliano; Renaud Alexandre; Dridi Maryam; Pecriaux Valentine; Lequeux Benoit; Lafitte Stephane; Maille Baptiste; Menet Aymeric",
+  "year": "2026",
+  "journal": "European heart journal. Digital health",
+  "doi": "10.1093/ehjdh/ztag125"
+ },
+ "R0059": {
+  "title": "Beyond text generation: a comprehensive evaluation of ChatGPT-5.5 for scientific narrative review writing on sleeve gastrectomy.",
+  "authors": "Calisir Akin; Sahin Mustafa; Turkoglu Fatih; Sener Sinan; Duyan Abdullah Gurhan; Alptekin Husnu",
+  "year": "2026",
+  "journal": "Updates in surgery",
+  "doi": "10.1016/j.hansur.2025.102225"
+ },
+ "R0071": {
+  "title": "Performance of 5 Large Language Models in Perioperative Consultation for Pediatric Hypospadias: Cross-Sectional Comparative Study.",
+  "authors": "Kang Ting; Yuan Chi; Hu Xinyu; Huang Wenjiao",
+  "year": "2026",
+  "journal": "Journal of medical Internet research",
+  "doi": "10.1038/s41591-022-01772-9"
+ },
+ "R0074": {
+  "title": "Blinded by the Bot: Benchmarking GPT and Gemini Against Human Authors in Otolaryngology Reviews.",
+  "authors": "Hack Sholem; Attal Rebecca; Nitro Letizia; Rosso Cecilia; Urbanelli Anastasia; Bulfamante Antonio Mario; Vaira Luigi Angelo; Ahmed Omar G; Takashima Masayoshi",
+  "year": "2026",
+  "journal": "World journal of otorhinolaryngology - head and neck surgery",
+  "doi": "10.1038/s41591-024-03425-5"
+ },
+ "R0078": {
+  "title": "The illusion of competence: Evaluating the clinical reasoning of large language models in pediatric gastroenterology.",
+  "authors": "Ergen Yasin Maruf; Teke Sel\u00e7uk; Ba\u015faran Edibe G\u00f6zde; Balamtekin Necati",
+  "year": "2026",
+  "journal": "Journal of pediatric gastroenterology and nutrition",
+  "doi": "10.1002/jpn3.70502"
+ },
+ "R0088": {
+  "title": "A comparative evaluation of large language models in diagnosis and treatment planning in restorative dentistry.",
+  "authors": "Teke Ebru \u0130rem; Bors\u00f6ken Ay\u015fenur G\u00fcng\u00f6r",
+  "year": "2026",
+  "journal": "BMC oral health",
+  "doi": "10.17219/dmp/211356"
+ },
+ "R0095": {
+  "title": "Preliminary evaluation of DeepSeek-R1 and GPT-5.3 in selected PET/CT clinical scenarios: patient preparation, report interpretation, and diagnostic reasoning.",
+  "authors": "Duan Runze; Pang Jing; Zheng Lu; Guo Ziyu; Li Tianyue; Bian Yanzhu; Hu Yujing",
+  "year": "2026",
+  "journal": "Frontiers in medicine",
+  "doi": "10.1609/aaai.v40i15.38288"
+ },
+ "R0104": {
+  "title": "Performance of large language models in interpreting evidence-based clinical guidelines for lumbar disc herniation with radiculopathy.",
+  "authors": "\u00d6zbek \u0130lhan Celil",
+  "year": "2026",
+  "journal": "European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society",
+  "doi": "10.2106/JBJS.23.00043"
+ },
+ "R0108": {
+  "title": "Artificial intelligence in the management of chronic pain and lipedema: A comparative analysis of ChatGPT-5o, Gemini-3, and perplexity AI in terms of readability and academic reliability.",
+  "authors": "\u00d6zbek \u0130lhan Celil; \u00d6zduran Erkan",
+  "year": "2026",
+  "journal": "Phlebology",
+  "doi": "10.1177/02683555261460252"
+ },
+ "R0112": {
+  "title": "Large Language Model Hallucinations in Spine Surgery: A Comparative Analysis of Clinician vs Patient-Level Prompts.",
+  "authors": "McLaughlin Nathan D; Srinivas Advika N; Lowe Zachary F; Botterbush Kathleen S; Patel Mayur S; Avila Mauricio J",
+  "year": "2026",
+  "journal": "Neurosurgery practice",
+  "doi": "10.1227/neuprac.0000000000000244"
+ },
+ "R0116": {
+  "title": "Large Language Model Responses to Common Otolaryngological Questions: Evaluating Accuracy, Appropriateness, Readability, and Hallucinations.",
+  "authors": "Sakharkar Mitali; Jalihal Parth; Chang Sarah; Patel Prachi; Chavez Melissa; Levi Jessica",
+  "year": "2026",
+  "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+  "doi": "10.2196/56764"
+ },
+ "R0119": {
+  "title": "Evaluation of ChatGPT-5-generated surgical literature: the accuracy of a review on penile prosthesis implantation.",
+  "authors": "Ok Fesih; Sukur Ibrahim Halil; G\u00fcl Murat; van Renterghem Koenraad",
+  "year": "2026",
+  "journal": "International journal of impotence research",
+  "doi": "10.21037/tau-23-277"
+ },
+ "R0123": {
+  "title": "Evaluating large language models for diagnostic reasoning from unstructured clinical narratives in epilepsy.",
+  "authors": "Dani Meghal; Prakash Muthu Jeyanthi; Rosa Filip; Akata Zeynep; Liebe Stefanie",
+  "year": "2026",
+  "journal": "Communications medicine",
+  "doi": "10.1186/s12883-018-1137-x"
+ },
+ "R0128": {
+  "title": "Evaluating retrieval-augmented generation for guideline-grounded textual planning in implant dentistry: A comparative study.",
+  "authors": "Chen Jinyan; Wang Feng",
+  "year": "2026",
+  "journal": "Journal of dentistry",
+  "doi": "10.1016/j.jdent.2026.106750"
+ },
+ "R0132": {
+  "title": "Comparative Analysis of Large Language Model Performance in Appropriate Diagnostic Imaging Modality Selection.",
+  "authors": "Rybczyk James R; Amin Kanhai S; Chamarty Varun; Fletcher Peyton; Melnick Edward R; Forman Howard P",
+  "year": "2026",
+  "journal": "Journal of the American College of Radiology : JACR",
+  "doi": "10.1016/j.jacr.2026.05.012"
+ },
+ "R0134": {
+  "title": "Decreasing Administrative Effort Related to Non-Approval of Image-guidED Procedures Using Large Language Models - The DENIED-AI Pilot Study.",
+  "authors": "McCarthy Colin J; Ramalingam Vijay; Barash Yiftach; Chadalavada Seetharam; Wu Xiao; Kutsenko Oleksandra; Raskin Daniel; Sorin Vera; Sarwar Ammar",
+  "year": "2026",
+  "journal": "Academic radiology",
+  "doi": "10.1016/j.acra.2026.04.021"
+ },
+ "R0136": {
+  "title": "Ai-generated personalized informed consent for elective spinal surgery: a comparative study using retrieval-augmented generation.",
+  "authors": "Kaplan Ali; Kaplan Beg\u00fcm Aslanta\u015f; Aydilek Ali; Solmaz \u0130lker; \u015eent\u00fcrk Salim",
+  "year": "2026",
+  "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+  "doi": "10.1016/j.jocn.2026.112075"
+ },
+ "R0138": {
+  "title": "Generative artificial intelligence in forensic medicine: a pilot study on AI-simulated medico-legal reports in healthcare liability cases.",
+  "authors": "Ministeri Federica; Esposito Massimiliano; Francaviglia Martina; Di Mauro Lucio; Pant\u00e8 Grazia Giulia; Salerno Monica; Pomara Cristoforo; Sessa Francesco",
+  "year": "2026",
+  "journal": "International journal of legal medicine",
+  "doi": "10.2174/2666484401666220819111603"
+ },
+ "R0140": {
+  "title": "Ask the Right Questions: Prompting Strategies Shape Large Language Model Performance on Biliary Tract Cancer Guideline Queries.",
+  "authors": "Li Chengpeng; Jia Wei-Wei; Ghanad Erfan; Gao Hui; Abdelhadi Schaima; Rei\u00dffelder Christoph; \u0218andra-Petrescu Flavius; Yang Cui",
+  "year": "2026",
+  "journal": "Digestive diseases (Basel, Switzerland)",
+  "doi": "10.1159/000551433"
+ },
+ "R0148": {
+  "title": "Generative artificial intelligence-driven chatbots and medical misinformation: an accuracy, referencing and readability audit.",
+  "authors": "Tiller Nicholas B; Marcon Alessandro R; Zenone Marco; Kidd Kristin E; Jeukendrup Asker E; Master Zubin; Caulfield Timothy",
+  "year": "2026",
+  "journal": "BMJ open",
+  "doi": "10.1038/s41591-025-04074-y"
+ },
+ "R0154": {
+  "title": "Benchmarking Large Language Models Against Web of Science: A Comparative Bibliometric Analysis on Panniculectomy.",
+  "authors": "Mangal Rohan; Jessup Mark; Desai Anshumi; Khandekar Archan; Prasad Soumil; Tadisina Kashyap Komarraju; Singh Devinder",
+  "year": "2026",
+  "journal": "Annals of plastic surgery",
+  "doi": "10.1097/SAP.0000000000004730"
+ },
+ "R0157": {
+  "title": "Artificial Intelligence as a Safeguard for Clinical Scientific Integrity: A Human-AI Hybrid Model for Medical Peer Review.",
+  "authors": "Dore Maria Pina; Merola Elettra; Lasaracina Giuseppe; Pes Giovanni Mario",
+  "year": "2026",
+  "journal": "Journal of clinical medicine",
+  "doi": "10.2196/46924"
+ },
+ "R0159": {
+  "title": "Harnessing Large Language Models in Neonatal Intraventricular Hemorrhage: Exploring Retrieval Augmented Generation Methodology for Prognostic Variable Discovery.",
+  "authors": "Arora Tanima; Beam Kristyn",
+  "year": "2026",
+  "journal": "American journal of perinatology",
+  "doi": "10.1055/a-2838-5446"
+ },
+ "R0161": {
+  "title": "Quality assessment of large language model-generated prior authorization letters in nephrology.",
+  "authors": "Aiumtrakul Noppawit; Thongprayoon Charat; Kookanok Chutawat; Poochanasri Methavee; Phichedwanichskul Kitinan; Cheungpasitporn Wisit",
+  "year": "2026",
+  "journal": "Frontiers in digital health",
+  "doi": "10.1093/ckj/sfag004"
+ },
+ "R0166": {
+  "title": "Performance of five large language models in oral and maxillofacial surgery exam questions: a comparative study.",
+  "authors": "Liu Lisi; Ma Ke; Wang Yansong",
+  "year": "2026",
+  "journal": "BMC oral health",
+  "doi": "10.1186/s12903-025-06444-x"
+ },
+ "R0168": {
+  "title": "Evaluating GPT-4 Responses on Scars or Keloids for Patient Education: Large Language Model Evaluation Study.",
+  "authors": "Rao Mingjun; Xiujun Tang; Haoyu Wang",
+  "year": "2026",
+  "journal": "JMIR medical informatics",
+  "doi": "10.48550/arXiv.2501.09775"
+ },
+ "R0175": {
+  "title": "Evolving Consultation: Enhancing Ophthalmic Diagnostic Performance Using Large Language Model.",
+  "authors": "Inooka Taiga; Ota Hikaru; Taki Yosuke; Yasuda Sayuri; Sajiki Ai Fujita; Suzumura Ayana; Shimizu Hideyuki; Takeuchi Jun; Tomita Ryo; Kominami Taro; Ushida Hiroaki; Yuki Kenya; Nishiguchi Koji M",
+  "year": "2026",
+  "journal": "Ophthalmology science",
+  "doi": "10.1016/j.xops.2025.101004"
+ },
+ "R0177": {
+  "title": "Testing the Implementation and Acceptance of Generative Artificial Intelligence to Augment Vascular Surgery Journal Club.",
+  "authors": "Puthumana Rhea; Liebscher Sean; Ferris Mead; Callas Peter; Bertges Daniel J",
+  "year": "2026",
+  "journal": "Journal of surgical education",
+  "doi": "10.1016/j.jsurg.2026.103884"
+ },
+ "R0183": {
+  "title": "Comparative evaluation of large language models for biotechnology review writing.",
+  "authors": "Muddana Charandatta; Wang Binbin; Sun Pei-Ti; Tang Yinjie J",
+  "year": "2026",
+  "journal": "Biotechnology advances",
+  "doi": "10.1016/j.biotechadv.2026.108814"
+ },
+ "R0185": {
+  "title": "Performance of large language models in preoperative and postoperative counselling for aesthetic facial procedures.",
+  "authors": "Frutuoso Maia Bruce Kepler; de Morais Everton Freitas; de Santana Santos Thiago; Charles Pagotto Lu\u00eds Eduardo",
+  "year": "2026",
+  "journal": "The British journal of oral & maxillofacial surgery",
+  "doi": "10.1016/j.bjoms.2026.01.002"
+ },
+ "R0186": {
+  "title": "ChatGPT-4o Mini Fabricates and Miscites Evidence for American Academy of Orthopaedic Surgeons Hip Fracture Clinical Practice Guidelines.",
+  "authors": "McCavitt David; Shabani Soroush; Mulakaluri Ashley; Dhandi Sahil; Duong Andrew; Patterson Joseph T",
+  "year": "2026",
+  "journal": "JB & JS open access",
+  "doi": "10.2106/JBJS.OA.25.00225"
+ },
+ "R0188": {
+  "title": "Evaluation of six large language models for study identification in an obstetric systematic review.",
+  "authors": "Somer Shmuel; Vardy Maia; Eisenberger Jonathan; Shapira Moran; Mehler Shoshana; Safrai Myriam",
+  "year": "2026",
+  "journal": "Minerva obstetrics and gynecology",
+  "doi": "10.23736/S2724-606X.25.05849-X"
+ },
+ "R0199": {
+  "title": "Assessment of ChatGPT-5 as an Artificial Intelligence Tool for Exploring Emerging Dimensions of Clinical Simulation: A Proof-of-concept Study.",
+  "authors": "Rios-Garcia Wagner; Silva-Jim\u00e9nez Sashenka; G\u00e1lvez-Rodr\u00edguez Estefani; Alberca-Naira Yerson; Via-Y-Rada-Torres Abigail D; Rios-Garcia Alondra A",
+  "year": "2026",
+  "journal": "Journal of medical systems",
+  "doi": "10.1007/s10916-025-02334-5"
+ },
+ "R0200": {
+  "title": "Can Large Language Models Be a Viable Tool for Consensus Working Groups? Experience of the Ventral Rectopexy Expert Consensus Group.",
+  "authors": "Lee Frank G; Larson Ellen L; Vermunt Jane V; Thiels Cornelius A; Christensen Peter; Collinson Rowan J; Cornish Julie A; D'Hoore Andre; Gurland Brooke H; Mellgren Anders; Ratto Carlo; Ris Frederic; Stevenson Andrew R L; Bordeianou Liliana G; Perry William R G; Ventral Rectopexy Consensus AI Group and the Ventral Rectopexy Working Group",
+  "year": "2026",
+  "journal": "Diseases of the colon and rectum",
+  "doi": "10.1097/DCR.0000000000004058"
+ },
+ "R0201": {
+  "title": "Comparing the performance of four mainstream large language models on medical literature review generation: a human expert evaluation in SMILE surgery.",
+  "authors": "Zhou Mengyun; Gui Fu; Ai Chong; Ling Ling; Zhang Xian; Lu Yalin; Han Dongmei; Zhao Bin; Zhong Fei; Liu Jie; Zhu Zeyu; Li Jiayu; Huang Fei; Lin Chuyang; Liu Weifeng; Xiong Jian",
+  "year": "2026",
+  "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+  "doi": "10.1001/jamaophthalmol.2025.3153"
+ },
+ "R0209": {
+  "title": "Artificial intelligence reliability in implant dentistry: A comparative analysis of clinical accuracy and hallucination patterns across multiple language models.",
+  "authors": "Hooshiar Mohammad Hosseini",
+  "year": "2026",
+  "journal": "The Journal of prosthetic dentistry",
+  "doi": "10.1016/j.prosdent.2025.11.005"
+ },
+ "R0211": {
+  "title": "The Role of Artificial Intelligence Large Language Models in Literature Search Assistance to Evaluate the Impact of Smoking Inguinal and Ventral Hernia Repairs: A Post-Hoc Analysis.",
+  "authors": "Kasakewitch Joao Pedro; Eguchi Marina; Perim Victor; Lech Gabriele Eckerdt; Balthazar Carlos; Nogueira Raquel; Malcher Flavio; Lima Diego L",
+  "year": "2026",
+  "journal": "Journal of laparoendoscopic & advanced surgical techniques. Part A",
+  "doi": "10.1177/10926429251393122"
+ },
+ "R0212": {
+  "title": "Evaluating the Performance of DeepSeek-R1 as a Patient Education Tool.",
+  "authors": "Hu Jiating; Wang Junnan; He Lu; Qiu Zhiqing; Sun Shangxue; Peng Fei",
+  "year": "2025",
+  "journal": "Journal of medical systems",
+  "doi": "10.1007/s10916-025-02282-0"
+ },
+ "R0214": {
+  "title": "Evaluating the performance of large language models versus human researchers on real world complex medical queries.",
+  "authors": "Idan Daphna; Ben-Shitrit Itamar; Volevich Mark; Binyamin Yair; Nassar Raouf; Nassar Majd; Abelson Nitzan; Zlotnik Alexander; Einav Sharon",
+  "year": "2025",
+  "journal": "Scientific reports",
+  "doi": "10.1007/s10916-023-01925-4"
+ },
+ "R0219": {
+  "title": "What does ChatGPT know about Migraine? A comparative-descriptive analysis.",
+  "authors": "Garcia Lucas Bernardi; Ferreira Ana J\u00falia; Hussein Mohamad Ali; Kowacs Pedro Andr\u00e9",
+  "year": "2025",
+  "journal": "Cephalalgia : an international journal of headache",
+  "doi": "10.1177/03331024251387684"
+ },
+ "R0225": {
+  "title": "The Utility of ChatGPT for Assisting Patients with Study Preparation and Report Interpretation of Myocardial Viability Scintigraphy: Exploring the Future of AI-driven Patient Comprehension in Nuclear Medicine.",
+  "authors": "Mishra Malay; Taywade Sameer; Kumar Rajesh",
+  "year": "2025",
+  "journal": "Indian journal of nuclear medicine : IJNM : the official journal of the Society of Nuclear Medicine, India",
+  "doi": "10.4103/ijnm.ijnm_76_25"
+ },
+ "R0226": {
+  "title": "Enhancing Large Language Models with Domain-specific Retrieval Augment Generation: A Case Study on Long-form Consumer Health Question Answering in Ophthalmology.",
+  "authors": "Gilson Aidan; Ai Xuguang; Arunachalam Thilaka; Chen Ziyou; Cheong Ki Xiong; Dave Amisha; Duic Cameron; Kibe Mercy; Kaminaka Annette; Prasad Minali; Siddig Fares; Singer Maxwell; Wong Wendy; Jin Qiao; Keenan Tiarnan D L; Hu Xia; Chew Emily Y; Lu Zhiyong; Xu Hua; Adelman Ron A; Tham Yih-Chung; Chen Qingyu",
+  "year": "2024",
+  "journal": "ArXiv",
+  "doi": ""
+ },
+ "R0228": {
+  "title": "Referential hallucination and clinical reliability in large language models: a comparative analysis using regenerative medicine guidelines for chronic pain.",
+  "authors": "Kuculmez Ozlem; Usen Ahmet; Ahi Emine D\u00fcndar",
+  "year": "2025",
+  "journal": "Rheumatology international",
+  "doi": "10.1007/s00296-025-05996-z"
+ },
+ "R0230": {
+  "title": "Integrating generative AI in perinatology: applications for literature review.",
+  "authors": "Ayala-Y\u00e1\u00f1ez Rodrigo; Gr\u00fcnebaum Amos; Chervenak Frank A",
+  "year": "2026",
+  "journal": "Journal of perinatal medicine",
+  "doi": "10.3389/fmed.2025.1505450"
+ },
+ "R0231": {
+  "title": "Can Chatbots Provide Accurate and Readable Information for Patients With Temporomandibular Disorders?",
+  "authors": "Pagotto Lu\u00eds Eduardo Charles; Almeida Dennys Ramon de Melo Fernandes; de Santana Santos Thiago; de Morais Everton Freitas",
+  "year": "2025",
+  "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+  "doi": "10.1016/j.joms.2025.08.012"
+ },
+ "R0250": {
+  "title": "Computerized diagnostic decision support systems-Isabel Pro versus ChatGPT-4 part II.",
+  "authors": "Bridges Joe M; Jiang Xiaoqian; Ige Michael; Toyobo Oluwatoniloba",
+  "year": "2025",
+  "journal": "JAMIA open",
+  "doi": "10.1515/dx-2024-0033/html"
+ },
+ "R0264": {
+  "title": "An Assessment of the Accuracy and Consistency of ChatGPT in the Management of Midshaft Clavicle Fractures.",
+  "authors": "Knee Christopha J; Campbell Ryan J; Sivakumar Brahman S; Symes Michael J",
+  "year": "2025",
+  "journal": "Cureus",
+  "doi": "10.7759/cureus.81906"
+ },
+ "R0265": {
+  "title": "Using ChatGPT to write a literature review on autologous fat grafting.",
+  "authors": "Manley Kate; Salingaros Sophia; Fuchsman Abby Chopoorian; Dong Xue; Spector Jason A",
+  "year": "2025",
+  "journal": "Journal of plastic, reconstructive & aesthetic surgery : JPRAS",
+  "doi": "10.1016/j.bjps.2025.04.015"
+ },
+ "R0266": {
+  "title": "Performance of Large Language Models (ChatGPT and Gemini Advanced) in Gastrointestinal Pathology and Clinical Review of Applications in Gastroenterology.",
+  "authors": "Jain Swachi; Chakraborty Baidarbhi; Agarwal Ashish; Sharma Rashi",
+  "year": "2025",
+  "journal": "Cureus",
+  "doi": "10.7759/cureus.81618"
+ },
+ "R0267": {
+  "title": "Specialized Large Language Model Outperforms Neurologists at Complex Diagnosis in Blinded Case-Based Evaluation.",
+  "authors": "Barrit Sami; Torcida Nathan; Mazeraud Aurelien; Boulogne Sebastien; Benoit Jeanne; Carette Timoth\u00e9e; Carron Thibault; Delsaut Bertil; Diab Eva; Kermorvant Hugo; Maarouf Adil; Maldonado Slootjes Sofia; Redon Sylvain; Robin Alexis; Hadidane Sofiene; Harlay Vincent; Tota Vito; Madec Tanguy; Niset Alexandre; Al Barajraji Mejdeddine; Madsen Joseph R; El Hadwe Salim; Massager Nicolas; Lagarde Stanislas; Carron Romain",
+  "year": "2025",
+  "journal": "Brain sciences",
+  "doi": "10.1186/1750-1172-6-68"
+ },
+ "R0270": {
+  "title": "Thyro-GenAI: A Chatbot Using Retrieval-Augmented Generative Models for Personalized Thyroid Disease Management.",
+  "authors": "Shin Minjeong; Song Junho; Kim Myung-Gwan; Yu Hyeong Won; Choe Eun Kyung; Chai Young Jun",
+  "year": "2025",
+  "journal": "Journal of clinical medicine",
+  "doi": "10.1177/08404704231182671"
+ },
+ "R0274": {
+  "title": "Eligibility for eCPR Warming in Hypothermic Cardiac Arrest: Lack of Guidelines and the Current Constraints of Artificial Intelligence in Clinical Decision-Making.",
+  "authors": "Pluta Micha\u0142 P; Darocha Tomasz; Pasternak Micha\u0142; Pasquier Mathieu; Mendrala Konrad; Goco\u0142 Rados\u0142aw; Kosi\u0144ski Sylweriusz",
+  "year": "2025",
+  "journal": "Artificial organs",
+  "doi": "10.1111/aor.14993"
+ },
+ "R0275": {
+  "title": "Retrieval Augmented Therapy Suggestion for Molecular Tumor Boards: Algorithmic Development and Validation Study.",
+  "authors": "Berman Eliza; Sundberg Malek Holly; Bitzer Michael; Malek Nisar; Eickhoff Carsten",
+  "year": "2025",
+  "journal": "Journal of medical Internet research",
+  "doi": "10.18653/v1/2021.emnlp-main.243"
+ },
+ "R0276": {
+  "title": "The double-edged sword of generative AI: surpassing an expert or a deceptive \"false friend\"?",
+  "authors": "Altorfer Franziska C S; Kelly Michael J; Avrumova Fedan; Rohatgi Varun; Zhu Jiaqi; Bono Christopher M; Lebl Darren R",
+  "year": "2025",
+  "journal": "The spine journal : official journal of the North American Spine Society",
+  "doi": "10.1016/j.spinee.2025.02.010"
+ },
+ "R0277": {
+  "title": "Investigating the Accuracy and Consistency of ChatGPT in the Management of Achilles Tendon Ruptures.",
+  "authors": "Knee Christopha J; Campbell Ryan J; Sivakumar Brahman S; Wines Andrew; Symes Michael J",
+  "year": "2025",
+  "journal": "Cureus",
+  "doi": "10.7759/cureus.78433"
+ },
+ "R0280": {
+  "title": "A Review of ChatGPT as a Reliable Source of Scientific Information Regarding Endodontic Local Anesthesia.",
+  "authors": "Reader Al; Drum Melissa",
+  "year": "2025",
+  "journal": "Journal of endodontics",
+  "doi": "10.1016/j.joen.2025.02.002"
+ },
+ "R0282": {
+  "title": "Evaluating the Accuracy of Responses by Large Language Models for Information on Disease Epidemiology.",
+  "authors": "Zhu Kexin; Zhang Jiajie; Klishin Anton; Esser Mario; Blumentals William A; Juhaeri Juhaeri; Jouquelet-Royer Corinne; Sinnott Sarah-Jo",
+  "year": "2025",
+  "journal": "Pharmacoepidemiology and drug safety",
+  "doi": "10.1053/j.gastro.2023.08.033"
+ },
+ "R0289": {
+  "title": "Can ChatGPT help patients understand radiopharmaceutical extravasations?",
+  "authors": "Alvarez Madeleine",
+  "year": "2024",
+  "journal": "Frontiers in nuclear medicine",
+  "doi": "10.3389/fnume.2023.1244660"
+ },
+ "R0290": {
+  "title": "[Not Available].",
+  "authors": "Fiordelisi Marisa; Masucci Simona; Bianco Alessandra; Bellero Marco; Toma Diana; Campo Nicoletta; Zichi Clizia; Marino Donatella; Sperti Elisa; Valabrega Giorgio; Cena Clara; Fazzina Giovanna; Gasco Annalisa",
+  "year": "2024",
+  "journal": "Recenti progressi in medicina",
+  "doi": "10.1701/4365.43601"
+ },
+ "R0294": {
+  "title": "Testing the Ability and Limitations of ChatGPT to Generate Differential Diagnoses from Transcribed Radiologic Findings.",
+  "authors": "Sun Shawn H; Huynh Kenneth; Cortes Gillean; Hill Robert; Tran Julia; Yeh Leslie; Ngo Amanda L; Houshyar Roozbeh; Yaghmai Vahid; Tran Mark",
+  "year": "2024",
+  "journal": "Radiology",
+  "doi": "10.1148/radiol.232346"
+ },
+ "R0295": {
+  "title": "AI-generated vs. student-crafted assignments and implications for evaluating student work in nursing: an exploratory reflection.",
+  "authors": "Metersky Kateryna; Chandrasekaran Kaveenaa; Rahman Rezwana; Haider Murtaza; Al-Hamad Areej",
+  "year": "2024",
+  "journal": "International journal of nursing education scholarship",
+  "doi": "10.1136/bmj.p1862"
+ },
+ "R0304": {
+  "title": "Improving accuracy of GPT-3/4 results on biomedical data using a retrieval-augmented language model.",
+  "authors": "Soong David; Sridhar Sriram; Si Han; Wagner Jan-Samuel; S\u00e1 Ana Caroline Costa; Yu Christina Y; Karagoz Kubra; Guan Meijian; Kumar Sanyam; Hamadeh Hisham; Higgs Brandon W",
+  "year": "2024",
+  "journal": "PLOS digital health",
+  "doi": "10.3389/fsurg.2022.862322"
+ },
+ "R0305": {
+  "title": "ChatGPT as Research Scientist: Probing GPT's capabilities as a Research Librarian, Research Ethicist, Data Generator, and Data Predictor.",
+  "authors": "Lehr Steven A; Caliskan Aylin; Liyanage Suneragiri; Banaji Mahzarin R",
+  "year": "2024",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "doi": "10.1073/pnas.2404328121"
+ },
+ "R0307": {
+  "title": "Evaluating the Efficacy of ChatGPT as a Patient Education Tool in Prostate Cancer: Multimetric Assessment.",
+  "authors": "Gibson Damien; Jackson Stuart; Shanmugasundaram Ramesh; Seth Ishith; Siu Adrian; Ahmadi Nariman; Kam Jonathan; Mehan Nicholas; Thanigasalam Ruban; Jeffery Nicola; Patel Manish I; Leslie Scott",
+  "year": "2024",
+  "journal": "Journal of medical Internet research",
+  "doi": "10.1002/pon.5158"
+ },
+ "R0310": {
+  "title": "LASIK Versus PRK Based on Increased Risk of Corneal Haze: Assessing Current Decision-Making Capabilities of Six Artificial Intelligence Models in Refractive Surgery.",
+  "authors": "Moshirfar Majid; Moin Kayvon A; Omidvarnia Soroush; Moulton Spencer D; Willey Preston B; Stoakes Isabella M; Hoopes Phillip C",
+  "year": "2024",
+  "journal": "Journal of refractive surgery (Thorofare, N.J. : 1995)",
+  "doi": "10.3928/1081597X-20240611-05"
+ },
+ "R0312": {
+  "title": "Appropriateness of ChatGPT as a resource for medication-related questions.",
+  "authors": "Grossman Sara; Zerilli Tina; Nathan Joseph P",
+  "year": "2024",
+  "journal": "British journal of clinical pharmacology",
+  "doi": "10.1111/bcp.16212"
+ },
+ "R0314": {
+  "title": "A Reliable and Accessible Caregiving Language Model (CaLM) to Support Tools for Caregivers: Development and Evaluation Study.",
+  "authors": "Parmanto Bambang; Aryoyudanta Bayu; Soekinto Timothius Wilbert; Setiawan I Made Agus; Wang Yuhan; Hu Haomin; Saptono Andi; Choi Yong Kyung",
+  "year": "2024",
+  "journal": "JMIR formative research",
+  "doi": "10.1016/j.patter.2021.100347"
+ },
+ "R0315": {
+  "title": "Current Strengths and Weaknesses of ChatGPT as a Resource for Radiation Oncology Patients and Providers.",
+  "authors": "Floyd Warren; Kleber Troy; Carpenter David J; Pasli Melisa; Qazi Jamiluddin; Huang Christina; Leng Jim; Ackerson Bradley G; Pierpoint Matthew; Salama Joseph K; Boyer Matthew J",
+  "year": "2024",
+  "journal": "International journal of radiation oncology, biology, physics",
+  "doi": "10.1016/j.ijrobp.2023.10.020"
+ },
+ "R0316": {
+  "title": "An evaluation of ChatGPT and Bard (Gemini) in the context of biological knowledge retrieval.",
+  "authors": "Caspi Ron; Karp Peter D",
+  "year": "2024",
+  "journal": "Access microbiology",
+  "doi": "10.48550/arXiv.2211.09085"
+ },
+ "R0317": {
+  "title": "Examining the role of ChatGPT in the management of distal radius fractures: insights into its accuracy and consistency.",
+  "authors": "Knee Christopha J; Campbell Ryan J; Graham David J; Handford Cameron; Symes Michael; Sivakumar Brahman S",
+  "year": "2024",
+  "journal": "ANZ journal of surgery",
+  "doi": "10.1111/ans.19143"
+ },
+ "R0323": {
+  "title": "The Use of Generative AI for Scientific Literature Searches for Systematic Reviews: ChatGPT and Microsoft Bing AI Performance Evaluation.",
+  "authors": "Gwon Yong Nam; Kim Jae Heon; Chung Hyun Soo; Jung Eun Jee; Chun Joey; Lee Serin; Shim Sung Ryul",
+  "year": "2024",
+  "journal": "JMIR medical informatics",
+  "doi": "10.1001/jama.2023.5321"
+ },
+ "R0325": {
+  "title": "Evaluating the diagnostic performance of a large language model-powered chatbot for providing immunohistochemistry recommendations in dermatopathology.",
+  "authors": "McCrary Myles R; Galambus Justine; Chen Wei-Shen",
+  "year": "2024",
+  "journal": "Journal of cutaneous pathology",
+  "doi": "10.1111/cup.14631"
+ },
+ "R0328": {
+  "title": "Computerized diagnostic decision support systems\u00a0- a comparative performance study of Isabel Pro vs. ChatGPT4.",
+  "authors": "Bridges Joe M",
+  "year": "2024",
+  "journal": "Diagnosis (Berlin, Germany)",
+  "doi": "10.2196/48568"
+ },
+ "R0332": {
+  "title": "Utilizing artificial intelligence in academic writing: an in-depth evaluation of a scientific review on fertility preservation written by ChatGPT-4.",
+  "authors": "Safrai Myriam; Orwig Kyle E",
+  "year": "2024",
+  "journal": "Journal of assisted reproduction and genetics",
+  "doi": "10.1007/s13758-012-0063-5"
+ },
+ "R0335": {
+  "title": "Performance of AI chatbots on controversial topics in oral medicine, pathology, and radiology.",
+  "authors": "Mohammad-Rahimi Hossein; Khoury Zaid H; Alamdari Mina Iranparvar; Rokhshad Rata; Motie Parisa; Parsa Azin; Tavares Tiffany; Sciubba James J; Price Jeffery B; Sultan Ahmed S",
+  "year": "2024",
+  "journal": "Oral surgery, oral medicine, oral pathology and oral radiology",
+  "doi": "10.1016/j.oooo.2024.01.015"
+ },
+ "R0339": {
+  "title": "Appropriateness of Artificial Intelligence Chatbots in Diabetic Foot Ulcer Management.",
+  "authors": "Shiraishi Makoto; Lee Haesu; Kanayama Koji; Moriwaki Yuta; Okazaki Mutsumi",
+  "year": "2026",
+  "journal": "The international journal of lower extremity wounds",
+  "doi": "10.1177/15347346241236811"
+ },
+ "R0341": {
+  "title": "Use of AI Language Engine ChatGPT 4.0 to Write a Scientific Review Article Examining the Intersection of Alzheimer's Disease and Bone.",
+  "authors": "Margetts Tyler J; Karnik Sonali J; Wang Hannah S; Plotkin Lilian I; Oblak Adrian L; Fehrenbacher Jill C; Kacena Melissa A; Movila Alexandru",
+  "year": "2024",
+  "journal": "Current osteoporosis reports",
+  "doi": "10.1007/s11914-023-00853-z"
+ },
+ "R0343": {
+  "title": "Evaluating ChatGPT Responses on Thyroid Nodules for Patient Education.",
+  "authors": "Campbell Daniel J; Estephan Leonard E; Sina Elliott M; Mastrolonardo Eric V; Alapati Rahul; Amin Dev R; Cottrill Elizabeth E",
+  "year": "2024",
+  "journal": "Thyroid : official journal of the American Thyroid Association",
+  "doi": "10.1089/thy.2023.0491"
+ },
+ "R0344": {
+  "title": "Navigating the Landscape of Personalized Medicine: The Relevance of ChatGPT, BingChat, and Bard AI in Nephrology Literature Searches.",
+  "authors": "Aiumtrakul Noppawit; Thongprayoon Charat; Suppadungsuk Supawadee; Krisanapan Pajaree; Miao Jing; Qureshi Fawad; Cheungpasitporn Wisit",
+  "year": "2023",
+  "journal": "Journal of personalized medicine",
+  "doi": "10.3390/healthcare11182518"
+ },
+ "R0347": {
+  "title": "Artificial Intelligence-Generated Scientific Literature: A Critical Appraisal.",
+  "authors": "Zybaczynska Justyna; Norris Matthew; Modi Sunjay; Brennan Jennifer; Jhaveri Pooja; Craig Timothy J; Al-Shaikhly Taha",
+  "year": "2024",
+  "journal": "The journal of allergy and clinical immunology. In practice",
+  "doi": "10.1016/j.jaip.2023.10.010"
+ },
+ "R0351": {
+  "title": "Examining the Validity of ChatGPT in Identifying Relevant Nephrology Literature: Findings and Implications.",
+  "authors": "Suppadungsuk Supawadee; Thongprayoon Charat; Krisanapan Pajaree; Tangpanithandee Supawit; Garcia Valencia Oscar; Miao Jing; Mekraksakit Poemlarp; Kashani Kianoush; Cheungpasitporn Wisit",
+  "year": "2023",
+  "journal": "Journal of clinical medicine",
+  "doi": "10.1590/0102-672020230002e1727"
+ },
+ "R0353": {
+  "title": "The utility of ChatGPT in the assessment of literature on the prevention of migraine: an observational, qualitative study.",
+  "authors": "Moskatel Leon S; Zhang Niushen",
+  "year": "2023",
+  "journal": "Frontiers in neurology",
+  "doi": "10.2337/dci20-0044"
+ },
+ "R0357": {
+  "title": "ChatGPT in head and neck scientific writing: A precautionary anecdote.",
+  "authors": "Wu Robin T; Dang Rushil R",
+  "year": "2023",
+  "journal": "American journal of otolaryngology",
+  "doi": "10.1016/j.amjoto.2023.103980"
+ },
+ "R0360": {
+  "title": "Evaluation of the Artificial Intelligence Chatbot on Breast Reconstruction and Its Efficacy in Surgical Research: A Case Study.",
+  "authors": "Xie Yi; Seth Ishith; Rozen Warren M; Hunter-Smith David J",
+  "year": "2023",
+  "journal": "Aesthetic plastic surgery",
+  "doi": "10.1038/d41586-018-06617-5"
+ },
+ "R0367": {
+  "title": "A comparison of ChatGPT-generated articles with human-written articles.",
+  "authors": "Ariyaratne Sisith; Iyengar Karthikeyan P; Nischal Neha; Chitti Babu Naparla; Botchu Rajesh",
+  "year": "2023",
+  "journal": "Skeletal radiology",
+  "doi": "10.1007/s00256-023-04340-5"
+ },
+ "R0561": {
+  "title": "Examining the Reliability of ChatGPT",
+  "authors": "Jan Rosy",
+  "year": "2024",
+  "journal": "Advances in Educational Technologies and Instructional Design Impacts of Generative AI on the Future of Research and Education",
+  "doi": "10.4018/979-8-3693-0884-4.ch014"
+ },
+ "R0784": {
+  "title": "ChatGPT Compared With Google Bard: Which Large Language Model Responds Best to Commonly Asked Pregnancy Questions? [ID 2683501]",
+  "authors": "Khromchenko Keren; Shaikh Sameeha S.; Singh Meghana; Vurture Gregory; Rana Rima; Baum Jonathan",
+  "year": "2024",
+  "journal": "Obstetrics &amp; Gynecology",
+  "doi": "10.1097/01.aog.0001013796.80431.de"
+ },
+ "R0900": {
+  "title": "Evaluating the accuracy of ChatGPT in scientific writing",
+  "authors": "FERROUHI El Mehdi",
+  "year": "2023",
+  "journal": "Springer Science and Business Media LLC",
+  "doi": "10.21203/rs.3.rs-2899056/v1"
+ },
+ "R1031": {
+  "title": "1133\u2003Evaluating the Accuracy, Variation, And Sources of Large Language Model Responses to Patient Questions in Neurosurgery: An Assessment of Popular Large Language Models and Emerging Platforms",
+  "authors": "O'Malley Geoffrey R.; Sarwar Syed; Kazarian Edgar; Chan Amber; Kilgallon John; Ali Mir; Cazorla-Morales Ilona; Goldstein Ira M.; Patel Nitesh Vijay",
+  "year": "2025",
+  "journal": "Neurosurgery",
+  "doi": "10.1227/neu.0000000000003360_1133"
+ },
+ "R1355": {
+  "title": "Large Language Model Responses to Common Otolaryngological Questions: Evaluating Accuracy, Appropriateness, Readability, and Hallucinations",
+  "authors": "Sakharkar Mitali; Jalihal Parth; Chang Sarah; Patel Prachi; Chavez Melissa; Levi Jessica",
+  "year": "2026",
+  "journal": "Otolaryngology\u2013Head and Neck Surgery",
+  "doi": "10.1002/ohn.70309"
+ },
+ "R2124": {
+  "title": "ChatGPT Hallucinates when Attributing Answers",
+  "authors": "Guido Zuccon; Bevan Koopman; Razia S. Shaik",
+  "year": "2023",
+  "journal": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP)",
+  "doi": "10.1145/3624918.3625329"
+ },
+ "R2196": {
+  "title": "A comparative evaluation of large language models in diagnosis and treatment planning in restorative dentistry.",
+  "authors": "Teke E\u0130, Bors\u00f6ken AG.",
+  "year": "2026",
+  "journal": "BMC oral health",
+  "doi": "10.1186/s12903-026-09154-0"
+ },
+ "R2282": {
+  "title": "Performance of 5 Large Language Models in Perioperative Consultation for Pediatric Hypospadias: Cross-Sectional Comparative Study.",
+  "authors": "Kang T, Yuan C, Hu X, Huang W.",
+  "year": "2026",
+  "journal": "Journal of medical Internet research",
+  "doi": "10.2196/93393"
+ },
+ "R2314": {
+  "title": "Evaluating GPT-4 Responses on Scars or Keloids for Patient Education: Large Language Model Evaluation Study.",
+  "authors": "Rao M, Xiujun T, Haoyu W.",
+  "year": "2026",
+  "journal": "JMIR medical informatics",
+  "doi": "10.2196/78838"
+ },
+ "R2352": {
+  "title": "Comparing the performance of four mainstream large language models on medical literature review generation: a human expert evaluation in SMILE surgery.",
+  "authors": "Zhou M, Gui F, Ai C, Ling L, Zhang X, Lu Y, Han D, Zhao B, Zhong F, Liu J, Zhu Z, Li J, Huang F, Lin C, Liu W, Xiong J.",
+  "year": "2026",
+  "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+  "doi": "10.1007/s00417-025-07092-1"
+ },
+ "R2492": {
+  "title": "The Performance of DeepSeek R1 and Gemini 3 in Complex Medical Scenarios: Comparative Study.",
+  "authors": "Bajwa M, Hoyt R, Knight D, Haider M.",
+  "year": "2026",
+  "journal": "JMIRx med",
+  "doi": "10.2196/76822"
+ },
+ "R2551": {
+  "title": "Performance of five large language models in oral and maxillofacial surgery exam questions: a comparative study.",
+  "authors": "Liu L, Ma K, Wang Y.",
+  "year": "2026",
+  "journal": "BMC oral health",
+  "doi": "10.1186/s12903-026-08041-y"
+ },
+ "R2620": {
+  "title": "Comparing AI chat tools and PubMed for medical literature searches.",
+  "authors": "Ettien A, Downing K, Drouhard R, Gunn B, McNichol M, Silfen K, Tatarian A.",
+  "year": "2026",
+  "journal": "Journal of the Medical Library Association : JMLA",
+  "doi": "10.5195/jmla.2026.2284"
+ },
+ "R2837": {
+  "title": "Quality assessment of large language model-generated prior authorization letters in nephrology.",
+  "authors": "Aiumtrakul N, Thongprayoon C, Kookanok C, Poochanasri M, Phichedwanichskul K, Cheungpasitporn W.",
+  "year": "2026",
+  "journal": "Frontiers in digital health",
+  "doi": "10.3389/fdgth.2026.1767648"
+ },
+ "R2931": {
+  "title": "Evaluating the performance of large language models versus human researchers on real world complex medical queries.",
+  "authors": "Idan D, Ben-Shitrit I, Volevich M, Binyamin Y, Nassar R, Nassar M, Abelson N, Zlotnik A, Einav S.",
+  "year": "2025",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-025-21689-w"
+ },
+ "R3037": {
+  "title": "Assessing Large Language Models for Early Article Identification in Otolaryngology-Head and Neck Surgery Systematic Reviews.",
+  "authors": "Bakare AB, Lee Y, Hong J, Richter CP, Kuriakose JP.",
+  "year": "2026",
+  "journal": "Health care science",
+  "doi": "10.1002/hcs2.70048"
+ },
+ "R3140": {
+  "title": "Blinded by the Bot: Benchmarking GPT and Gemini Against Human Authors in Otolaryngology Reviews.",
+  "authors": "Hack S, Attal R, Nitro L, Rosso C, Urbanelli A, Bulfamante AM, Vaira LA, Ahmed OG, Takashima M.",
+  "year": "2026",
+  "journal": "World journal of otorhinolaryngology - head and neck surgery",
+  "doi": "10.1002/wjo2.70131"
+ },
+ "R3191": {
+  "title": "Do ChatGPT and Gemini provide accurate answers to patient questions about glenohumeral arthritis?",
+  "authors": "Ohlsen SM, Pirkle SB, Yang J, Gee AO, Hsu JE.",
+  "year": "2026",
+  "journal": "JSES reviews, reports, and techniques",
+  "doi": "10.1016/j.xrrt.2026.100715"
+ },
+ "R3213": {
+  "title": "Using Large Language Models to Address Contextual Questions in Systematic Reviews.",
+  "authors": "Hempel S, Sysawang K, Holmer HK, Tokutomi E, Iyer S, Wang Z, Kuhn E, Murad MH.",
+  "year": "2026",
+  "journal": "Cochrane evidence synthesis and methods",
+  "doi": "10.1002/cesm.70060"
+ },
+ "R3257": {
+  "title": "Paediatric rare diseases: Can large language models assist off-label prescribing?",
+  "authors": "Flamigni A, Zamagni G, Paternuosto G, Arbo A.",
+  "year": "2025",
+  "journal": "British journal of clinical pharmacology",
+  "doi": "10.1002/bcp.70168"
+ },
+ "R3355": {
+  "title": "Can a Large Language Model Serve as the Missing Second Reviewer? Prominence Bias, Retrieval Effects, and a Confidence-Fabrication Gap in an Empirical Evaluation of Two Published Meta-Analyses",
+  "authors": "Fontelo P.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.21203/rs.3.rs-10475119/v1"
+ },
+ "R3413": {
+  "title": "Performance of large language models in interpreting evidence-based clinical guidelines for lumbar disc herniation with radiculopathy.",
+  "authors": "\u00d6zbek \u0130C.",
+  "year": "2026",
+  "journal": "European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society",
+  "doi": "10.1007/s00586-026-10069-1"
+ },
+ "R3432": {
+  "title": "Evaluation of generative AI assistance in clinical nephrology: Assessing GPT-4, GPT-4o, Gemini 1.0 Ultra, and PaLM 2 in patient interaction and renal biopsy interpretation.",
+  "authors": "Lin SY, Jiang CC, Law KM, Yeh PC, Tsai MK, Chou CL, Wang IK, Ting IW, Chen YW, Chou CY, Hsieh MH, Pan HC, Hsieh SL, Chiu CH, Lee PW, Hong YC, Hsu YY, Kuo HL, Ju SW, Kao CH.",
+  "year": "2025",
+  "journal": "Digital health",
+  "doi": "10.1177/20552076251342067"
+ },
+ "R3464": {
+  "title": "Evaluating Large Language Models as Tools to Navigate Researchers in Rapidly Evolving Research Landscapes: A Case Study in Cancer Drug Response Prediction",
+  "authors": "Mourelatou E, Katakis I.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.64898/2026.09.02.748827"
+ },
+ "R3495": {
+  "title": "Do ChatGPT and Gemini Provide Appropriate Recommendations for Anterior Cruciate Ligament and Isolated Meniscal Injuries?",
+  "authors": "Ohlsen SM, Pirkle SB, Yang J, Gee AO.",
+  "year": "2025",
+  "journal": "Cureus",
+  "doi": "10.7759/cureus.94315"
+ },
+ "R3578": {
+  "title": "Utility of large language models as information tools for nursing care in gout: a comparative study of DeepSeek and ChatGPT.",
+  "authors": "Pan X, Wang Y, Yang Q, Wang J, Tong Y, Zhang D, Lv X, Zheng C, Wu M, Li T, Tang L, Huang Z.",
+  "year": "2026",
+  "journal": "Frontiers in medicine",
+  "doi": "10.3389/fmed.2026.1758735"
+ },
+ "R3632": {
+  "title": "ChatGPT Versus DeepSeek for Breast Cancer Information Retrieval: Quantitative Comparative Study.",
+  "authors": "Hajjo R, Sabbah DA, Bardaweel SK.",
+  "year": "2026",
+  "journal": "JMIR cancer",
+  "doi": "10.2196/72839"
+ },
+ "R3740": {
+  "title": "Preliminary evaluation of DeepSeek-R1 and GPT-5.3 in selected PET/CT clinical scenarios: patient preparation, report interpretation, and diagnostic reasoning.",
+  "authors": "Duan R, Pang J, Zheng L, Guo Z, Li T, Bian Y, Hu Y.",
+  "year": "2026",
+  "journal": "Frontiers in medicine",
+  "doi": "10.3389/fmed.2026.1785671"
+ },
+ "R3913": {
+  "title": "The utility of generative artificial intelligence Chatbot (ChatGPT) in generating teaching and learning material for anesthesiology residents.",
+  "authors": "Jin Z, Abola R, Bargnes V, Tsivitis A, Rahman S, Schwartz J, Bergese SD, Schabel JE.",
+  "year": "2025",
+  "journal": "Frontiers in artificial intelligence",
+  "doi": "10.3389/frai.2025.1582096"
+ },
+ "R4081": {
+  "title": "Open-source versus proprietary large language models for academic writing in medicine: A controlled evaluation of DeepSeek-R1 and ChatGPT-o1 in neuroradiology.",
+  "authors": "Eminovic S, Levita B, Schmidt R, Lindholz M, Desser D, Penzkofer T, Wattjes MP, Nawabi J.",
+  "year": "2026",
+  "journal": "Digital health",
+  "doi": "10.1177/20552076261464745"
+ },
+ "R4142": {
+  "title": "The Use of Generative AI for Scientific Literature Searches for Systematic Reviews: ChatGPT and Microsoft Bing AI Performance Evaluation.",
+  "authors": "Gwon YN, Kim JH, Chung HS, Jung EJ, Chun J, Lee S, Shim SR.",
+  "year": "2024",
+  "journal": "JMIR medical informatics",
+  "doi": "10.2196/51187"
+ },
+ "R4234": {
+  "title": "Evaluating a large language model's ability to answer clinicians' requests for evidence summaries.",
+  "authors": "Blasingame MN, Koonce TY, Williams AM, Giuse DA, Su J, Krump PA, Giuse NB.",
+  "year": "2025",
+  "journal": "Journal of the Medical Library Association : JMLA",
+  "doi": "10.5195/jmla.2025.1985"
+ },
+ "R4263": {
+  "title": "Evaluating the Accuracy of Responses by Large Language Models for Information on Disease Epidemiology.",
+  "authors": "Zhu K, Zhang J, Klishin A, Esser M, Blumentals WA, Juhaeri J, Jouquelet-Royer C, Sinnott SJ.",
+  "year": "2025",
+  "journal": "Pharmacoepidemiology and drug safety",
+  "doi": "10.1002/pds.70111"
+ },
+ "R4309": {
+  "title": "Integrating generative AI in perinatology: applications for literature review.",
+  "authors": "Ayala-Y\u00e1\u00f1ez R, Gr\u00fcnebaum A, Chervenak FA.",
+  "year": "2026",
+  "journal": "Journal of perinatal medicine",
+  "doi": "10.1515/jpm-2025-0392"
+ },
+ "R4518": {
+  "title": "Computerized diagnostic decision support systems-Isabel Pro versus ChatGPT-4 part II.",
+  "authors": "Bridges JM, Jiang X, Ige M, Toyobo O.",
+  "year": "2025",
+  "journal": "JAMIA open",
+  "doi": "10.1093/jamiaopen/ooaf048"
+ },
+ "R4590": {
+  "title": "A focused PubMed artificial intelligence search program creates better literature reviews than general purpose artificial intelligence and is comparable to trainees in shoulder and elbow surgery.",
+  "authors": "MacLeod JS, Lee MS, Baker H, Serotte J, Shi LL, Maassen NH.",
+  "year": "2026",
+  "journal": "JSES international",
+  "doi": "10.1016/j.jseint.2026.101790"
+ },
+ "R4600": {
+  "title": "Cross sectional pilot study on clinical review generation using large language models.",
+  "authors": "Luo Z, Qiao Y, Xu X, Li X, Xiao M, Kang A, Wang D, Pang Y, Xie X, Xie S, Luo D, Ding X, Liu Z, Liu Y, Hu A, Ren Y, Xie J.",
+  "year": "2025",
+  "journal": "NPJ digital medicine",
+  "doi": "10.1038/s41746-025-01535-z"
+ },
+ "R5078": {
+  "title": "Prompt matters: evaluation of large language model chatbot responses related to Peyronie's disease.",
+  "authors": "Warren CJ, Edmonds VS, Payne NG, Voletti S, Wu SY, Colquitt J, Sadeghi-Nejad H, Punjani N.",
+  "year": "2024",
+  "journal": "Sexual medicine",
+  "doi": "10.1093/sexmed/qfae055"
+ },
+ "R5216": {
+  "title": "Application of ChatGPT as a content generation tool in continuing medical education: acne as a test topic.",
+  "authors": "Naldi L, Bettoli V, Santoro E, Valetto MR, Bolzon A, Cassalia F, Cazzaniga S, Cima S, Danese A, Emendi S, Ponzano M, Scarpa N, Dri P.",
+  "year": "2025",
+  "journal": "Dermatology reports",
+  "doi": "10.4081/dr.2024.10138"
+ },
+ "R5361": {
+  "title": "Artificial Intelligence Can Answer Postoperative Questions About Distal Radius Fractures-But Can Patients Understand the Answers?",
+  "authors": "Tarapore R, Gupta S, Means KR, Giladi AM.",
+  "year": "2025",
+  "journal": "Journal of hand surgery global online",
+  "doi": "10.1016/j.jhsg.2025.100822"
+ },
+ "R5403": {
+  "title": "Artificial intelligence derived large language model in decision-making process in uveitis.",
+  "authors": "Schumacher I, B\u00fchler VMM, Jaggi D, Roth J.",
+  "year": "2024",
+  "journal": "International journal of retina and vitreous",
+  "doi": "10.1186/s40942-024-00581-1"
+ },
+ "R5446": {
+  "title": "MAVERICK: Breaking the FPR\u2013FNR Seesaw in LLM Output Verification Through Strategy-Differentiated Multi-Agent Consensus",
+  "authors": "Dong S, Yao Q, Dong Z, Liu X, Leng X, Xu C, Wu L, Du B, Li C, Sun W.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.20944/preprints202608.1935.v1"
+ },
+ "R5539": {
+  "title": "Utility of Large Language Models for Health Care Professionals and Patients in Navigating Hematopoietic Stem Cell Transplantation: Comparison of the Performance of ChatGPT-3.5, ChatGPT-4, and Bard.",
+  "authors": "Xue E, Bracken-Clarke D, Iannantuono GM, Choo-Wosoba H, Gulley JL, Floudas CS.",
+  "year": "2024",
+  "journal": "Journal of medical Internet research",
+  "doi": "10.2196/54758"
+ },
+ "R5556": {
+  "title": "Evaluating ChatGPT as a Patient Education Tool for COVID-19-Induced Olfactory Dysfunction.",
+  "authors": "Sina EM, Campbell DJ, Duffy A, Mandloi S, Benedict P, Farquhar D, Unsal A, Nyquist G.",
+  "year": "2024",
+  "journal": "OTO open",
+  "doi": "10.1002/oto2.70011"
+ },
+ "R5577": {
+  "title": "Can deepseek and ChatGPT be used in the diagnosis of oral pathologies?",
+  "authors": "Kaygisiz \u00d6F, Teke MT.",
+  "year": "2025",
+  "journal": "BMC oral health",
+  "doi": "10.1186/s12903-025-06034-x"
+ },
+ "R5609": {
+  "title": "Valsci: an open-source, self-hostable literature review utility for automated large-batch scientific claim verification using large language models.",
+  "authors": "Edelman B, Skolnick J.",
+  "year": "2025",
+  "journal": "BMC bioinformatics",
+  "doi": "10.1186/s12859-025-06159-4"
+ },
+ "R5773": {
+  "title": "Artificial Intelligence in Hand and Upper Extremity Surgery Education: Accuracy and Validity of ChatGPT-4o Versus UpToDate as a Learning Tool for Trainees.",
+  "authors": "Bercu C, Rosner B, Chaudhry A, Korah H, Bernal I, Berger A.",
+  "year": "2025",
+  "journal": "Eplasty",
+  "doi": ""
+ },
+ "R5900": {
+  "title": "Beyond text generation: a comprehensive evaluation of ChatGPT-5.5 for scientific narrative review writing on sleeve gastrectomy.",
+  "authors": "Calisir A, Sahin M, Turkoglu F, Sener S, Duyan AG, Alptekin H.",
+  "year": "2026",
+  "journal": "Updates in surgery",
+  "doi": "10.1007/s13304-026-02802-8"
+ },
+ "R5994": {
+  "title": "Comparing Manual and ChatGPT Deep Research on Systematic Search and Selection in the PubMed Database on the Topic of Dental Implantology.",
+  "authors": "Bencze B, Sokolowski A, Lee JH, Hermann P, Heged\u00fcs T, Kozuma W, Ikumi R, Payer M, Salgado-Peralvo \u00c1O, V\u00e9gh D.",
+  "year": "2025",
+  "journal": "International journal of dentistry",
+  "doi": "10.1155/ijod/2677641"
+ },
+ "R6242": {
+  "title": "Comparison of ChatGPT and Google in addressing patients' questions on robot-assisted total hip arthroplasty.",
+  "authors": "Dasci MF, Surucu S, Aral F, Aydin M, Turemis C, Sandiford NA, Citak M.",
+  "year": "2026",
+  "journal": "Joint diseases and related surgery",
+  "doi": "10.52312/jdrs.2026.2368"
+ },
+ "R6292": {
+  "title": "Retrieval Augmented Therapy Suggestion for Molecular Tumor Boards: Algorithmic Development and Validation Study.",
+  "authors": "Berman E, Sundberg Malek H, Bitzer M, Malek N, Eickhoff C.",
+  "year": "2025",
+  "journal": "Journal of medical Internet research",
+  "doi": "10.2196/64364"
+ },
+ "R6331": {
+  "title": "Evaluation of ChatGPT-5-generated surgical literature: the accuracy of a review on penile prosthesis implantation.",
+  "authors": "Ok F, Sukur IH, G\u00fcl M, van Renterghem K.",
+  "year": "2026",
+  "journal": "International journal of impotence research",
+  "doi": "10.1038/s41443-026-01295-8"
+ },
+ "R6334": {
+  "title": "The Use of Artificial Intelligence in Writing Scientific Review Articles.",
+  "authors": "Kacena MA, Plotkin LI, Fehrenbacher JC.",
+  "year": "2024",
+  "journal": "Current osteoporosis reports",
+  "doi": "10.1007/s11914-023-00852-0"
+ },
+ "R6555": {
+  "title": "Utilizing artificial intelligence in academic writing: an in-depth evaluation of a scientific review on fertility preservation written by ChatGPT-4.",
+  "authors": "Safrai M, Orwig KE.",
+  "year": "2024",
+  "journal": "Journal of assisted reproduction and genetics",
+  "doi": "10.1007/s10815-024-03089-7"
+ },
+ "R6611": {
+  "title": "Arkangel AI, OpenEvidence, ChatGPT, Medisearch: are they objectively up to medical standards? A real-life assessment of LLMs in healthcare",
+  "authors": "Castano-Villegas N, Villa MC, Monsalve K, Llano I, Vel\u00e1squez L, Zea J.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1101/2025.09.23.25336206"
+ },
+ "R6775": {
+  "title": "The Utility of AI in Writing a Scientific Review Article on the Impacts of COVID-19 on Musculoskeletal Health.",
+  "authors": "Awosanya OD, Harris A, Creecy A, Qiao X, Toepp AJ, McCune T, Kacena MA, Ozanne MV.",
+  "year": "2024",
+  "journal": "Current osteoporosis reports",
+  "doi": "10.1007/s11914-023-00855-x"
+ },
+ "R6851": {
+  "title": "Assessment of the capacity of ChatGPT as a self-learning tool in medical pharmacology: a study using MCQs.",
+  "authors": "Choi W.",
+  "year": "2023",
+  "journal": "BMC medical education",
+  "doi": "10.1186/s12909-023-04832-x"
+ },
+ "R6932": {
+  "title": "Comparative Analysis of AI-Generated Research Content: Evaluating ChatGPT and Google Gemini",
+  "authors": "Akhoon Iuh, Khan MY, Bhat TA.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.21203/rs.3.rs-5265799/v1"
+ },
+ "R6938": {
+  "title": "ChatGPT and oral cancer: a study on informational reliability.",
+  "authors": "\u00c7i Ti R M.",
+  "year": "2025",
+  "journal": "BMC oral health",
+  "doi": "10.1186/s12903-025-05479-4"
+ },
+ "R7018": {
+  "title": "From Algorithms to Academia: An Endeavor to Benchmark AI-Generated Scientific Papers against Human Standards.",
+  "authors": "Woodrow J, Nassour N, Kwon JY, Ashkani-Esfahani S, Harris M.",
+  "year": "2025",
+  "journal": "The archives of bone and joint surgery",
+  "doi": "10.22038/abjs.2024.80093.3669"
+ },
+ "R7279": {
+  "title": "ChatGPT-4 Knows Its A B C D E but Cannot Cite Its Source.",
+  "authors": "Ghanem D, Zhu AR, Kagabo W, Osgood G, Shafiq B.",
+  "year": "2024",
+  "journal": "JB & JS open access",
+  "doi": "10.2106/jbjs.oa.24.00099"
+ },
+ "R7335": {
+  "title": "ChatGPT is an Unreliable Source of Peer-Reviewed Information for Common Total Knee and Hip Arthroplasty Patient Questions.",
+  "authors": "Schwartzman JD, Shaath MK, Kerr MS, Green CC, Haidukewych GJ.",
+  "year": "2025",
+  "journal": "Advances in orthopedics",
+  "doi": "10.1155/aort/5534704"
+ },
+ "R7442": {
+  "title": "Navigating the Landscape of Personalized Medicine: The Relevance of ChatGPT, BingChat, and Bard AI in Nephrology Literature Searches.",
+  "authors": "Aiumtrakul N, Thongprayoon C, Suppadungsuk S, Krisanapan P, Miao J, Qureshi F, Cheungpasitporn W.",
+  "year": "2023",
+  "journal": "Journal of personalized medicine",
+  "doi": "10.3390/jpm13101457"
+ },
+ "R7837": {
+  "title": "Examining the Validity of ChatGPT in Identifying Relevant Nephrology Literature: Findings and Implications.",
+  "authors": "Suppadungsuk S, Thongprayoon C, Krisanapan P, Tangpanithandee S, Garcia Valencia O, Miao J, Mekraksakit P, Kashani K, Cheungpasitporn W.",
+  "year": "2023",
+  "journal": "Journal of clinical medicine",
+  "doi": "10.3390/jcm12175550"
+ },
+ "R7853": {
+  "title": "VaaS is a Multi-Layer Hallucination Reduction Pipeline for AI-Assisted Science: Production Validation and Prospective Benchmarking",
+  "authors": "Sabharwal A, Patel MS, Carrano A, Rotman M, Wierson W, Ekker SC.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.64898/2026.03.24.26348935"
+ },
+ "R8517": {
+  "title": "Digital Food Safety: Insights from Fact-Checking ChatGPT Consumer Interactions",
+  "authors": "Correia L, Feng Y.",
+  "year": "2025",
+  "journal": "Journal of Nutrition Education and Behavior",
+  "doi": ""
+ },
+ "R10364": {
+  "title": "Computerized diagnostic decision support systems\u00a0- a comparative performance study of Isabel Pro vs. ChatGPT4.",
+  "authors": "Bridges JM.",
+  "year": "2024",
+  "journal": "Diagnosis (Berlin, Germany)",
+  "doi": "10.1515/dx-2024-0033"
+ },
+ "R11480": {
+  "title": "The utility of ChatGPT in the assessment of literature on the prevention of migraine: an observational, qualitative study.",
+  "authors": "Moskatel LS, Zhang N.",
+  "year": "2023",
+  "journal": "Frontiers in neurology",
+  "doi": "10.3389/fneur.2023.1225223"
+ },
+ "R12084": {
+  "title": "Using AI to Write a Review Article Examining the Role of the Nervous System on Skeletal Homeostasis and Fracture Healing.",
+  "authors": "Nazzal MK, Morris AJ, Parker RS, White FA, Natoli RM, Fehrenbacher JC, Kacena MA.",
+  "year": "2024",
+  "journal": "Current osteoporosis reports",
+  "doi": "10.1007/s11914-023-00854-y"
+ },
+ "R12150": {
+  "title": "Comparing human and artificial intelligence in writing for health journals: an exploratory study",
+  "authors": "Haq Zu, Naeem H, Naeem A, Iqbal F, Zaeem D.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1101/2023.02.22.23286322"
+ }
+}

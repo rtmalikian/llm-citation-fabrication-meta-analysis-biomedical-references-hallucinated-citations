@@ -1,0 +1,99 @@
+record_id,call,flag,reason
+R16182,exclude,,not a language model study - systematic review of shoulder exercise trials with no LLM citation generation
+R16183,exclude,,review or editorial type - systematic review of rotator cuff interventions with no LLM study
+R16184,exclude,,not a language model study - systematic review of subacromial analgesia with no citation generation
+R16185,exclude,,no citation outcome - LLMs predict liver injury prognosis not generate references
+R16186,exclude,,no citation outcome - LLM hallucinations in clinical vignettes not reference generation counts
+R16187,exclude,,no citation outcome - LLMs answer anatomy questions not generate references
+R16188,exclude,,no citation outcome - hybrid AI for rare disease variant prioritisation not citation generation
+R16189,exclude,,review or editorial type - editorial on AI in peer review with no primary citation data
+R16190,exclude,,review or editorial type - scoping review of LLM explainability with no citation outcome
+R16191,exclude,,review or editorial type - perspective on causal graph networks not an LLM citation study
+R16192,exclude,,review or editorial type - review of AI in clinical practice with no citation generation
+R16193,exclude,,no citation outcome - LLM retrieves pharmacy information for two drugs not generate references
+R16194,exclude,,review or editorial type - editorial with no abstract and no LLM citation task in title
+R16195,exclude,maybe,no citation outcome shown - no abstract and title shows only a GenAI teaching framework
+R16196,exclude,,review or editorial type - narrative review of AI in systematic reviews not citation generation
+R16197,exclude,,review or editorial type - commentary on responsibility for AI cancer information with no citation counts
+R16198,exclude,,no citation outcome - transcriptome fingerprinting framework with LLM-assisted interpretation only
+R16199,exclude,,no citation outcome - LLMs generate patient education text assessed for quality and readability
+R16200,exclude,,no citation outcome - ChatGPT operative plans assessed for impact on residents not references
+R16201,exclude,,no citation outcome - multi-agent retrieval platform description with no fabricated reference counts
+R16202,exclude,,no citation outcome - ChatGPT simplifies patient education text not generate references
+R16203,exclude,,no citation outcome - assessment of natural language querying of databases not citation generation
+R16204,exclude,,review or editorial type - no abstract and title shows a thesis supervision commentary not a citation study
+R16205,exclude,,not a language model study - flipped AI chatbot module for environmental literacy not biomedical citations
+R16206,exclude,,review or editorial type - review of machine learning for pharmacokinetics with no citation task
+R16207,exclude,,not a language model study - biodiversity horizon scan with no LLM citation generation
+R16208,exclude,,no citation outcome - no abstract and title shows AI chatbot companions risks and benefits only
+R16209,exclude,,review or editorial type - comment on AI patient leaflets with no abstract and no citation task
+R16210,exclude,,no citation outcome - LLMs give head and neck cancer management recommendations not references
+R16211,exclude,maybe,no citation outcome shown - no abstract and title on AI authors and reviewers is ambiguous
+R16212,exclude,,review or editorial type - guide on disclosing AI use in publishing with no citation generation data
+R16213,exclude,,no citation outcome - ChatGPT adjuvant therapy recommendations compared with MDT not references
+R16214,exclude,,no citation outcome - AI prompt template for search strategy construction not generated reference verification
+R16215,exclude,,no citation outcome - custom GPT for breast reconstruction decisions not citation generation
+R16216,exclude,,no citation outcome - GPT-4o interprets histology images not generate references
+R16217,exclude,,review or editorial type - no abstract and title shows authorship commentary with no citation task
+R16218,exclude,,topic not biomedical and no biomedical split - LLMs for farm management insight from literature
+R16219,exclude,,review or editorial type - systematic review of LLM reasoning in medicine with no citation outcome
+R16220,exclude,maybe,no citation outcome shown - no abstract and title on AI writing literature reviews is ambiguous
+R16221,exclude,,review or editorial type - no abstract and title shows a general AI plastic surgery piece with no citation task
+R16222,exclude,,review or editorial type - review of human-machine interaction in oncology with no citation counts
+R16223,exclude,,no citation outcome - ChatGPT answers patient questions on post-orgasmic illness syndrome
+R16224,exclude,,review or editorial type - narrative review of AI in scientific writing with no primary citation data
+R16225,exclude,,topic not biomedical and no biomedical split - LLMs for farm management recommendations
+R16226,exclude,,no citation outcome - ChatGPT and Claude perform study selection screening not generate references
+R16227,exclude,,no citation outcome - GPT-4 summarises Reddit posts for qualitative analysis not citation generation
+R16228,exclude,,no citation outcome - ChatGPT answers diabetes technology questions assessed for quality and readability
+R16229,exclude,,review or editorial type - systematic review of generative AI in systematic review process not citation generation
+R16230,exclude,,no citation outcome - LLMs generate care plans benchmarked against guidelines not references
+R16231,exclude,,review or editorial type - review comparing screening tools with no generated reference verification
+R16232,exclude,,no citation outcome - adversarial hallucination in clinical vignettes not reference fabrication counts
+R16233,exclude,,no citation outcome - LLMs answer pancreatic cancer questions not generate references
+R16234,exclude,,no citation outcome - LLMs used for scoping review screening and extraction not citation generation
+R16235,exclude,,no citation outcome - LLMs generate thyroid eye disease patient education materials
+R16236,exclude,,no citation outcome - framework for grounding LLM biomedical answers in evidence with no reference fabrication counts
+R16237,exclude,,no citation outcome - ChatGPT identifies and rephrases stigmatising language in records not references
+R16238,exclude,,review or editorial type - review of AI in rheumatoid arthritis with no citation generation
+R16239,exclude,,no citation outcome - mapping of AI editorial policies in dental journals not LLM reference generation
+R16240,exclude,,no citation outcome - LLM gene-to-phenotype mapping accuracy with no fabricated reference counts or reference denominator
+R16241,exclude,,no citation outcome - ChatGPT answers surgical sciences examination questions
+R16242,exclude,,topic not biomedical and no biomedical split - prompt engineering for literature extraction on white phosphors
+R16243,exclude,,no citation outcome - chatbots give gastric cancer treatment recommendations not references
+R16244,exclude,,no citation outcome - ChatGPT writes ophthalmology introductions assessed for writing quality not reference accuracy
+R16245,exclude,,no citation outcome - ChatGPT interprets chest X-rays not generate references
+R16246,exclude,,no citation outcome - adversarial hallucination in clinical decision support vignettes not citations
+R16247,exclude,,no citation outcome - ChatGPT rewrites plain language summaries for readability not generate references
+R16248,exclude,,no citation outcome - RAG GPT-4o answers sarcoma queries with guideline page citation not generated reference fabrication
+R16249,exclude,,no citation outcome - no abstract and title plainly shows ChatGPT simplification of postoperative instructions
+R16250,exclude,maybe,no citation outcome shown - no abstract and generic AI hallucinations title is ambiguous
+R16251,exclude,,review or editorial type - viewpoint on generative AI in academic writing with no primary citation data
+R16252,exclude,,no citation outcome - chatbots answer PCOS questions assessed for accuracy and readability
+R16253,exclude,,no citation outcome - LLMs answer radiography certification examination questions
+R16254,exclude,,review or editorial type - review of generative AI for human learning with no biomedical citation task
+R16255,exclude,,no citation outcome - no abstract and title plainly shows ChatGPT pain management recommendations
+R16256,exclude,,no citation outcome - GPT-4 analyses CT images of cerebral haemorrhage not references
+R16257,exclude,,no citation outcome - ChatGPT answers USMLE style questions
+R16258,exclude,,no citation outcome - ChatGPT as teaching method in dental education not citation generation
+R16259,exclude,,review or editorial type - review of trustworthy AI research with no citation task
+R16260,exclude,maybe,no citation outcome shown - no abstract and follow-up misinformation evaluation title is ambiguous
+R16261,exclude,,no citation outcome - ChatGPT answers periodontic in-service examination questions
+R16262,exclude,,no citation outcome - prompt engineering for dry eye triage and user satisfaction not references
+R16263,exclude,,no citation outcome - AI models answer Turkish dental specialty examination questions
+R16264,exclude,,no citation outcome - LLMs answer periodontology in-service examination questions
+R16265,exclude,,no citation outcome - chatbot perceptions in dental clinical education not citation generation
+R16266,exclude,,review or editorial type - no abstract and generic rise of large language models title with no citation task
+R16267,exclude,,no citation outcome - multimodal LLMs answer periodontal image questions and supporting citation is not counted or verified
+R16268,exclude,,no citation outcome - LLMs answer ocular surface disease examination questions
+R16269,exclude,,no citation outcome - Claude generates discharge summaries assessed for quality not references
+R16270,exclude,,not a language model study - knowledge-guided image recognition with no LLM citation task
+R16271,exclude,,no citation outcome - ChatGPT diagnoses glaucoma from dataset cases not generate references
+R16272,exclude,,no citation outcome - fine-tuning LLMs for named entity recognition not citation generation
+R16273,exclude,,no citation outcome - ChatGPT answers medical specialisation examination questions
+R16274,exclude,,no citation outcome - GPT-4 diagnoses rare eye diseases in simulated scenarios not references
+R16275,exclude,,not a language model study - chlamydia serovar distribution study with no LLM
+R16276,exclude,,not a language model study - overview of conjunctivitis incidence with no LLM citation task
+R16277,exclude,,not a language model study - cohort study of bacterial conjunctivitis signs and symptoms
+R16278,exclude,,review or editorial type - bibliometric analysis of LLMs in healthcare with no citation generation experiment
+R16279,exclude,,not a language model study - lifestyle report on environmental conditions and ocular surface

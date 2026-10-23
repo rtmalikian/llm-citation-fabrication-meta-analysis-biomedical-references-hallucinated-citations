@@ -1,0 +1,13 @@
+R2620	robustness/fulltexts2/R2620.xml
+R2931	robustness/fulltexts2/R2931.xml
+R3140	robustness/fulltexts2/R3140.xml
+R3191	robustness/fulltexts2/R3191.xml
+R3432	robustness/fulltexts2/R3432.xml
+R3578	robustness/fulltexts2/R3578.xml
+R4081	robustness/fulltexts2/R4081.xml
+R4142	robustness/fulltexts2/R4142.xml
+R4234	robustness/fulltexts2/R4234.xml
+R4263	robustness/fulltexts2/R4263.xml
+R4518	robustness/fulltexts2/R4518.xml
+R5078	robustness/fulltexts2/R5078.xml
+R5216	robustness/fulltexts2/R5216.xml

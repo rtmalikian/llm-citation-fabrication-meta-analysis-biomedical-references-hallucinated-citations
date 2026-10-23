@@ -1,0 +1,10 @@
+study,record,arm,family,retrieval,pub,year,topic,specialty,requested,n,x
+Athaluri_2023,R0094,ChatGPT,GPT,none,peer_reviewed,,not_reported,mixed biomedical,,178,69
+Gravel_2023,R0210,ChatGPT,GPT,none,peer_reviewed,,not_reported,mixed biomedical,,59,46
+Dhaimade_2026,R2475,GPT-5.0 (Full Test),GPT,none,peer_reviewed,,not_reported,dentistry (periodontology),,262,135
+Dhaimade_2026,R2475,GPT-5.0 (Individual Question),GPT,none,peer_reviewed,,not_reported,dentistry (periodontology),,328,105
+Dhaimade_2026,R2475,Claude Sonnet 4.0 (Individual Question),Claude,none,peer_reviewed,,not_reported,dentistry (periodontology),,322,18
+Seifi_2026,R0053,GPT-5.3,GPT,none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,44
+Seifi_2026,R0053,DeepSeek-V3,DeepSeek,none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,10
+Seifi_2026,R0053,Grok-4,other (Grok),none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,66
+Singh_2026,R0180,GPT-5,GPT,none,peer_reviewed,,not_reported,orthopaedic surgery (OITE examination),203.0,88,29

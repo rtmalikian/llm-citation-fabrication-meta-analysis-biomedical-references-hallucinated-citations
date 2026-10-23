@@ -265,6 +265,10 @@ The GRADE assessor drafts each rating. The human author signs each rating. Footn
 
 Any change to this protocol after PROSPERO or OSF submission goes in an amendment log with the date, the old wording, the new wording and the reason. Changes made after seeing results are labelled as such in the finished review.
 
+### Amendment 1, 23 October 2026 (after first publication of the review on 22 October 2026; not backdated)
+
+Robustness pass closing three disclosed step-downs from the full process. (1) Search: full OpenAlex retrieval attempted (blocked after retries, rate limit, shared network budget); arXiv and Semantic Scholar retried by two routes each (blocked); systematic citation chasing added, yielding 489 new records and 2 included studies. (2) Extraction: a second fully independent extraction of every included study, compared field by field against the first pass by code, every discrepancy settled by re-reading the source and logged in robustness-discrepancy-log.md; the settled master replaces extraction.csv, with the first pass preserved as extraction-passA.csv. (3) Adjudication: all first pass screening disagreements (913 records) and all risk of bias domain disagreements re-adjudicated by reading; the coded screening rule and the more-cautious-wins risk of bias rule are retired for this review. One study level merge resulted: Jedrzejczak 2024 is the preprint of Pastucha 2026 and the two reports are counted once. No eligibility rule, outcome definition or analysis specification changed. The amendment, its date and its results are reported in the corrected manuscript (Methods, Differences from protocol) and in llm-team-log.md.
+
 ## Contributions
 
 Raphael Malikian, principal investigator and accountable human author: set the review question, wrote the eligibility rules, will settle flagged adjudications and all risk of bias and GRADE disagreements, will check pooled numbers against source documents, and signs off the final manuscript.

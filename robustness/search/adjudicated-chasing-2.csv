@@ -1,0 +1,28 @@
+record_id,adjudicator_call,stratum,reason
+R16201,exclude,,no citation outcome
+R16211,exclude,,no citation outcome
+R16220,exclude,,review or editorial type
+R16236,exclude,,no citation outcome
+R16240,exclude,,no citation outcome
+R16248,exclude,,no citation outcome
+R16250,exclude,,review or editorial type
+R16260,exclude,,no citation outcome
+R16267,exclude,,no citation outcome
+R16300,exclude,,review or editorial type
+R16302,exclude,,no citation outcome
+R16319,exclude,,no citation outcome
+R16332,exclude,,no citation outcome
+R16342,exclude,,no citation outcome
+R16346,exclude,,no citation outcome
+R16428,exclude,,no citation outcome
+R16429,exclude,,no citation outcome
+R16430,maybe,GEN,"Title and abstract missing; DOI-only NEJM AI record, so citation generation task, denominator and verification source cannot be told"
+R16431,exclude,,no citation outcome
+R16432,maybe,GEN,"Title and abstract missing; DOI-only record, so topic, citation generation task, denominator and verification source cannot be told"
+R16433,exclude,,no citation outcome
+R16438,exclude,,topic not biomedical and no biomedical split
+R16439,maybe,GEN,"Three chatbots answered 10 audiology questions with provision of references and inaccuracies examined, but no reference-level fabricated counts or named verification source stated"
+R16440,exclude,,not a language model study
+R16446,exclude,,not a language model study
+R16449,exclude,,not a language model study
+R16474,exclude,,no citation outcome

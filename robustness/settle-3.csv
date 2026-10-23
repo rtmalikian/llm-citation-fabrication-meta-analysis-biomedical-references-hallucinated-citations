@@ -1,0 +1,21 @@
+study_id,model_arm,field,settled_value,wrong_pass,source_location
+Jędrzejczak_2024,ChatGPT-4,refs_generated,231,none,R1232.pdf Table 2 (Number of references: 76+81+74)
+Jędrzejczak_2024,ChatGPT-4,n_fabricated,17,none,R1232.pdf Table 2 (False reference: 5+8+4)
+Jędrzejczak_2024,ChatGPT-4,n_fully_accurate_strict,46,B,R1232.pdf Table 2 (All correct: 10+17+19); strict per extraction-form (paper Accurate references = 86 includes missing-DOI)
+Jędrzejczak_2024,ChatGPT-4,accurate_references_paper_label_incl_missing_doi,86,none,R1232.pdf Table 2 (Accurate references: 22+31+33 = All correct 46 + DOI not given 40); Results definition: all correct information except a missing DOI - NOT strict
+Jędrzejczak_2024,ChatGPT-4,n_bad_doi_wrong_doi,10,none,R1232.pdf Table 2 (Accurate but wrong DOI number: 5+3+2)
+Jędrzejczak_2024,Gemini Advanced,refs_generated,193,none,R1232.pdf Table 2 (Number of references: 65+68+60)
+Jędrzejczak_2024,Gemini Advanced,n_fabricated,30,none,R1232.pdf Table 2 (False reference: 17+7+6)
+Jędrzejczak_2024,Gemini Advanced,n_fully_accurate_strict,7,B,R1232.pdf Table 2 (All correct: 4+1+2); strict per extraction-form (paper Accurate references = 26 includes missing-DOI)
+Jędrzejczak_2024,Gemini Advanced,accurate_references_paper_label_incl_missing_doi,26,none,R1232.pdf Table 2 (Accurate references: 9+7+10 = All correct 7 + DOI not given 19); Results definition: all correct information except a missing DOI - NOT strict
+Jędrzejczak_2024,Gemini Advanced,n_bad_doi_wrong_doi,1,none,R1232.pdf Table 2 (Accurate but wrong DOI number: 0+0+1)
+Pastucha_2026,ChatGPT-4,refs_generated,231,none,R0696.xml Table 4A (Number of references: 76+81+74); testing dates Table 2: July 8-10 2024
+Pastucha_2026,ChatGPT-4,n_fabricated,17,none,R0696.xml Table 4A (False reference: 5+8+4)
+Pastucha_2026,ChatGPT-4,n_fully_accurate_strict,46,B,R0696.xml Table 4A (All correct: 10+17+19); strict per extraction-form (paper Accurate references = 86 includes missing-DOI)
+Pastucha_2026,ChatGPT-4,accurate_references_paper_label_incl_missing_doi,86,none,R0696.xml Table 4A (Accurate references: 22+31+33 = All correct 46 + DOI not given 40); Results: deemed accurate except perhaps a missing DOI - NOT strict
+Pastucha_2026,ChatGPT-4,n_bad_doi_wrong_doi,10,none,R0696.xml Table 4A (Accurate but wrong DOI number: 5+3+2)
+Pastucha_2026,Gemini 1.5 Pro,refs_generated,193,none,R0696.xml Table 4B (Number of references: 65+68+60); testing dates Table 2: July 8-10 2024
+Pastucha_2026,Gemini 1.5 Pro,n_fabricated,30,none,R0696.xml Table 4B (False reference: 17+7+6)
+Pastucha_2026,Gemini 1.5 Pro,n_fully_accurate_strict,7,B,R0696.xml Table 4B (All correct: 4+1+2); strict per extraction-form (paper Accurate references = 26 includes missing-DOI)
+Pastucha_2026,Gemini 1.5 Pro,accurate_references_paper_label_incl_missing_doi,26,none,R0696.xml Table 4B (Accurate references: 9+7+10 = All correct 7 + DOI not given 19); Results: deemed accurate except perhaps a missing DOI - NOT strict
+Pastucha_2026,Gemini 1.5 Pro,n_bad_doi_wrong_doi,1,none,R0696.xml Table 4B (Accurate but wrong DOI number: 0+0+1)

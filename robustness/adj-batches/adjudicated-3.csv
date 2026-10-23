@@ -1,0 +1,116 @@
+record_id,adjudicator_call,stratum,reason
+R0290,maybe,GEN,"LLM asked for bibliographic sources on herbal-drug interactions and sources judged outdated/unavailable, but reference denominator and named verification source not tellable"
+R0291,exclude,,no citation outcome
+R0292,exclude,,no citation outcome
+R0294,maybe,GEN,"References provided with differential diagnoses and fabricated counts reported (401/1006, 161/1124), but named external verification source not stated in abstract"
+R0295,maybe,GEN,"AI assignments noted to contain fabricated scholarly references, but no reference count or verification source tellable from abstract"
+R0296,exclude,,no citation outcome
+R0297,exclude,,no citation outcome
+R0298,exclude,,no citation outcome
+R0299,exclude,,no citation outcome
+R0300,exclude,,no citation outcome
+R0302,exclude,,no citation outcome
+R0304,maybe,GEN,"Non-existent references noted among DLBCL QA answers, but no reference denominator or named verification source in abstract"
+R0305,maybe,UNCLEAR,"GPT generated fictional references in psychology research-librarian task (36.0%/5.4%), but biomedical split and named verification source not tellable"
+R0306,exclude,,no citation outcome
+R0307,maybe,GEN,"REF-AI analysis of references in prostate cancer answers reports 2 hallucinations of 30 references, but named external verification source not stated"
+R0309,exclude,,anecdote
+R0310,maybe,GEN,"42 references provided to support refractive surgery recommendations, 55% fictitious, but named external verification source not stated"
+R0311,exclude,,review or editorial type
+R0312,maybe,GEN,"References included in 8 medication-question responses and each included fabricated references, but reference denominator and named verification source not clear"
+R0313,maybe,GEN,"10 medical prompts requesting 10 references each with hallucination scores and 500-reference counts, but named external verification source not stated"
+R0314,maybe,GEN,"Model reliability for providing accurate references in caregiving evaluated, but no reference count or named verification source in abstract"
+R0315,maybe,GEN,"ChatGPT list of standard-of-care studies in radiation oncology reported 50.6% fabricated, but reference denominator and named verification source not stated"
+R0316,maybe,GEN,"ChatGPT/Bard noted to fabricate references in biological knowledge retrieval, but no reference denominator or named verification source in abstract"
+R0317,maybe,GEN,"References requested for distal radius fracture responses, 47 cited references with 13% accurate and 28% fabricated, but named external verification source not stated"
+R0318,exclude,,no citation outcome
+R0319,exclude,,no citation outcome
+R0320,exclude,,review or editorial type
+R0321,exclude,,no citation outcome
+R0323,maybe,GEN,"AI literature search for Peyronie disease graded against human systematic-review benchmark with fake titles noted, but fabricated reference denominator not clear"
+R0324,exclude,,no citation outcome
+R0325,maybe,GEN,"References requested for 51 cutaneous diseases, 27.2% confabulated and compared with literature standards/PubMed entries mentioned, but verification source not clearly named as the check"
+R0326,exclude,,review or editorial type
+R0327,exclude,,review or editorial type
+R0328,maybe,GEN,"ChatGPT fabricated citations/DOIs with 145 correct references reported, but reference denominator and named bibliographic verification source not clear"
+R0329,exclude,,no citation outcome
+R0330,exclude,,review or editorial type
+R0331,exclude,,no citation outcome
+R0332,maybe,GEN,"GPT-4 review on fertility preservation gave 25 references, 36% accurate and 16% completely fabricated, experts assessed, but named external verification source not stated"
+R0333,exclude,,no citation outcome
+R0335,maybe,GEN,"349 chatbot citations in oral medicine/pathology/radiology, 82 fake, evaluated by specialists, but named external verification source not stated"
+R0336,exclude,,no citation outcome
+R0337,exclude,,no citation outcome
+R0338,exclude,,no citation outcome
+R0339,maybe,GEN,"Chatbot references for diabetic foot ulcer questions verified for authenticity with rates reported, but reference denominator and named verification source not stated"
+R0340,exclude,,no citation outcome
+R0341,maybe,GEN,"AI-written Alzheimer's/bone review had incorrect references compared with human-assisted version, but no reference count or named verification source in abstract"
+R0342,exclude,,review or editorial type
+R0343,maybe,GEN,"Prompting for references generated 80 publications on thyroid nodules, 87.5% legitimate, analysed for veracity, but named external verification source not stated"
+R0344,include,GEN,"Prompted 20 Vancouver references on each of 12 nephrology topics, verified existence/accuracy using PubMed, Google Scholar and Web of Science, with counts by model"
+R0347,maybe,GEN,"GPT-4 allergy minireviews fabricated references despite instruction to use scientific references, but no reference count or named verification source in abstract"
+R0350,exclude,,no citation outcome
+R0351,include,GEN,"Prompted ChatGPT for nephrology literature references, 610 references assessed for existence and verified by searching Google Scholar, 31% fabricated"
+R0353,maybe,GEN,"ChatGPT citations for migraine prevention assessed as real/hallucinated (33/115 real, 76/115 hallucinated), but named external verification source for citation check not stated"
+R0355,exclude,,review or editorial type
+R0357,maybe,GEN,"ChatGPT asked for 10 citations for each of 5 head and neck keywords, 50 references scored by two authors, but named external verification source not stated"
+R0358,exclude,,topic not biomedical and no biomedical split
+R0360,maybe,GEN,"ChatGPT breast reconstruction answers generated non-existent/incorrect references, but no reference count or named verification source in abstract"
+R0362,exclude,,anecdote
+R0363,exclude,,no citation outcome
+R0365,exclude,,anecdote
+R0366,exclude,,anecdote
+R0367,maybe,GEN,"5 ChatGPT radiology articles assessed and all references fictitious, but total reference denominator and named verification source not stated"
+R0368,exclude,,review or editorial type
+R0369,exclude,,review or editorial type
+R0372,exclude,,topic not biomedical and no biomedical split
+R0374,exclude,,review or editorial type
+R0375,exclude,,no citation outcome
+R0377,exclude,,review or editorial type
+R0378,exclude,,review or editorial type
+R0379,exclude,,review or editorial type
+R0381,exclude,,review or editorial type
+R0416,exclude,,no citation outcome
+R0462,exclude,,review or editorial type
+R0474,exclude,,no citation outcome
+R0510,exclude,,no citation outcome
+R0526,exclude,,no citation outcome
+R0556,exclude,,no citation outcome
+R0561,maybe,GEN,"ChatGPT ability to identify/reference retracted COVID-19 papers assessed, references said to rely on predictive logic, but count and named verification source not tellable"
+R0563,exclude,,no citation outcome
+R0575,exclude,,no citation outcome
+R0672,exclude,,review or editorial type
+R0676,exclude,,no citation outcome
+R0707,exclude,,no citation outcome
+R0716,exclude,,no citation outcome
+R0721,exclude,,no citation outcome
+R0745,exclude,,topic not biomedical and no biomedical split
+R0784,include,GEN,"ChatGPT/Bard asked for references on 12 pregnancy questions, references classified verified/broken/non-existent and graded against ACOG publications and PubMed-indexed evidence, with counts per model"
+R0796,exclude,,no citation outcome
+R0833,exclude,,no citation outcome
+R0873,exclude,,no citation outcome
+R0875,exclude,,no citation outcome
+R0900,maybe,UNCLEAR,"ChatGPT used for parts of a research paper including literature review/bibliographic references found incorrect or non-existent, but biomedical topic, denominator and named verification source not tellable"
+R0903,exclude,,no citation outcome
+R0906,exclude,,no citation outcome
+R1020,exclude,,topic not biomedical and no biomedical split
+R1025,exclude,,no citation outcome
+R1031,maybe,GEN,"Neurosurgery LLM responses' references recorded and analysed across 120 responses per platform, but fabricated reference counts and named verification source not stated"
+R1032,exclude,,topic not biomedical and no biomedical split
+R1067,exclude,,review or editorial type
+R1083,exclude,,no citation outcome
+R1091,exclude,,no citation outcome
+R1103,maybe,GEN,"LLM references for foot and ankle exam questions classified real/partially/completely fabricated with percentages, but total denominator and named verification source not stated"
+R1133,exclude,,no citation outcome
+R1134,exclude,,review or editorial type
+R1163,exclude,,topic not biomedical and no biomedical split
+R1207,exclude,,no citation outcome
+R1233,exclude,,topic not biomedical and no biomedical split
+R1274,exclude,,no citation outcome
+R1280,exclude,,no citation outcome
+R1304,exclude,,topic not biomedical and no biomedical split
+R1311,exclude,,no citation outcome
+R1312,exclude,,no citation outcome
+R1314,exclude,,no citation outcome
+R1338,exclude,,no citation outcome
+R1355,maybe,GEN,"ChatGPT/Claude references for 36 otolaryngology questions assessed for validity/relevance and at least half hallucinated, but total reference denominator and named verification source not stated"

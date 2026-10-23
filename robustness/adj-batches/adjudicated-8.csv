@@ -1,0 +1,109 @@
+record_id,adjudicator_call,stratum,reason
+R6841,exclude,,no citation outcome
+R6845,exclude,,topic not biomedical and no biomedical split
+R6851,maybe,GEN,"Citation outcome counted (191/274 incorrect citations) for pharmacology MCQs, but no named external verification source in abstract and veracity stated unascertained"
+R6859,exclude,,no citation outcome
+R6865,exclude,,no citation outcome
+R6874,exclude,,no citation outcome
+R6879,exclude,,no citation outcome
+R6910,exclude,,no citation outcome
+R6932,maybe,UNCLEAR,"Citation accuracy and reference authenticity evaluated for AI-generated articles, but biomedical topic, reference denominator and named verification source not stated in abstract"
+R6938,maybe,GEN,"81 references from oral cancer answers evaluated for authenticity (10 fake), but no named external verification source in abstract"
+R6946,exclude,,no citation outcome
+R6970,exclude,,no citation outcome
+R7015,exclude,,topic not biomedical and no biomedical split
+R7018,maybe,GEN,"Citation accuracy percentages reported for AI-written orthopaedic papers, but reference denominator and named verification source not stated in abstract"
+R7038,exclude,,no citation outcome
+R7041,exclude,,no citation outcome
+R7053,exclude,,no citation outcome
+R7060,exclude,,no citation outcome
+R7070,exclude,,review or editorial type
+R7090,exclude,,topic not biomedical and no biomedical split
+R7094,exclude,,no citation outcome
+R7108,exclude,,topic not biomedical and no biomedical split
+R7118,exclude,,topic not biomedical and no biomedical split
+R7121,exclude,,no citation outcome
+R7163,exclude,,no citation outcome
+R7261,exclude,,topic not biomedical and no biomedical split
+R7264,exclude,,no citation outcome
+R7279,include,GEN,30 ChatGPT-4 references on ABCDE trauma protocol assessed against PubMed; 43.3% accurate and 13.3% nonexistent
+R7292,exclude,,no citation outcome
+R7325,exclude,,no citation outcome
+R7335,maybe,GEN,"109 sources cited for TKA/THA questions with 39 traced to existing publications, but no named external verification database in abstract"
+R7343,exclude,,topic not biomedical and no biomedical split
+R7365,exclude,,no citation outcome
+R7408,exclude,,no citation outcome
+R7419,exclude,,no denominator
+R7442,include,GEN,"20 references in each of 12 nephrology topics per model solicited and verified via PubMed, Google Scholar and Web of Science, with fabricated counts per model"
+R7472,exclude,,review or editorial type
+R7504,exclude,,no citation outcome
+R7508,exclude,,no citation outcome
+R7517,exclude,,no citation outcome
+R7535,exclude,,no citation outcome
+R7612,exclude,,review or editorial type
+R7648,exclude,,no citation outcome
+R7728,exclude,,no citation outcome
+R7735,exclude,,no denominator
+R7771,exclude,,no denominator
+R7803,exclude,,no citation outcome
+R7818,exclude,,registration or protocol with no results
+R7837,include,GEN,610 ChatGPT references on nephrology topics assessed for existence via Google Scholar; 62% existed and 31% fabricated
+R7853,maybe,GEN,"LLM gene-curation citations verified via live PMID verification with large verified counts, but generation-arm reference denominator not plainly stated in abstract and study is a validation pipeline"
+R7883,exclude,,topic not biomedical and no biomedical split
+R7911,exclude,,topic not biomedical and no biomedical split
+R7918,exclude,,no citation outcome
+R7923,exclude,,review or editorial type
+R7977,exclude,,review or editorial type
+R8004,exclude,,review or editorial type
+R8047,exclude,,no citation outcome
+R8081,exclude,,no citation outcome
+R8092,exclude,,no citation outcome
+R8111,exclude,,no denominator
+R8115,exclude,,no citation outcome
+R8130,exclude,,topic not biomedical and no biomedical split
+R8153,exclude,,no citation outcome
+R8192,exclude,,no denominator
+R8271,exclude,,no citation outcome
+R8325,exclude,,no citation outcome
+R8517,maybe,GEN,"References requested for 20 food safety questions and valid only 35% of the time with invalid defined by link, DOI or nonexistence, but reference denominator and named verification source not stated in abstract"
+R8660,exclude,,no citation outcome
+R8687,exclude,,review or editorial type
+R8689,exclude,,review or editorial type
+R8724,exclude,,topic not biomedical and no biomedical split
+R8736,exclude,,no citation outcome
+R8768,exclude,,no citation outcome
+R8820,exclude,,no citation outcome
+R8911,exclude,,no citation outcome
+R8929,exclude,,no citation outcome
+R9065,exclude,,no citation outcome
+R9200,exclude,,no denominator
+R9267,exclude,,no citation outcome
+R9354,exclude,,no citation outcome
+R9553,exclude,,topic not biomedical and no biomedical split
+R9681,exclude,,review or editorial type
+R9760,exclude,,no citation outcome
+R9765,exclude,,registration or protocol with no results
+R9839,exclude,,no citation outcome
+R9905,exclude,,topic not biomedical and no biomedical split
+R9915,exclude,,topic not biomedical and no biomedical split
+R10018,exclude,,topic not biomedical and no biomedical split
+R10364,maybe,GEN,"Fabricated citations and DOIs reported with correct reference and DOI percentages in a diagnostic study, but reference denominator and named verification source not stated in abstract"
+R10613,exclude,,no citation outcome
+R10628,exclude,,no citation outcome
+R10825,exclude,,no citation outcome
+R11036,exclude,,review or editorial type
+R11053,exclude,,no citation outcome
+R11093,exclude,,review or editorial type
+R11339,exclude,,no citation outcome
+R11480,maybe,GEN,"115 citations generated for migraine medication assessments with 33 real and 76 hallucinated, but no named external verification source for citation checking in abstract"
+R11585,exclude,,no citation outcome
+R11851,exclude,,no citation outcome
+R12084,maybe,GEN,"AI-only review on fracture healing had inaccurate and inappropriate reference usage after fact-checking, but reference denominator and named verification source not stated in abstract"
+R12150,maybe,GEN,"ChatGPT health articles assessed for credible accurate bibliography with majority of bibliography references unverifiable, but reference denominator and named verification source not stated in abstract"
+R12186,exclude,,no citation outcome
+R12250,exclude,,no citation outcome
+R12323,exclude,,no citation outcome
+R12608,exclude,,anecdote
+R12660,exclude,,no citation outcome
+R12832,exclude,,no denominator
+R13329,exclude,,anecdote

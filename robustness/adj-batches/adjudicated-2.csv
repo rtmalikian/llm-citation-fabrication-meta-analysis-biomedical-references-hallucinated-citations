@@ -1,0 +1,116 @@
+record_id,adjudicator_call,stratum,reason
+R0150,exclude,,no citation outcome
+R0151,exclude,,no citation outcome
+R0152,exclude,,no citation outcome
+R0153,exclude,,no citation outcome
+R0154,include,GEN,LLMs prompted to generate 50 most-cited panniculectomy articles; denominator 50 per model; verified against Web of Science with authenticity counts
+R0155,exclude,,no citation outcome
+R0156,exclude,,review or editorial type
+R0157,maybe,GEN,LLM generated a full article with 17 citations and reference errors noted by experts; named external verification source cannot be told from abstract
+R0158,include,GEN,Models instructed to generate PubMed citations for glaucoma paragraphs; citation accuracy and DOI matching evaluated
+R0159,maybe,GEN,LLMs identified 39 studies with hallucinated references excluded after validation; named external verification source cannot be told from abstract
+R0161,maybe,GEN,Citation validity in prior authorization letters checked against FDA labels and guidelines; denominator is 29 letters not total references
+R0162,maybe,GEN,1249 references from surgical chatbot outputs assessed for authenticity with hallucination rates; named external verification source cannot be told from abstract
+R0163,exclude,,review or editorial type
+R0164,exclude,,review or editorial type
+R0166,maybe,GEN,Exam answers contained references with 37.7-43.9% not verifiable; total reference denominator and verification source cannot be told from abstract
+R0167,exclude,,no citation outcome
+R0168,maybe,GEN,3250 GPT-4 references evaluated with 11.8% hallucinated; named external verification source cannot be told from abstract
+R0169,exclude,,no citation outcome
+R0170,exclude,,review or editorial type
+R0172,exclude,,review or editorial type
+R0173,exclude,,review or editorial type
+R0175,maybe,GEN,ChatGPT-assisted answers added citations with about 44% hallucinated; total citation denominator and verification source cannot be told from abstract
+R0177,maybe,GEN,LLM generated 5 alternative citations per manuscript; 45 citations checked with 87% verified; named external verification source cannot be told from abstract
+R0178,exclude,,no citation outcome
+R0179,exclude,,no citation outcome
+R0181,exclude,,no citation outcome
+R0183,maybe,UNCLEAR,LLM biotechnology review writing with citation validity and hallucination analysed; biomedical topic split and denominator and verification source cannot be told from abstract
+R0185,maybe,GEN,Counselling responses assessed for fabricated citations with hallucination percentages per model; total reference denominator and verification source cannot be told from abstract
+R0186,include,GEN,Reference list with PMIDs explicitly requested for hip fracture guideline questions; 2556 publications cited with 7.9% fabricated; checked against PubMed index
+R0187,exclude,,no citation outcome
+R0188,maybe,GEN,LLMs prompted to identify eligible studies for an obstetric review and outputs compared with the 14 reference-review studies; total returned denominator cannot be told from abstract
+R0189,exclude,,no citation outcome
+R0190,exclude,,no citation outcome
+R0191,exclude,,no citation outcome
+R0192,exclude,,no citation outcome
+R0195,exclude,,no citation outcome
+R0196,exclude,,no citation outcome
+R0197,exclude,,no citation outcome
+R0198,include,GEN,Models instructed to generate PubMed citations for ocular inflammation and uveal disease paragraphs; citation accuracy classified by expert reviewers
+R0199,maybe,GEN,ChatGPT-5 references verified through PubMed and Google Scholar with about 80% verifiable; total reference denominator cannot be told from abstract
+R0200,maybe,GEN,LLM responses on ventral rectopexy with fabricated citation rates per model; named external verification source cannot be told from abstract
+R0201,maybe,GEN,LLMs instructed to generate literature reviews on SMILE topics and all references verified for authenticity; counts and verification source cannot be told from abstract
+R0202,exclude,,no citation outcome
+R0203,exclude,,no citation outcome
+R0205,exclude,,no citation outcome
+R0206,exclude,,no citation outcome
+R0207,exclude,,no citation outcome
+R0208,exclude,,no citation outcome
+R0209,maybe,GEN,Implant dentistry answers assessed for reference fabrication rates; reference denominator and verification source cannot be told from abstract
+R0210,include,GEN,GPT-4o prompted to generate literature reviews with at least 20 citations on mental health disorders; 176 citations verified using Google Scholar Scopus PubMed WorldCat and publisher databases
+R0211,include,GEN,LLMs instructed to search PubMed Embase and Scopus for hernia repair literature; 24 citations generated with 13 fabricated; cross-checked against previous systematic reviews
+R0212,maybe,GEN,Patient education answers assessed with a reference tool finding 9 hallucinated references at 14.8%; total denominator stated only as a percentage and named external verification source cannot be told from abstract
+R0213,exclude,,no citation outcome
+R0214,maybe,GEN,LLM reports on complex medical queries contained hallucinated citations unlike human reports; citation denominator and verification source cannot be told from abstract
+R0216,exclude,,no citation outcome
+R0217,exclude,,review or editorial type
+R0219,maybe,GEN,Migraine answers classified in part on reference validity with reference hallucinations reported; reference denominator and verification source cannot be told from abstract
+R0220,exclude,,no citation outcome
+R0221,exclude,,no citation outcome
+R0222,exclude,,review or editorial type
+R0223,exclude,,no citation outcome
+R0224,exclude,,no citation outcome
+R0225,maybe,GEN,ChatGPT responses for myocardial viability with references analysed for validity; total reference denominator and verification source cannot be told from abstract
+R0226,maybe,GEN,Ophthalmology answers provided 252 references without RAG with 45.3% hallucinated; named external verification source cannot be told from abstract
+R0227,exclude,,no citation outcome
+R0228,maybe,GEN,Guideline answers scored for reference hallucinations per model; reference denominator and verification source cannot be told from abstract
+R0229,exclude,,no citation outcome
+R0230,maybe,GEN,Generative AI tools evaluated for literature review in perinatology with citation accuracy compared; denominator and verification source cannot be told from abstract
+R0231,maybe,GEN,TMD chatbot references verified as authentic and retrievable in PubMed or other authoritative databases with hallucinated percentages per model; total reference denominator cannot be told from abstract
+R0233,exclude,,no citation outcome
+R0234,exclude,,no citation outcome
+R0236,exclude,,no citation outcome
+R0237,exclude,,review or editorial type
+R0240,exclude,,review or editorial type
+R0241,exclude,,no citation outcome
+R0244,exclude,,no citation outcome
+R0245,exclude,,review or editorial type
+R0247,exclude,,review or editorial type
+R0248,exclude,,no citation outcome
+R0249,exclude,,no citation outcome
+R0250,maybe,GEN,Diagnostic study with a stated fabricated reference question and reference accuracy 34.8% for citations and 37.8% for DOIs; denominator and verification source cannot be told from abstract
+R0251,exclude,,no citation outcome
+R0252,exclude,,no citation outcome
+R0253,exclude,,review or editorial type
+R0254,exclude,,review or editorial type
+R0256,exclude,,no denominator
+R0257,exclude,,no citation outcome
+R0258,exclude,,review or editorial type
+R0261,exclude,,no citation outcome
+R0262,exclude,,no citation outcome
+R0263,include,GEN,LLMs prompted to provide four references per radiology question with full bibliographic details and PMID; verified using Medline Google Scholar Directory of Open Access Journals and web searches with fabrication rates
+R0264,maybe,GEN,Clavicle fracture answers with references requested; 128 references evaluated with 88.3% fabricated; named external verification source cannot be told from abstract
+R0265,include,GEN,ChatGPT generated a literature review with citations on autologous fat grafting; 21 citations evaluated with 8 not found in PubMed
+R0266,maybe,GEN,Gastrointestinal pathology scenarios evaluated for pseudo-reference hallucinations at 25-50%; total reference denominator and verification source cannot be told from abstract
+R0267,maybe,GEN,Specialized LLM references assessed for verifiability and relevance with no hallucinatory content; reference denominator and verification source cannot be told from abstract
+R0268,exclude,,review or editorial type
+R0269,exclude,,no citation outcome
+R0270,maybe,GEN,Thyroid chatbot responses and references assessed for reference quality by specialists; reference denominator and verification source cannot be told from abstract
+R0271,exclude,,review or editorial type
+R0272,exclude,,no citation outcome
+R0273,exclude,,no citation outcome
+R0274,maybe,GEN,AI tools presented 101 literature items for eCPR questions with 55% rated hallucinatory by experts; named bibliographic verification source cannot be told from abstract
+R0275,maybe,GEN,Tumor board recommendations generated with PubMed references; 75% properly cited and 17% hallucinations; total reference denominator cannot be told from abstract
+R0276,maybe,GEN,Spine guideline answers generated 254 references with 24% fabricated; named external verification source cannot be told from abstract
+R0277,maybe,GEN,Achilles tendon answers with references requested; 47 references provided with 26% fabricated; named external verification source cannot be told from abstract
+R0278,exclude,,review or editorial type
+R0279,exclude,,no citation outcome
+R0280,include,GEN,ChatGPT asked to provide supporting references for endodontic anesthesia questions; 51 references evaluated using PubMed Google Scholar and journal records with 18% hallucinations
+R0282,maybe,GEN,Epidemiology answers with references evaluated for relevance and authenticity with denominators per model; named verification source for authenticity cannot be told from abstract
+R0283,exclude,,no citation outcome
+R0284,exclude,,topic not biomedical and no biomedical split
+R0285,exclude,,no citation outcome
+R0287,exclude,,review or editorial type
+R0288,exclude,,no citation outcome
+R0289,maybe,GEN,ChatGPT listed references for extravasation answers evaluated as validated with no hallucinations; reference-level denominator and verification source cannot be told from abstract

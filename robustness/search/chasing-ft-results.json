@@ -1,0 +1,42 @@
+{
+ "R16155": {
+  "retrieved": true,
+  "route": "europepmc_xml"
+ },
+ "R16143": {
+  "retrieved": false,
+  "route": null
+ },
+ "R16144": {
+  "retrieved": true,
+  "route": "europepmc_xml_title"
+ },
+ "R16430": {
+  "retrieved": true,
+  "route": "unpaywall_pdf"
+ },
+ "R16012": {
+  "retrieved": true,
+  "route": "europepmc_xml"
+ },
+ "R16331": {
+  "retrieved": true,
+  "route": "unpaywall_html"
+ },
+ "R16145": {
+  "retrieved": false,
+  "route": null
+ },
+ "R16439": {
+  "retrieved": true,
+  "route": "unpaywall_pdf"
+ },
+ "R16146": {
+  "retrieved": false,
+  "route": null
+ },
+ "R16432": {
+  "retrieved": true,
+  "route": "unpaywall_pdf"
+ }
+}

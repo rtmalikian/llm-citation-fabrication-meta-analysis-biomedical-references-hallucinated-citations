@@ -1,0 +1,116 @@
+record_id,adjudicator_call,stratum,reason
+R0002,exclude,,review or editorial type
+R0003,maybe,GEN,"LLM literature reviews on biomedical topics with 58.8% fabricated references, but total denominator and named verification source not stated"
+R0004,include,GEN,"Prompted AI tools for medical literature searches, real vs hallucinated citation counts compared with PubMed"
+R0006,exclude,,no citation outcome
+R0009,maybe,GEN,"500 references generated on restorative dentistry topics, verified using indexed databases not named specifically"
+R0010,exclude,,review or editorial type
+R0011,exclude,,no citation outcome
+R0012,exclude,,no citation outcome
+R0014,exclude,,no citation outcome
+R0015,maybe,GEN,"References manually verified with inaccuracies reported, but denominator and named verification source not stated"
+R0017,exclude,,no citation outcome
+R0019,exclude,,no citation outcome
+R0021,exclude,,no citation outcome
+R0023,exclude,,review or editorial type
+R0024,exclude,,no citation outcome
+R0025,exclude,,no citation outcome
+R0026,exclude,,review or editorial type
+R0027,exclude,,review or editorial type
+R0028,maybe,GEN,"96 citations in generated appeal letters assessed as hallucinated/erroneous, but named verification source not stated"
+R0029,exclude,,no citation outcome
+R0030,maybe,GEN,"References classified as fabricated with percentages, but total reference denominator and named verification source not stated"
+R0032,exclude,,no citation outcome
+R0033,exclude,,review or editorial type
+R0034,exclude,,no citation outcome
+R0035,exclude,,no external verification
+R0036,maybe,GEN,"Citation fabrication percentages in neuroradiology writing, but total citation denominator and named verification source not stated"
+R0037,exclude,,no citation outcome
+R0038,exclude,,review or editorial type
+R0039,exclude,,no citation outcome
+R0040,exclude,,no citation outcome
+R0041,exclude,,no citation outcome
+R0042,maybe,GEN,"999 and 393 citations with accuracy counts on spine guideline questions, but named verification database not stated"
+R0045,include,GEN,"300 references generated in endodontics, verified using PubMed, Google Scholar and CrossRef"
+R0046,exclude,,no citation outcome
+R0047,maybe,GEN,"Hallucinated citations noted in cardiology literature-search subanalysis, but no count, denominator or verification source stated"
+R0048,exclude,,review or editorial type
+R0049,exclude,,no citation outcome
+R0051,exclude,,no citation outcome
+R0052,exclude,,no citation outcome
+R0053,include,GEN,"300 references generated in neurocritical care, verified against PubMed, DOI, Google Scholar and CrossRef, 85 fabricated"
+R0054,exclude,,review or editorial type
+R0056,exclude,,no citation outcome
+R0057,exclude,,review or editorial type
+R0058,exclude,,no citation outcome
+R0059,maybe,GEN,"33 references in generated sleeve gastrectomy review with verifiable/fabricated counts, but named verification source not stated"
+R0060,exclude,,anecdote
+R0062,exclude,,no citation outcome
+R0063,exclude,,no citation outcome
+R0064,exclude,,not a language model study
+R0066,exclude,,review or editorial type
+R0067,exclude,,review or editorial type
+R0068,exclude,,no citation outcome
+R0069,exclude,,no citation outcome
+R0070,exclude,,no citation outcome
+R0071,maybe,GEN,"Reference authenticity verified with fabrication percentages in hypospadias consultation, but total denominator and named verification source not stated"
+R0072,exclude,,no citation outcome
+R0073,exclude,,review or editorial type
+R0074,maybe,GEN,"Manual verification of 123 AI-generated references with fabricated percentages, but named verification source not stated"
+R0075,exclude,,no citation outcome
+R0076,exclude,,no citation outcome
+R0077,exclude,,review or editorial type
+R0078,maybe,GEN,"Reference quality and fabricated citations reported, but denominator and named verification source not stated"
+R0079,exclude,,no citation outcome
+R0080,maybe,GEN,"1800 references analysed in anatomy QA, verified against indexed sources not named specifically"
+R0083,exclude,,no citation outcome
+R0084,exclude,,no citation outcome
+R0085,exclude,,no citation outcome
+R0086,exclude,,no citation outcome
+R0088,maybe,GEN,"Reference fabrication percentages in restorative dentistry responses, but total denominator and named verification source not stated"
+R0090,exclude,,no citation outcome
+R0091,exclude,,no citation outcome
+R0092,exclude,,review or editorial type
+R0093,exclude,,review or editorial type
+R0094,include,GEN,"Prompted generation of PubMed citations in ophthalmology, accuracy assessed by PubMed verifiability and DOI concordance"
+R0095,maybe,GEN,"Reference validity percentages reported, but total citation denominator and named verification source not stated"
+R0096,exclude,,review or editorial type
+R0097,exclude,,no citation outcome
+R0100,maybe,GEN,"3150 references generated with RHS verifiability and PMID validity, but named external verification source not stated explicitly"
+R0102,exclude,,no citation outcome
+R0104,maybe,GEN,"Reference hallucination score reported for guideline questions, but total reference denominator and named verification source not stated"
+R0105,exclude,,no citation outcome
+R0106,exclude,,no citation outcome
+R0108,maybe,GEN,"Reference reliability and verifiability by RHS reported, but denominator and named verification source not stated"
+R0109,exclude,,no citation outcome
+R0110,exclude,,review or editorial type
+R0111,maybe,GEN,"Fabricated reference percentages for incorrectly answered neurology questions, but denominator subset and named verification source not stated"
+R0112,maybe,GEN,"Citations manually verified with fabrication rates in spine surgery, but named verification source not stated"
+R0115,maybe,GEN,"Citation validity and hallucinations reported on periodontology exam, but denominator and named verification source not stated"
+R0116,maybe,GEN,"At least half of references hallucinated in otolaryngology QA, but total denominator and named verification source not stated"
+R0118,exclude,,no citation outcome
+R0119,include,GEN,"Generated penile prosthesis review with reference validity verified via PubMed and Google Scholar, proportion fully accurate reported"
+R0121,exclude,,review or editorial type
+R0122,exclude,,no citation outcome
+R0123,maybe,GEN,"Source citation accuracy assessed by experts in epilepsy reasoning, but counts, denominator and named verification source not reported in abstract"
+R0124,exclude,,review or editorial type
+R0125,maybe,GEN,"Citation accuracy counts out of 35 per model with DOI matching in anterior segment research, but named external verification source not stated explicitly"
+R0126,exclude,,no citation outcome
+R0127,exclude,,no citation outcome
+R0128,maybe,GEN,"Citation precision and fabrication assessed in implant dentistry plans, but reference denominator and named verification source not stated"
+R0130,exclude,,no citation outcome
+R0131,maybe,GEN,"Citations requested on otolaryngology vignettes with hallucination rate, but total citation denominator and named verification source not stated"
+R0132,maybe,GEN,"Hallucinated citations per prompt and citation quality reported in imaging selection, but reference-level denominator and external verification source not stated"
+R0133,exclude,,no citation outcome
+R0134,maybe,GEN,"44 references in appeal letters with fabricated percentages, but named verification source not stated"
+R0135,exclude,,anecdote
+R0136,maybe,GEN,"Citation accuracy and fabrication rates over 661 claims in RAG consent documents, but denominator is claims not references and generation stratum is unclear from abstract"
+R0137,exclude,,no citation outcome
+R0138,maybe,GEN,"Fabricated or non-verifiable references compared in medico-legal reports, but total denominator and named verification source not stated"
+R0139,exclude,,no citation outcome
+R0140,maybe,GEN,"About 40% of references fabricated or misattributed in biliary cancer guideline queries, but total denominator and named verification source not stated"
+R0142,exclude,,no citation outcome
+R0144,exclude,,no citation outcome
+R0145,exclude,,anecdote
+R0147,maybe,GEN,"45 retrieved references manually validated with hallucination counts in dermatology scenario, but named external verification database not stated"
+R0148,maybe,GEN,"Citations scored for accuracy and completeness with fabricated citations reported in chatbot audit, but total citation denominator and named verification source not stated"

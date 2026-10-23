@@ -1,0 +1,52 @@
+study,record,arm,family,retrieval,pub,year,topic,specialty,requested,n,x
+Güneş_2026,R2956,Claude 3.5 Sonnet,Claude,not_reported,peer_reviewed,,not_reported,radiology,480.0,480,15
+Güneş_2026,R2956,Claude 3 Opus,Claude,not_reported,peer_reviewed,,not_reported,radiology,480.0,480,88
+Güneş_2026,R2956,ChatGPT-4o,GPT,not_reported,peer_reviewed,,not_reported,radiology,480.0,480,133
+Güneş_2026,R2956,ChatGPT-4o with canvas,GPT,not_reported,peer_reviewed,,not_reported,radiology,480.0,480,254
+Güneş_2026,R2956,ChatGPT o1-preview,GPT,not_reported,peer_reviewed,,not_reported,radiology,480.0,480,226
+Güneş_2026,R2956,Gemini 1.5 Pro,Gemini,not_reported,peer_reviewed,,not_reported,radiology,480.0,480,291
+Linardon_2025,R3629,GPT-4o,GPT,none,peer_reviewed,,mixed,psychiatry and mental health,,176,35
+Athaluri_2023,R0094,ChatGPT,GPT,none,peer_reviewed,,not_reported,mixed biomedical,,178,28
+Civelekler_2026,R0125,DeepSeek-R1,DeepSeek,none,peer_reviewed,,not_reported,"ophthalmology (anterior segment: corneal, conjunctival and eyelid diseases)",35.0,35,13
+Civelekler_2026,R0125,ChatGPT (GPT-5.1),GPT,none,peer_reviewed,,not_reported,"ophthalmology (anterior segment: corneal, conjunctival and eyelid diseases)",35.0,35,19
+Civelekler_2026,R0125,Copilot (Microsoft Copilot 4.2),other (Microsoft Copilot),none,peer_reviewed,,not_reported,"ophthalmology (anterior segment: corneal, conjunctival and eyelid diseases)",35.0,35,17
+Civelekler_2026,R0125,Gemini (Google Gemini Ultra 2.5),Gemini,none,peer_reviewed,,not_reported,"ophthalmology (anterior segment: corneal, conjunctival and eyelid diseases)",35.0,35,31
+Gravel_2023,R0210,ChatGPT,GPT,none,peer_reviewed,,not_reported,mixed biomedical,,59,41
+Pastucha_2026,R0696,ChatGPT-4,GPT,none,peer_reviewed,,not_reported,otorhinolaryngology,,231,17
+Pastucha_2026,R0696,ChatGPT-4.1,GPT,none,peer_reviewed,,not_reported,otorhinolaryngology,,396,82
+Pastucha_2026,R0696,ChatGPT-4.1 (web search),GPT,browsing,peer_reviewed,,not_reported,otorhinolaryngology,,296,7
+Pastucha_2026,R0696,Gemini 1.5 Pro,Gemini,none,peer_reviewed,,not_reported,otorhinolaryngology,,193,30
+Pastucha_2026,R0696,Gemini 2.5 Pro,Gemini,none,peer_reviewed,,not_reported,otorhinolaryngology,,530,103
+Pastucha_2026,R0696,Gemini 2.5 Pro (web search),Gemini,browsing,peer_reviewed,,not_reported,otorhinolaryngology,,301,4
+Nieves-Lopez_2026,R1103,ChatGPT-5.4,GPT,not_reported,peer_reviewed,,not_reported,foot and ankle surgery (orthopaedics),,703,32
+Nieves-Lopez_2026,R1103,Gemini-3,Gemini,not_reported,peer_reviewed,,not_reported,foot and ankle surgery (orthopaedics),,796,11
+Nieves-Lopez_2026,R1103,Copilot,other (Microsoft Copilot),not_reported,peer_reviewed,,not_reported,foot and ankle surgery (orthopaedics),,929,26
+Chelli_2024,R2136,GPT-3.5,GPT,none,peer_reviewed,,not_reported,"mixed biomedical (rotator cuff systematic reviews: surgery, sports medicine, physiotherapy, anesthesiology)",,139,55
+Chelli_2024,R2136,GPT-4,GPT,none,peer_reviewed,,not_reported,"mixed biomedical (rotator cuff systematic reviews: surgery, sports medicine, physiotherapy, anesthesiology)",,119,34
+Chelli_2024,R2136,Bard,Gemini,none,peer_reviewed,,not_reported,"mixed biomedical (rotator cuff systematic reviews: surgery, sports medicine, physiotherapy, anesthesiology)",,104,95
+Hasnain_2025,R3074,ChatGPT,GPT,not_reported,peer_reviewed,,not_reported,ophthalmology (conjunctivitis),30.0,15,2
+Hasnain_2025,R3074,DeepSeek,DeepSeek,not_reported,peer_reviewed,,not_reported,ophthalmology (conjunctivitis),30.0,30,2
+Shi_2026,R5289,AI Research Army (pipeline),Claude,database,preprint,,not_reported,clinical epidemiology (NHANES),,49,1
+Shi_2026,R5289,AI Scientist,GPT,not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,43,2
+Shi_2026,R5289,AI Research Army (single),Claude,none,preprint,,not_reported,clinical epidemiology (NHANES),,64,3
+Shi_2026,R5289,Baseline (GPT-4),GPT,not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,68,6
+Shi_2026,R5289,AI-Researcher,other (system-default models not reported),not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,79,22
+Shi_2026,R5289,Data-to-Paper,other (system-default models not reported),not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,83,30
+Shi_2026,R5289,Agent Laboratory,other (system-default models not reported),not_reported,preprint,,not_reported,clinical epidemiology (NHANES),,97,35
+Sawamura_2024,R6708,ChatGPT (free version),GPT,none,peer_reviewed,,not_reported,physical therapy (rehabilitation),,37,15
+Kutluay_2026,R0436,ChatGPT-5.3,GPT,browsing,peer_reviewed,,established,surgical specialty (orthopedics and traumatology),45.0,45,15
+Hueber_2023,R0712,ChatGPT,GPT,none,peer_reviewed,,mixed,medical specialty (rheumatology),,25,16
+Jędrzejczak_2024,R1232,ChatGPT-4 - Session 1,GPT,none,preprint,,established,medical specialty (otorhinolaryngology),,76,5
+Jędrzejczak_2024,R1232,ChatGPT-4 - Session 2,GPT,none,preprint,,established,medical specialty (otorhinolaryngology),,81,8
+Jędrzejczak_2024,R1232,ChatGPT-4 - Session 3,GPT,none,preprint,,established,medical specialty (otorhinolaryngology),,74,4
+Jędrzejczak_2024,R1232,Gemini Advanced - Session 1,Gemini,none,preprint,,established,medical specialty (otorhinolaryngology),,65,17
+Jędrzejczak_2024,R1232,Gemini Advanced - Session 2,Gemini,none,preprint,,established,medical specialty (otorhinolaryngology),,68,7
+Jędrzejczak_2024,R1232,Gemini Advanced - Session 3,Gemini,none,preprint,,established,medical specialty (otorhinolaryngology),,60,6
+UçarGündoğar_2026,R3820,ChatGPT-4o,GPT,none,peer_reviewed,,established,dentistry (pediatric dentistry),,114,61
+UçarGündoğar_2026,R3820,DeepSeek R1,DeepSeek,none,peer_reviewed,,established,dentistry (pediatric dentistry),,149,98
+Bernstein_2026,R0043,ChatGPT-5,GPT,browsing,peer_reviewed,,not_reported,orthopaedic surgery (AAOS clinical practice guidelines),,2736,195
+Adıgüzel_2026,R0045,ChatGPT 5,GPT,none,peer_reviewed,,established,dentistry (endodontics),150.0,150,1
+Adıgüzel_2026,R0045,Claude Sonnet 4.6,Claude,none,peer_reviewed,,established,dentistry (endodontics),150.0,150,1
+Seifi_2026,R0053,GPT-5.3,GPT,none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,27
+Seifi_2026,R0053,DeepSeek-V3,DeepSeek,none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,8
+Seifi_2026,R0053,Grok-4,other (Grok),none,peer_reviewed,,not_reported,medical specialty (neurocritical care),100.0,100,50

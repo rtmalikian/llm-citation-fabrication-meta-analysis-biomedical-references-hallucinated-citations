@@ -18,7 +18,7 @@ Review 2 of the Cochrane-style clinical AI meta-analysis series. Cochrane Handbo
 
 **Objectives.** To estimate, from generation experiments, the proportion of LLM generated biomedical references that are completely fabricated, the proportion with any major inaccuracy, and the proportion fully accurate, and to examine how those proportions vary by model family, retrieval use, publication type and study level pooling.
 
-**Search methods.** PubMed, Europe PMC, OpenAIRE, Crossref and an OpenAlex test page were searched on 22 October 2026, with exact strings, dates and hit counts in the search log. arXiv and Semantic Scholar were attempted and blocked by rate limits and are logged as blocked. Embase, Scopus and Web of Science strings were prepared and are marked run pending access. No language limit was applied at search.
+**Search methods.** PubMed, Europe PMC, OpenAIRE, Crossref and an OpenAlex test page were searched on 22 October 2026, with exact strings, dates and hit counts in the search log. A robustness pass on 23 October 2026 attempted full OpenAlex retrieval (blocked after retries, rate limit), retried arXiv and Semantic Scholar by two routes each (blocked), and added systematic citation chasing (489 new records). Embase, Scopus and Web of Science strings were prepared and are marked run pending access. No language limit was applied at search.
 
 **Eligibility criteria.** Primary studies that prompted one or more LLMs to generate references on a biomedical or clinical topic, reported the number generated, and verified each reference against a named source. Large scale audits of the published literature were eligible as a separate stratum and were never pooled with generation experiments. Editorials, reviews with no original experiment, detection tools, citation screening studies and reports with no denominator were excluded.
 
@@ -28,11 +28,11 @@ Review 2 of the Cochrane-style clinical AI meta-analysis series. Cochrane Handbo
 
 **Synthesis methods.** Random effects meta-analysis of proportions in Python (numpy, scipy, pandas), logit transformation, REML tau squared, prediction intervals where 10 or more arms pooled. Model arms within studies were kept visible; a per study pool was run as a sensitivity check for every outcome.
 
-**Included studies.** 15,985 records were screened. Twenty five generation experiments (69 model arms) and one published literature audit met the rules.
+**Included studies.** 16,474 records were screened. Sixty three generation experiments (148 model arms) and one published literature audit met the rules. Corrected version: the first version of this review (22 October 2026) included 25 experiments; a robustness pass the next day re-adjudicated every screening disagreement by reading, chased citations, extracted every study a second time independently and settled every discrepancy against the source, and found one duplicate study (counted once). The corrected version is the one to cite.
 
-**Results of syntheses.** Completely fabricated: pooled 18.6 percent (95% CI 12.8 to 26.3), 51 arms, 18 studies, 12,828 references, I squared 97.7 percent, prediction interval 0.9 to 84.7 percent, GRADE very low. Fully accurate: pooled 29.4 percent (19.5 to 41.7), 42 arms, 13 studies, 12,002 references, I squared 98.5 percent, GRADE very low. Any major inaccuracy: pooled 36.0 percent (19.8 to 56.3), 9 arms, 5 studies, 1,537 references, I squared 96.1 percent, GRADE very low. Per study sensitivity pools gave 23.0 percent fabricated and 41.2 percent fully accurate. Arms with retrieval or browsing active pooled 5.0 percent fabricated against 25.1 percent for arms with retrieval off. The audit stratum, reported apart, found fabricated citations in published papers rising from about 1 in 2,828 papers in 2023 to about 1 in 277 in early 2026.
+**Results of syntheses.** Completely fabricated: pooled 19.4 percent (95% CI 14.9 to 24.8), 113 arms, 50 studies, 22,461 references, I squared 97.1 percent, prediction interval 1.0 to 85.6 percent, GRADE very low. Fully accurate: pooled 37.0 percent (27.2 to 47.9), 58 arms, 28 studies, 14,224 references, I squared 98.2 percent, GRADE very low. Any major inaccuracy: pooled 16.5 percent (5.7 to 39.2), 20 arms, 14 studies, 2,668 references, I squared 96.7 percent, GRADE very low. Per study sensitivity pools gave 24.7 percent fabricated and 38.2 percent fully accurate. Arms with retrieval or browsing active pooled 5.8 percent fabricated against 31.0 percent for arms with retrieval off (26 retrieval arms). First version figures, superseded: fabricated 18.6 percent, fully accurate 29.4 percent, major inaccuracy 36.0 percent (the last rested on counts that did not survive settlement and should not be quoted). The audit stratum, reported apart, found fabricated citations in published papers rising from about 1 in 2,828 papers in 2023 to about 1 in 277 in early 2026.
 
-**Authors' conclusions.** In these experiments, roughly one generated biomedical reference in five did not exist, and fewer than one in three was fully accurate. The spread between models and setups was wider than any average, so the pooled figures describe a literature, not a property of a named product. Verification of every generated reference against a database is the only step in this literature that consistently separated usable lists from unusable ones. Certainty is very low throughout, mainly because verification conduct was poorly reported and heterogeneity stayed high after every pre-specified subgroup.
+**Authors' conclusions.** In these experiments, roughly one generated biomedical reference in five did not exist, and just over one in three was fully accurate. The spread between models and setups was wider than any average, so the pooled figures describe a literature, not a property of a named product. Verification of every generated reference against a database is the only step in this literature that consistently separated usable lists from unusable ones. Certainty is very low throughout, mainly because verification conduct was poorly reported and heterogeneity stayed high after every pre-specified subgroup.
 
 **Funding.** None. **Registration.** None issued before analysis; see the title page note.
 
@@ -46,25 +46,25 @@ Population: biomedical and clinical topics for which references are requested. I
 
 ## PRISMA summary
 
-16,497 records retrieved; 512 duplicates removed; 15,985 screened; 122 reports sought; 46 not retrieved; 76 assessed; 48 excluded with one reason each; 27 generation experiment reports covering 25 unique studies, plus 1 audit report. Full flow: prisma-flow.md and prisma-flow-diagram.png. Counts match the CSVs in this repository exactly.
+16,497 records retrieved from databases plus 979 citation chasing candidates (489 new); 16,474 screened; 293 reports sought; 115 not retrieved; 178 assessed; 111 excluded with one reason each; 66 generation experiment reports covering 63 unique studies, plus 1 audit report. Full flow: prisma-flow.md and prisma-flow-diagram.png. Counts match the CSVs in this repository exactly.
 
 ## Summary of findings (GRADE, adapted for proportions)
 
 | Outcome | Arms | Studies | References | Pooled (95% CI) | I squared | Certainty |
 |---|---|---|---|---|---|---|
-| Completely fabricated | 51 | 18 | 12,828 | 18.6% (12.8 to 26.3) | 97.7% | Very low |
-| Any major inaccuracy | 9 | 5 | 1,537 | 36.0% (19.8 to 56.3) | 96.1% | Very low |
-| Fully accurate | 42 | 13 | 12,002 | 29.4% (19.5 to 41.7) | 98.5% | Very low |
+| Completely fabricated | 113 | 50 | 22,461 | 19.4% (14.9 to 24.8) | 97.1% | Very low |
+| Any major inaccuracy | 20 | 14 | 2,668 | 16.5% (5.7 to 39.2) | 96.7% | Very low |
+| Fully accurate | 58 | 28 | 14,224 | 37.0% (27.2 to 47.9) | 98.2% | Very low |
 
-Arms with retrieval or browsing active pooled 5.0% fabricated against 25.1% with retrieval off (5 retrieval arms; a signal, not a settled result).
+Arms with retrieval or browsing active pooled 5.8% fabricated against 31.0% with retrieval off (26 retrieval arms; firmer than in the first version, still tangled with model generation).
 
 ## LLM team mechanics
 
-Dual independent title and abstract screening (agreement 94.29%, Cohen kappa 0.13, prevalence effect explained in the log), coded adjudication, three extraction batches plus a re-retrieval batch, a verification pass with hand checks against printed values, two independent risk of bias assessors (56 of 200 domain judgements disagreed; adjudication took the more cautious judgement), statistician and GRADE roles. Full account: llm-team-log.md.
+Dual independent title and abstract screening (agreement 94.29%, Cohen kappa 0.13, prevalence effect explained in the log). In the first version, adjudication was coded and risk of bias disagreements took the more cautious judgement. The robustness pass replaced both with adjudication by reading (screening: all 913 disagreements re-read, agreement with the coded rule 80.0 percent; risk of bias: every domain disagreement settled on the printed evidence, two studies changed overall category), added a second fully independent extraction of every study with every discrepancy settled against the source (robustness-discrepancy-log.md), statistician and GRADE roles. Full account: llm-team-log.md.
 
 ## File map
 
-manuscript.md and manuscript.pdf (full review), manuscript.docx, plain-language-summary.md, protocol.md, prospero-form.md, prompts.md, extraction-form.md, rob-forms.md, rob-summary.md, rob-assessments.csv, search-log.md, search-appendix-pending.md, screening.csv, screening-stage2.csv, fulltext-screening.csv, extraction.csv, extraction-outcomes.csv, analysis-fabricated.csv, analysis-major_inaccuracy.csv, analysis-fully_accurate.csv, analysis.py, forest_plots.py, build_docx.py, forest-fabricated.png, forest-major_inaccuracy.png, forest-fully_accurate.png, prisma-flow.md, prisma-flow-diagram.png, flagged-for-author.md, analysis-results.json, journal-package/ (JMLA submission package), launch-drafts.md.
+manuscript.md and manuscript.pdf (full review), manuscript.docx, plain-language-summary.md, protocol.md, prospero-form.md, prompts.md, extraction-form.md, rob-forms.md, rob-summary.md, rob-assessments.csv, search-log.md, search-appendix-pending.md, screening.csv, screening-stage2.csv, fulltext-screening.csv, extraction.csv, extraction-outcomes.csv, extraction-passA.csv, extraction-passB.csv, robustness-discrepancy-log.md, robustness-version-notes.md, robustness/ (pass working files), analysis-fabricated.csv, analysis-major_inaccuracy.csv, analysis-fully_accurate.csv, analysis.py, analysis_norm.py, forest_plots_v2.py, build_docx.py, forest-fabricated.png, forest-major_inaccuracy.png, forest-fully_accurate.png, prisma-flow.md, prisma-flow-diagram.png, flagged-for-author.md, analysis-results.json, journal-package/ (JMLA submission package), launch-drafts.md.
 
 ## Data and code availability
 

@@ -59,3 +59,27 @@ Date limit applied where the source supports it: 2023-01-01 to 2026-10-22 (PubMe
 
 ## Not run in this pass
 Embase, Scopus and Web of Science were not run. This environment holds no licensed access to them. Exact strings ready to run sit in search-appendix-pending.md, each marked string prepared, run pending access. The finished review must not claim those databases were searched until a dated run with a hit count is added to this log. Also not run: a full OpenAlex retrieval beyond the 25-record test call; a direct medRxiv/bioRxiv API run (preprints covered via Europe PMC and the Crossref posted-content check, as noted above); the PubMed broader variant (trigger not met, see above); the arXiv broader variant (core run blocked, see above); CINAHL, PsycINFO, Cochrane CENTRAL, ACM Digital Library and a Google Scholar pass were not part of the specified source set for this pass and were not run.
+
+## Robustness pass, 23 October 2026
+
+Full detail in robustness/search/expansion-summary.md and robustness/search/retry-log.md. Summary:
+
+### OpenAlex full retrieval: attempted, blocked after retries
+The v1 test call returned meta.count 1,773 for the logged query. Full retrieval was attempted three times on 23 Oct 2026 (01:50, 02:12, 02:37 UTC) by cursor paging. Every attempt returned HTTP 429 with the body: "Insufficient budget. This request costs $0.001 but you only have $0 remaining. Resets at midnight UTC." The daily budget is shared across the sandbox network address, so the shortfall is not specific to this review. Records retrieved: 0. OpenAlex is logged as attempted and blocked after retries, not as searched. Two unblock routes exist and neither was taken without the author's action: rerun after the midnight UTC reset, or a free per-user API key (the API offered activation by emailed link; creating an account was outside this pass's authorisation).
+
+### arXiv retry: blocked after retries
+Route A (export.arxiv.org API, max_results=200): read timeout at 60 seconds, 0 records. Route B (export.arxiv.org API, max_results=100): HTTP 429. Logged as attempted and blocked after retries, not searched. No hit count was obtained on either attempt, and none is filled in.
+
+### Semantic Scholar retry: blocked after retries
+Route A (Graph API bulk search): HTTP 429. Route B (Graph API paper search): HTTP 429. Logged as attempted and blocked after retries, not searched. The API's suggested key flow requires account creation and was not taken.
+
+### Citation chasing (new in this pass)
+Seeds: the 25 first version generation studies, the Yin 2026 audit, and the two competing reviews named in the manuscript (Basu and Huynh 2026; Topaz 2026). Backward chasing from Europe PMC reference lists, forward chasing from Europe PMC citation lists, Crossref as fallback where Europe PMC held no list. Raw candidates: 979 (534 backward, 445 forward). Of these, 454 were already in the deduplicated set and 36 were duplicates within the chasing set, leaving 489 genuinely new records (IDs R15986 to R16474 in robustness/search/new-records.csv). Abstracts were enriched from Europe PMC where the chasing source gave none: 404 of 489 carry an abstract.
+
+Screening of the 489: dual independent screening by reading (screener rule sets A and B, working apart). Screener A passed 3, screener B passed 44, both passed 3 (R16012, R16146, R16331), both excluded 445, disagreements 41. An adjudicator read all 54 non-excluded records (the 41 disagreements, the 3 joint passes and 10 screener maybes) and passed 10 to retrieval (0 include, 7 maybe, 3 joint passes), excluding 47. Retrieval (open access only): 7 retrieved (R16012, R16144, R16155, R16331, R16430, R16432, R16439), 3 not retrieved (R16143, R16145, R16146). Full text decisions: 2 included as generation experiments (R16144 Mikus 2024; R16439 Jedrzejczak 2023), 5 excluded with one reason each (R16012 no primary experiment; R16155 perception survey, no generated references; R16331 wrong text retrieved, a correction notice, correct text not obtainable; R16430 narrative review with no generated reference check; R16432 insufficient method detail to extract).
+
+### Re-adjudication retrieval (screening workstream)
+The re-adjudication of the 913 first pass disagreements passed 190 records; 29 were already among the first version's sought reports, leaving 161 new reports sought. Retrieval by the review's standard routes (Europe PMC full text XML, Unpaywall best open access PDF, publisher HTML): 95 retrieved, 66 not retrieved. Full text decisions on the 95: 37 included as generation experiments, 58 excluded with one reason each (files robustness/ft2/ft-decisions-1 to 4.csv).
+
+### Totals after the pass
+Records screened: 16,474 (15,985 + 489). Reports sought: 293. Reports not retrieved: 115. Reports assessed: 178. Reports excluded at full text: 111. Generation reports included: 66, covering 63 unique studies after the Jedrzejczak 2024 / Pastucha 2026 merge. Audit reports: 1.

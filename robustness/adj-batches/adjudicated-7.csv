@@ -1,0 +1,116 @@
+record_id,adjudicator_call,stratum,reason
+R4851,exclude,,no citation outcome; LLM identification of arrhythmia recurrence in EHR notes with no references generated or verified
+R4883,exclude,,no citation outcome; retrieval architecture paper with no citation generation experiment
+R4933,exclude,,no citation outcome; board summary evaluation with reference accuracy only a Likert item and no reference counts
+R4947,exclude,,no citation outcome; biomedical question answering retrieval study with no generated references counted
+R4951,exclude,,no citation outcome; patient query evaluation with no citation generation or verification counts
+R4957,exclude,,no citation outcome; literature extraction framework where verified citations are a provenance step and no generated reference outcome is counted
+R4973,exclude,,no citation outcome; guideline knowledge alignment benchmark with no citation task
+R4977,exclude,,no citation outcome; radiology impression generation study with no bibliographic citation outcome
+R4983,exclude,,no citation outcome; meta-research analysis of oncology ChatGPT studies that does not audit fabricated citations
+R4990,exclude,,no citation outcome; chart review data extraction study with no citation task
+R4995,exclude,,no citation outcome; RAG answered questions from given highly cited and less cited datasets with no generated references verified
+R5040,exclude,,no citation outcome; survey of ChatGPT use among student nurses
+R5078,maybe,GEN,LLM citations in Peyronie disease answers were appropriate only 42.5 percent of the time but the reference denominator and external verification source are not stated
+R5083,maybe,GEN,Six chatbots were asked for 10 references per medical prompt with reference hallucination scored over 500 references but the external verification source is not named in the abstract
+R5145,exclude,,review or editorial type; scoping review of LLM evaluation methods with no original generation experiment
+R5153,exclude,,no citation outcome; consumer trust experiments on simulated AI memory cues
+R5172,exclude,,no citation outcome; health education question answering accuracy study with no citation outcome
+R5179,exclude,,no citation outcome; patient education answers that lacked citations noted without a citation generation task or reference metric
+R5183,exclude,,no citation outcome; graduate biomedical examination performance study
+R5215,exclude,,no citation outcome; structured data extraction from echocardiography reports
+R5216,maybe,GEN,References provided by ChatGPT for acne education were rated for pertinence and relevance but the reference denominator and external verification source are not stated
+R5241,exclude,,no citation outcome; Caribbean facility citation is care navigation to facilities and not bibliographic references
+R5242,exclude,,no citation outcome; guideline based question answering agents with no reference counts despite a source citation agent
+R5262,exclude,,no citation outcome; guideline question answering comparison with no citation task
+R5282,exclude,,no citation outcome; clinical quality language execution prototype with no citation task
+R5287,exclude,,no citation outcome; surgical decision accuracy study with no citation outcome
+R5289,maybe,GEN,Citation hallucination rates of 2.9 to 36.8 percent across six AI manuscript generation systems but the citation denominator and external verification source are not stated
+R5294,exclude,,no citation outcome; custom GPT patient education tool evaluation with no citation outcome
+R5328,exclude,,no citation outcome; retrieval of prior PET reports with no bibliographic citation outcome
+R5337,exclude,,review or editorial type; review of reference management software with no original generation experiment or audit
+R5351,exclude,,no citation outcome; dental trauma question answering accuracy study
+R5361,maybe,GEN,Citations provided by Gemini and Copilot were categorized by source but no reference denominator or existence verification is stated
+R5403,maybe,GEN,52 references were generated for uveitis questions with 42.3 percent accurate and 42.3 percent not locatable but the verification databases are not named
+R5404,exclude,,no citation outcome; multimodal OCT report generation study
+R5408,exclude,,no citation outcome; GPT data extraction from health records with a human reference standard and no citation task
+R5424,exclude,,no citation outcome; ChatGPT implementation in dental education with no reference outcome
+R5443,exclude,,no citation outcome; question answering ratings with non-existent references mentioned qualitatively and no reference counts
+R5445,exclude,,no citation outcome; radiology report generation with hallucinations in reports and not citations
+R5446,maybe,UNCLEAR,Verification system validated on LLM reference hallucination data with N 5094 and 1280 fabricated references but the biomedical topic and the origin and denominator of the references are not tellable
+R5464,exclude,,review or editorial type; scoping review of ChatGPT opinions in nursing
+R5472,exclude,,no citation outcome; pharmacogenomics assistant evaluation with no generated reference counts
+R5512,exclude,,no citation outcome; medication error classification study
+R5515,exclude,,no citation outcome; structuring of knee ultrasound reports
+R5521,exclude,,no citation outcome; GPT-4 summarised published articles with fabricated references mentioned only as background
+R5539,maybe,GEN,Chatbots were rechallenged to provide verifiable sources for stem cell transplantation questions but no reference count or named external verification source is reported
+R5550,exclude,,no citation outcome; AI assisted analysis of DSM texts
+R5553,exclude,,no citation outcome; note level phenotyping agreement study
+R5556,maybe,GEN,One prompt condition requested ChatGPT responses with references on olfactory dysfunction but no reference count or citation outcome or verification source is reported
+R5577,maybe,GEN,ChatGPT-4o produced 62 references with 50 fake and DeepSeek 48 with 8 fake for oral pathology cases but the external verification source is not stated
+R5609,maybe,UNCLEAR,Citation hallucination rate reported for a claim verification tool using Semantic Scholar on SciFact claims but a biomedical reference generation experiment and its denominator are not tellable
+R5621,exclude,,no citation outcome; treatment outcome prediction framework with evidence citations in explanations not counted
+R5636,exclude,,no citation outcome; LLM uncertainty proxies for diagnosis and treatment
+R5657,exclude,,no citation outcome; chatbot answers scored with DISCERN and JAMA tools and no reference counts
+R5670,exclude,,no citation outcome; survey of AI adoption and verification practices among medical researchers
+R5692,exclude,,no citation outcome; crop disease diagnosis framework with no citation task
+R5754,exclude,,topic not biomedical and no biomedical split; materials science retrieval framework for photocatalysts
+R5773,maybe,GEN,25 references provided by ChatGPT-4o with 28 percent accurate and 66 percent inaccurate but the external verification source is not stated
+R5780,exclude,,no citation outcome; ambient voice transcription safety evaluation
+R5782,exclude,,no citation outcome; biological knowledge retrieval where fabricated references are noted qualitatively with no counts or denominator
+R5801,exclude,,no citation outcome; reproductive health information case study with no citation task
+R5822,exclude,,no citation outcome; LLM identification of children scientific drawings
+R5887,exclude,,no citation outcome; reference provision was scored yes or no and neither chatbot provided scientific references to verify
+R5896,exclude,,no citation outcome; cancer staging from radiology reports
+R5900,maybe,GEN,33 references in a generated sleeve gastrectomy review with 16 fully verifiable and 17 inaccurate or unverifiable including 3 fabricated but the external verification source is not named
+R5920,exclude,,no citation outcome; pharmacy multiple choice question benchmarking
+R5929,exclude,,no citation outcome; nursing care plan quality evaluation where verifiable references are only a quality correlate with no reference counts
+R5930,exclude,,topic not biomedical and no biomedical split; plant science virtual scientist with citation aware retrieval and no citation counts
+R5931,exclude,,review or editorial type; opinion essay proposing a knowledge archive with no original generation experiment or audit
+R5955,exclude,,no citation outcome; generation of key feature examination questions
+R5991,exclude,,no citation outcome; CT reference charts are healthy distribution charts and not bibliographic citations
+R5994,include,GEN,ChatGPT Deep Research searched PubMed for dental implantology and retrieved 114 articles with 2 cited articles nonexistent verified against a manual PubMed search by two reviewers
+R6022,exclude,,no citation outcome; retrieval augmented question answering performance modelling in plastic surgery
+R6033,exclude,,no citation outcome; plagiarism in chatbot narratives with cited source counts descriptive only and no reference validity verification
+R6085,exclude,,review or editorial type; systematic review of LLM agents for cybersecurity
+R6116,exclude,,no citation outcome; radiologic image interpretation where fabricated findings are imaging findings and not references
+R6119,exclude,,no citation outcome; clinical diagnostic reasoning evaluation
+R6145,exclude,,no citation outcome; diagnostic evaluation where verifiability of AI information was assessed without citation counts
+R6166,exclude,,no citation outcome; plain language adaptation of biomedical abstracts track
+R6180,exclude,,no citation outcome; qualitative student interview study with false references only a reported limitation
+R6209,exclude,,no citation outcome; family medicine certification examination performance
+R6213,exclude,,no citation outcome; grammaticality judgement comparison of LLMs and humans
+R6233,exclude,,review or editorial type; critical review of generative AI in health economics with no original generation experiment
+R6242,maybe,GEN,References cited by ChatGPT and Google were recorded and categorized by source type with percentages but the total reference denominator and existence verification are not stated
+R6249,exclude,,no citation outcome; clinical text retrieval study with no citation generation task
+R6252,exclude,,review or editorial type; systematic review of ChatGPT responses in orthopaedic sports medicine
+R6257,exclude,,no citation outcome; survey of hematologists knowledge attitudes and AI use
+R6291,exclude,,no citation outcome; multi domain hallucination benchmark where false citations are only one listed failure type with no citation counts
+R6292,include,GEN,Retrieval augmented LLM generated molecular tumor board recommendations with PubMed references of which 75 percent were properly cited from PubMed and 17 percent were hallucinations
+R6331,include,GEN,ChatGPT-5 generated a narrative review on penile prosthesis implantation and its reference validity was checked via PubMed and Google Scholar with about one third of citations fully accurate and several fabricated
+R6334,maybe,GEN,AI only scientific review drafts on three musculoskeletal topics had up to 70 percent of cited references inaccurate but the reference denominator and external verification source are not stated
+R6339,exclude,,no citation outcome; caregiving language model development and evaluation with no citation outcome
+R6345,exclude,,no citation outcome; qualitative migraine case study where inconsistent source citations are noted without counts
+R6347,exclude,,no citation outcome; low back pain patient education evaluation with no citation task
+R6354,exclude,,no citation outcome; ophthalmology triage evaluation
+R6396,exclude,,no citation outcome; IBD platform returns linked citations from a curated corpus but outcomes are usage metrics with no citation validity counts
+R6447,exclude,,no citation outcome; kidney transplant modelling framework grounded in named policy sources with no citation outcome
+R6457,exclude,,no citation outcome; delirium LLM evaluation where citation is only listed among areas needing improvement with no reference metrics
+R6488,exclude,,no citation outcome; software vulnerability detection framework with no citation task
+R6489,exclude,,review or editorial type; framework development from a narrative synthesis whose pilot traces sources in three meta analyses without estimating fabricated citations
+R6494,exclude,,review or editorial type; theoretical essay discussing bibliographic hallucination with no original data
+R6510,exclude,,no citation outcome; microgrid decision support framework whose case study does not evaluate an LLM or a citation task
+R6546,exclude,,no citation outcome; patient information quality comparison for rotator cuff injuries
+R6555,maybe,GEN,ChatGPT-4 was prompted for five references per section giving 25 references with 36 percent accurate and 16 percent completely fabricated but the external verification source is not named
+R6611,maybe,GEN,Real sources in references was a scored criterion with dissatisfaction rates reported for chatbot variants but the reference denominator and named external verification source are not stated
+R6614,exclude,,review or editorial type; narrative review of ambient AI scribes
+R6615,exclude,,no citation outcome; carbon monoxide poisoning question accuracy and consistency
+R6664,exclude,,review or editorial type; systematic review comparison of human and AI literature searching with no fabricated reference counts
+R6706,exclude,,no citation outcome; dental caries diagnostic accuracy study
+R6724,exclude,,no citation outcome; verification framework for public sector LLM systems with citation coverage as one indicator and no generation experiment counts
+R6745,exclude,,no citation outcome; radiograph classification accuracy study
+R6750,exclude,,no citation outcome; miscitation detection framework benchmarked by F1 score that neither generates references nor audits a stated published corpus for fabricated citations
+R6756,exclude,,review or editorial type; review of AI in reproductive medicine education
+R6775,maybe,GEN,AI assisted review writing on COVID-19 musculoskeletal health had about 20 percent inaccurate reference attributions after fact checking but the reference denominator and external verification source are not stated
+R6809,exclude,,review or editorial type; systematic review on fake news and deepfake detection
+R6839,exclude,,no citation outcome; formal kernel specification synthesis with no biomedical citation task

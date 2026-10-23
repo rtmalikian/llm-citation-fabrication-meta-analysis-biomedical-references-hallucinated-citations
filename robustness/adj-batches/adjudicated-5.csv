@@ -1,0 +1,116 @@
+record_id,adjudicator_call,stratum,reason
+R2854,exclude,,no citation outcome
+R2855,exclude,,no citation outcome
+R2856,exclude,,no citation outcome
+R2862,exclude,,no citation outcome
+R2870,exclude,,topic not biomedical and no biomedical split
+R2874,exclude,,no citation outcome
+R2878,exclude,,no citation outcome
+R2888,include,GEN,LLMs generated 270 cardiology reviews; all 8050 references verified against PubMed with fabricated and misattributed counts
+R2894,exclude,,no citation outcome
+R2908,exclude,,no citation outcome
+R2910,exclude,,no citation outcome
+R2919,exclude,,no citation outcome
+R2922,exclude,,no citation outcome
+R2924,exclude,,review or editorial type
+R2931,maybe,GEN,LLM reports for clinical queries compared on hallucinated and unfaithful citations; citation denominator and named external verification source not stated in abstract
+R2932,exclude,,review or editorial type
+R2939,exclude,,no citation outcome
+R2947,exclude,,no citation outcome
+R2956,include,GEN,LLMs prompted for four references per radiology question; references verified using Medline and Google Scholar with fabricated and fully accurate rates
+R2967,exclude,,no citation outcome
+R2968,exclude,,no citation outcome
+R2969,exclude,,no citation outcome
+R2974,exclude,,review or editorial type
+R2978,exclude,,review or editorial type
+R2988,exclude,,review or editorial type
+R2990,exclude,,no citation outcome
+R2993,exclude,,no citation outcome
+R3003,exclude,,no citation outcome
+R3009,exclude,,review or editorial type
+R3010,exclude,,no citation outcome
+R3015,exclude,,review or editorial type
+R3020,exclude,,review or editorial type
+R3026,exclude,,review or editorial type
+R3034,exclude,,no citation outcome
+R3037,maybe,GEN,LLMs asked to identify articles for systematic reviews; outputs compared with original references and cross-referenced with medical databases for authenticity; output denominator not stated in abstract
+R3039,exclude,,no citation outcome
+R3043,exclude,,no citation outcome
+R3046,exclude,,no citation outcome
+R3047,exclude,,no citation outcome
+R3054,exclude,,review or editorial type
+R3062,exclude,,no citation outcome
+R3063,exclude,,no citation outcome
+R3081,exclude,,no citation outcome
+R3091,exclude,,no citation outcome
+R3109,exclude,,no citation outcome
+R3131,exclude,,no citation outcome
+R3138,exclude,,no citation outcome
+R3140,maybe,GEN,AI-generated otolaryngology reviews; 123 generated references manually verified with fully accurate and fabricated rates; external verification source not named in abstract
+R3153,exclude,,no citation outcome
+R3159,exclude,,review or editorial type
+R3173,exclude,,no citation outcome
+R3187,exclude,,no citation outcome
+R3191,maybe,GEN,Answers on glenohumeral arthritis included study references with counts and nonexistent counts reported; external verification source not named in abstract
+R3195,exclude,,no citation outcome
+R3197,exclude,,no citation outcome
+R3202,exclude,,no citation outcome
+R3213,maybe,GEN,LLM answers to contextual questions; supporting citations reported as often not producible or verifiable; citation denominator and named verification source not stated in abstract
+R3214,exclude,,no citation outcome
+R3223,exclude,,no citation outcome
+R3232,exclude,,topic not biomedical and no biomedical split
+R3236,exclude,,no citation outcome
+R3251,exclude,,no citation outcome
+R3256,exclude,,no citation outcome
+R3257,maybe,GEN,LLMs used for off-label prescribing information; 2758 references and 480 responses evaluated for reference quality; verification source and fabrication definition not tellable from abstract
+R3264,exclude,,no citation outcome
+R3296,exclude,,no citation outcome
+R3310,exclude,,review or editorial type
+R3327,exclude,,no citation outcome
+R3332,exclude,,no citation outcome
+R3344,exclude,,topic not biomedical and no biomedical split
+R3353,exclude,,no citation outcome
+R3355,maybe,GEN,LLM asked to identify studies for a published meta-analysis with outputs verified against primary sources; reference denominator and fabrication counts not stated in abstract
+R3356,maybe,GEN,Prompt required an answer and a supporting reference on neurology board questions; references evaluated by neurologists; reference denominator and named external verification source not stated in abstract
+R3375,exclude,,no citation outcome
+R3376,exclude,,no citation outcome
+R3378,exclude,,no citation outcome
+R3385,exclude,,no citation outcome
+R3388,exclude,,no citation outcome
+R3389,exclude,,no citation outcome
+R3396,exclude,,review or editorial type
+R3399,exclude,,topic not biomedical and no biomedical split
+R3413,maybe,GEN,Guideline interpretation responses scored with a Reference Hallucination Score; number of references and external verification source not stated in abstract
+R3416,exclude,,no citation outcome
+R3422,exclude,,no citation outcome
+R3431,exclude,,no citation outcome
+R3432,maybe,GEN,Nephrology answers included 101 references from GPT-4 reported as fully accurate; external verification source not named in abstract
+R3447,exclude,,no citation outcome
+R3448,exclude,,no citation outcome
+R3451,exclude,,no citation outcome
+R3454,exclude,,no citation outcome
+R3464,maybe,GEN,LLMs generated a survey paper on cancer drug response with reference management and hallucination assessed; reference count and named verification source not stated in abstract
+R3469,exclude,,no citation outcome
+R3470,exclude,,no citation outcome
+R3474,exclude,,no citation outcome
+R3482,exclude,,no citation outcome
+R3495,maybe,GEN,ACL and meniscus answers included 25 PubMed resources from Gemini with 23 supporting claims; existence verification against a named external source not clearly stated in abstract
+R3501,exclude,,no citation outcome
+R3502,exclude,,no citation outcome
+R3507,exclude,,topic not biomedical and no biomedical split
+R3513,exclude,,no citation outcome
+R3550,exclude,,no citation outcome
+R3567,exclude,,review or editorial type
+R3569,exclude,,no citation outcome
+R3578,maybe,GEN,Gout nursing answers cited 21 and 23 sources with timeliness and non-functional links assessed; fabrication verification against a named external source not stated in abstract
+R3586,exclude,,no citation outcome
+R3591,exclude,,review or editorial type
+R3625,exclude,,no citation outcome
+R3629,include,GEN,GPT-4o prompted for literature reviews in mental health; 176 citations verified using Google Scholar and Scopus and PubMed and WorldCat and publisher databases with fabricated counts
+R3632,maybe,GEN,Breast cancer information generation with citation reliability rated by experts; reference denominator and named external verification source not stated in abstract
+R3633,exclude,,review or editorial type
+R3636,exclude,,review or editorial type
+R3638,exclude,,no citation outcome
+R3642,exclude,,no citation outcome
+R3666,exclude,,review or editorial type
+R3702,exclude,,no citation outcome

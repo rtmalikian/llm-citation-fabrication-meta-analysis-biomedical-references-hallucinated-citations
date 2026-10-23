@@ -1,0 +1,99 @@
+record_id,call,flag,reason
+R16280,exclude,,"not a language model study; antibiotics review, no citation generation"
+R16281,exclude,,"no citation outcome; no abstract, title shows ChatGPT clinical case QA only"
+R16282,exclude,,"review or editorial type; scoping review of prompt engineering, no citation counts"
+R16283,exclude,,not a language model study; conjunctival hyperemia review
+R16284,exclude,,no citation outcome; ChatGPT corneal diagnosis task
+R16285,exclude,,not a language model study; random forest ocular pain analysis
+R16286,exclude,,not a language model study; deep learning AMD imaging
+R16287,exclude,,"no citation outcome; no abstract, title shows TNM classification only"
+R16288,exclude,,"review or editorial type; systematic review, not a language model study"
+R16289,exclude,,not a language model study; surgical eyelid contour study
+R16290,exclude,,review or editorial type; LLM primer with no citation generation counts
+R16291,exclude,,no citation outcome; LLM diagnosis and triage benchmarking
+R16292,exclude,,no citation outcome; bilingual QA accuracy and readability
+R16293,exclude,,no citation outcome; LLM laryngeal image diagnosis
+R16294,exclude,,not a language model study; plantar fasciitis histology review
+R16295,exclude,,"review or editorial type; essay on false research findings, not LLM citations"
+R16296,exclude,,"review or editorial type; clinical practice guideline, not a language model study"
+R16297,exclude,,"not a language model study; no abstract, clinical practice article on plantar fasciitis"
+R16298,exclude,,not a language model study; plantar fasciitis diagnosis and treatment
+R16299,exclude,,"review or editorial type; systematic review of heel pain factors, not LLM"
+R16300,exclude,maybe,"no abstract; generic title, no citation task can be told from title alone"
+R16301,exclude,,not a language model study; ambulatory care survey analysis
+R16302,exclude,maybe,"no abstract; ChatGPT CPR information study, citation outcome cannot be told from title"
+R16303,exclude,,no citation outcome; survey of intentions to use ChatGPT for self-diagnosis
+R16304,exclude,,"no citation outcome; ChatGPT treatment listing checked against NCCN, not references"
+R16305,exclude,,no citation outcome; cancer myths QA accuracy versus NCI
+R16306,exclude,,"anecdote; single case report with ChatGPT writing help, no citation counts"
+R16307,exclude,,"no citation outcome; admission test performance, no reference generation"
+R16308,exclude,,no citation outcome; laboratory report interpretation task
+R16309,exclude,,no citation outcome; OSCE examination performance
+R16310,exclude,,no citation outcome; pathology higher-order problem solving QA
+R16311,exclude,,no citation outcome; medical report generation from lab results
+R16312,exclude,,"review or editorial type; editorial, no abstract and no original citation data"
+R16313,exclude,,no citation outcome; cirrhosis and HCC question answering
+R16314,exclude,,"review or editorial type; editorial on AI medical writing, no citation counts"
+R16315,exclude,,"no citation outcome; no abstract, title shows discharge summary task only"
+R16316,exclude,,no citation outcome; single toxicology case question answering
+R16317,exclude,,no citation outcome; radiology report plain-language translation
+R16318,exclude,,"no citation outcome; no abstract, clinical reasoning examination performance"
+R16319,exclude,,"no citation outcome; lacrimal QA, citations noted as missing not generated and verified"
+R16320,exclude,,review or editorial type; commentary on medical education and management
+R16321,exclude,,no citation outcome; USMLE examination performance
+R16322,exclude,,"no citation outcome; no abstract, life support examination title only"
+R16323,exclude,,"anecdote; ChatGPT-written case report, no citation verification counts"
+R16324,exclude,,not a language model study; observer agreement statistics review
+R16325,exclude,,no citation outcome; patient QA on return to activities after knee arthroplasty
+R16326,exclude,,no citation outcome; stroke caregiver QA comparison
+R16327,exclude,,no citation outcome; role-play prompting effect on QA quality
+R16328,exclude,,"review or editorial type; narrative review, reference reliability mentioned without primary counts"
+R16329,exclude,,no citation outcome; maxillofacial trauma QA accuracy
+R16330,exclude,,no citation outcome; guideline alignment of rehabilitation QA
+R16331,include,,"GEN: each model generated 50 orthopaedic/plastic surgery references, verified by existence, PubMed ID and DOI, accuracy rates reported"
+R16332,exclude,,"no citation outcome; no abstract, title shows lupus question consulting only"
+R16333,exclude,,no citation outcome; perception survey of students and physicians
+R16334,exclude,,review or editorial type; systematic review of chatbot interventions
+R16335,exclude,,"review or editorial type; generative AI risks framework, no citation generation counts"
+R16336,exclude,,"review or editorial type; readability systematic review, not LLM citations"
+R16337,exclude,,"no citation outcome; no abstract, diagnostic performance title only"
+R16338,exclude,,not a language model study; rosacea mental health cohort study
+R16339,exclude,,"no citation outcome; bibliometric trend analysis, no fabrication audit or LLM generation"
+R16340,exclude,,review or editorial type; meta-synthesis of chatbot QA quality and readability
+R16341,exclude,,not a language model study; DISCERN instrument development
+R16342,exclude,maybe,"no abstract; ChatGPT dermatology response evaluation, citation outcome cannot be told from title"
+R16343,exclude,,"no citation outcome; no abstract, title shows readability of generated information only"
+R16344,exclude,,review or editorial type; narrative review of social media patient education
+R16345,exclude,,"no citation outcome; readability and quality scales for AI information, no reference-level verification"
+R16346,exclude,maybe,"no abstract; accuracy of ChatGPT acne information, citation outcome cannot be told from title"
+R16347,exclude,,not a language model study; rosacea patient journey review
+R16348,exclude,,"review or editorial type; systematic review of IBD websites, not LLM"
+R16349,exclude,,not a language model study; glioma resection outcomes study
+R16350,exclude,,no citation outcome; safety of LLM answers to patient medical questions
+R16351,exclude,,not a language model study; rosacea pathogenesis review
+R16352,exclude,,not a language model study; readability of anesthesia patient materials
+R16353,exclude,,not a language model study; deep learning Demodex density prediction
+R16354,exclude,,review or editorial type; NLP in dermatology systematic literature review
+R16355,exclude,,not a language model study; HINTS online health activity survey
+R16356,exclude,,no citation outcome; rosacea patient query QA reliability
+R16357,exclude,,review or editorial type; narrative review of LLMs in medicine
+R16358,exclude,,not a language model study; CNN rosacea diagnosis
+R16359,exclude,,"no citation outcome; bibliometric analysis of cited articles, no fabrication audit"
+R16360,exclude,,no citation outcome; prosthodontics FAQ chatbot validity
+R16361,exclude,,no citation outcome; oral surgery QA quality comparison
+R16362,exclude,,"review or editorial type; AI in dentistry review, no citation generation study"
+R16363,exclude,,no citation outcome; dental implant FAQ chatbot responses
+R16364,exclude,,"review or editorial type; MIH clinical practice guidance, not a language model study"
+R16365,exclude,,not a language model study; CNN MIH photo diagnostics
+R16366,exclude,,review or editorial type; systematic review of MIH treatment
+R16367,exclude,,no citation outcome; traumatic dental injury patient query QA
+R16368,exclude,,"not a language model study; no abstract, clinical topic title only"
+R16369,exclude,,not a language model study; MIH mineral density study
+R16370,exclude,,review or editorial type; systematic review of MIH anxiety and quality of life
+R16371,exclude,,"no citation outcome; LLM personality testing, no biomedical citation task"
+R16372,exclude,,not a language model study; neural network dental diagnosis training
+R16373,exclude,,review or editorial type; narrative review of AI dental diagnosis
+R16374,exclude,,review or editorial type; systematic review of MIH aetiology
+R16375,exclude,,no citation outcome; endodontic QA accuracy and consistency
+R16376,exclude,,not a language model study; MIH clinical presentation report
+R16377,exclude,,not a language model study; AI image detection validation for MIH

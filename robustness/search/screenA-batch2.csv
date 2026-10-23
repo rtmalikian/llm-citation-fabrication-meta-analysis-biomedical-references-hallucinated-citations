@@ -1,0 +1,99 @@
+record_id,call,flag,reason
+R16084,exclude,,"not a language model study - GBD bacterial mortality analysis, no LLM citation task"
+R16085,exclude,,"review or editorial type - news item on ChatGPT authorship, no citation generation data, no abstract"
+R16086,exclude,,not a language model study - myocarditis vaccine cohort study
+R16087,exclude,,not a language model study - GBD type 2 diabetes analysis
+R16088,exclude,,"review or editorial type - letter on ChatGPT authorship validity, no original data"
+R16089,exclude,,not a language model study - SARS-CoV-2 seroprevalence study
+R16090,exclude,,"review or editorial type - editorial ground rules for ChatGPT use, no citation data, no abstract"
+R16091,exclude,,not a language model study - metformin cohort study
+R16092,exclude,,"not a language model study - human-authored spine references checked, no LLM generation (2020)"
+R16093,exclude,,not a language model study - oxygen administration cohort study
+R16094,exclude,,not a language model study - qualitative study of nurses' leadership
+R16095,exclude,,"no citation outcome - ChatGPT co-authored perspective on rapamycin, no reference generation or verification counts"
+R16096,exclude,,"review or editorial type - overview of citation integrity by stakeholders, no LLM primary data"
+R16097,exclude,,"no citation outcome - ChatGPT parasitology examination performance, no citation generation"
+R16098,exclude,,"no citation outcome - conversation with ChatGPT on stem cell research, no citation task, no abstract"
+R16099,exclude,,not a language model study - perinatal outcomes IPD meta-analysis
+R16100,exclude,,"anecdote - single case report written with ChatGPT assistance, no citation outcome"
+R16101,exclude,,not a language model study - IRONMAN heart failure trial
+R16102,exclude,,not a language model study - systematic review of urbanisation and cardiometabolic health
+R16103,exclude,,"review or editorial type - BMJ news/opinion on ChatGPT, no citation data, no abstract"
+R16104,exclude,,"review or editorial type - GPT-3 healthcare delivery commentary, no citation outcome, no abstract"
+R16105,exclude,,no citation outcome - ChatGPT USMLE question-answering performance
+R16106,exclude,,"not a language model study - human-authored burns journal references checked, no LLM generation (2009)"
+R16107,exclude,,not a language model study - eczema online intervention RCTs
+R16108,exclude,,"not a language model study - human-authored manuscript references checked against MEDLINE, no LLM (2004)"
+R16109,exclude,,"no citation outcome - AI platforms in nursing education, no citation task, no abstract"
+R16110,exclude,,"no citation outcome - LLM agents appraise clinical guidelines (AGREE II), no references generated"
+R16111,exclude,,"no citation outcome - quality of online breast cancer nutrition information incl. ChatGPT, no generated-reference counts"
+R16112,exclude,,"no citation outcome - chatbots for interactive learning activity, student perceptions"
+R16113,exclude,,"registration or protocol with no results - CHAMP chatbot co-design protocol, no citation outcome"
+R16114,exclude,,"review or editorial type - scoping review of scholarly citing guides, no LLM generation experiment"
+R16115,exclude,,no citation outcome - AI chatbots answering kidney donor health management questions
+R16116,exclude,,"review or editorial type - practical guide to AI tools for GI research, no primary citation data"
+R16117,exclude,,"review or editorial type - discussion of verification in AI-driven discovery, no citation generation study"
+R16118,exclude,,"not a language model study - AI/ML risk-factor analysis for PICC complications, no citation task"
+R16119,exclude,,"no citation outcome - chatbots taking endodontics oral board exam; citation validity rubric only, no generated-reference denominator or fabrication counts"
+R16120,exclude,,review or editorial type - perspective on AI academic text generation in analytical chemistry; also topic not biomedical
+R16121,exclude,,"no citation outcome - detecting role impersonation in AI-generated oncology text, no citation generation"
+R16122,exclude,,"no citation outcome - NotebookLM given 22 real papers for literature review; no generated references verified, no counts"
+R16123,exclude,,"review or editorial type - what colorectal surgeons should know about AI, no citation data, no abstract"
+R16124,exclude,,"no citation outcome - chatbots producing cataract leaflets; references presence noted only, no fabrication/inaccuracy counts or verification"
+R16125,exclude,,"no citation outcome - ChatGPT parent education on oral immunotherapy, QA accuracy only"
+R16126,exclude,,"no citation outcome - ChatGPT as cardiology education resource, QA performance only"
+R16127,exclude,,"no citation outcome - PubMed knowledge graph (GLKB) and RAG question answering, no generated citations counted"
+R16128,exclude,,"no citation outcome - ChatGPT-4 revising medical abstracts, quality scores only"
+R16129,exclude,,"review or editorial type - theoretical piece on LLM user trust and deskilling, no citation data"
+R16130,exclude,,"review or editorial type - systematic review of LLMs in medical education, no citation generation data"
+R16131,exclude,,no citation outcome - AI models vs students on histology/embryology exam questions
+R16132,exclude,,"no citation outcome - ChatGPT generating fake case reports, no reference/citation generation shown, no abstract"
+R16133,exclude,,"no citation outcome - ChatGPT identifying predatory journals, no references generated"
+R16134,exclude,,"no citation outcome - AI-assisted benzodiazepine deprescribing decision-making, no citation task"
+R16135,exclude,,"no citation outcome - workability of ChatGPT cheating advice for assignments, no citation generation"
+R16136,exclude,,"no citation outcome - machine-learning detection of paper-mill fake papers, no LLM-generated citations counted"
+R16137,exclude,maybe,no citation outcome - errors in ChatGPT responses generally; citation task not plainly shown and abstract missing
+R16138,exclude,,"review or editorial type - perspective on AI assisting medical literature searches, no citation generation data, no abstract"
+R16139,exclude,,"review or editorial type - news item on WHO warning on medical AI, no citation data, no abstract"
+R16140,exclude,,"review or editorial type - letter on LLMs aligning statistical tests, no citation data, no abstract"
+R16141,exclude,,"no citation outcome - LLMs used to detect retracted literature, detection task not citation generation, no abstract"
+R16142,exclude,,no citation outcome - ChatGPT accuracy/repeatability on hearing multiple-choice questions
+R16143,exclude,maybe,"no denominator - title plainly shows ChatGPT references real/inappropriate/fake, but no counts or named verification source shown and abstract missing"
+R16144,exclude,maybe,"no denominator - title plainly shows ChatGPT makes up scientific references, but no counts or verification shown and abstract missing; may be letter/commentary"
+R16145,exclude,maybe,"no external verification - title plainly shows accuracy of ChatGPT-generated references in internal medicine, but no counts or named verification source shown and abstract missing"
+R16146,include,GEN,"GEN include - ChatGPT-4 prompted for citations on 10 colon/rectal surgery topics; 100 references generated, 41 fully accurate; verified against Scopus, Google and PubMed"
+R16147,exclude,,not a language model study - false discovery rate methods in behavior genetics
+R16148,exclude,,"no citation outcome - audiological knowledge of three chatbots, exam-style QA"
+R16149,exclude,,not a language model study - observer agreement (kappa) methods paper
+R16150,exclude,,no citation outcome - AI passing hand surgery board exam questions
+R16151,exclude,,review or editorial type - narrative review of ChatGPT in orthopedics
+R16152,exclude,,review or editorial type - scoping review of AI in orthopaedics
+R16153,exclude,,"no citation outcome - ChatGPT radiologic diagnosis accuracy, no citation generation"
+R16154,exclude,,not a language model study - comprehensive review of Achilles tendon rupture surgery
+R16155,exclude,,no citation outcome - ChatGPT performance on Orthopaedic In-Training Examination
+R16156,exclude,,"no citation outcome - ChatGPT as information resource for shoulder/elbow surgery questions, QA accuracy only"
+R16157,exclude,,no citation outcome - ChatGPT answering arthroplasty questions vs surgeons
+R16158,exclude,,review or editorial type - systematic review of AI in foot and ankle surgery
+R16159,exclude,,"review or editorial type - introduction to AI and orthopaedics for clinicians, no citation data, no abstract"
+R16160,exclude,,"review or editorial type - AI and multimodal imaging in orthopaedics review, no citation outcome"
+R16161,exclude,,"review or editorial type - review of AI/ML advances in hip surgery, no citation outcome"
+R16162,exclude,,no citation outcome - ChatGPT responses to patient questions on hip arthroplasty
+R16163,exclude,,no citation outcome - GPT-5/Gemini performance on Orthopaedic In-Training Examination
+R16164,exclude,,review or editorial type - current concepts review of AI in foot and ankle surgery
+R16165,exclude,,no citation outcome - ChatGPT/Copilot performance on hand surgery self-assessment examinations
+R16166,exclude,,not a language model study - PRISMA reporting statement
+R16167,exclude,,not a language model study - PROSPERO register description
+R16168,exclude,,not a language model study - subacromial decompression systematic review/meta-analysis
+R16169,exclude,,"review or editorial type - ChatGPT friend or foe editorial, no citation data, no abstract"
+R16170,exclude,,not a language model study - biceps tenodesis vs tenotomy systematic review/meta-analysis
+R16171,exclude,,not a language model study - tranexamic acid in arthroscopy study
+R16172,exclude,,"review or editorial type - ethics of LLMs in medicine, no citation data, no abstract"
+R16173,exclude,,not a language model study - platelet-rich plasma systematic review/meta-analysis
+R16174,exclude,,not a language model study - physiotherapy vs home exercise systematic review
+R16175,exclude,,not a language model study - dextrose prolotherapy systematic review
+R16176,exclude,,not a language model study - arthroscopic revision cuff repair study
+R16177,exclude,,not a language model study - shoulder replacement surgery review
+R16178,exclude,,not a language model study - biceps tenotomy/tenodesis outcomes study
+R16179,exclude,,not a language model study - tendon delamination and rotator cuff healing study
+R16180,exclude,,not a language model study - rotator cuff after humerus nailing study
+R16181,exclude,,not a language model study - exercise dose in rotator cuff tendinopathy systematic review

@@ -1,0 +1,8 @@
+R0047	robustness/fulltexts2/R0047.xml
+R0112	robustness/fulltexts2/R0112.xml
+R0186	robustness/fulltexts2/R0186.xml
+R0264	robustness/fulltexts2/R0264.xml
+R0277	robustness/fulltexts2/R0277.xml
+R11480	robustness/fulltexts2/R11480.xml
+R2196	robustness/fulltexts2/R2196.xml
+R2282	robustness/fulltexts2/R2282.xml

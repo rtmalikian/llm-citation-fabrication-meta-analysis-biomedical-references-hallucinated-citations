@@ -1,0 +1,421 @@
+{
+ "fuzzy_pairs": 64,
+ "unmatchedA": [
+  [
+   "Aljamaan_2024",
+   "Bard"
+  ],
+  [
+   "Jędrzejczak_2024",
+   "ChatGPT-4 - Session 2"
+  ],
+  [
+   "Jędrzejczak_2024",
+   "ChatGPT-4 - Session 3"
+  ],
+  [
+   "Jędrzejczak_2024",
+   "Gemini Advanced - Session 2"
+  ],
+  [
+   "Jędrzejczak_2024",
+   "Gemini Advanced - Session 3"
+  ]
+ ],
+ "unmatchedB": [],
+ "retrieval_diffs": [
+  [
+   "Aljamaan_2024",
+   "ChatGPT 3.5",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Aljamaan_2024",
+   "Perplexity",
+   "not_reported",
+   "browsing or live search"
+  ],
+  [
+   "Aljamaan_2024",
+   "SciSpace",
+   "not_reported",
+   "reference database or citation tool"
+  ],
+  [
+   "Aljamaan_2024",
+   "Elicit",
+   "not_reported",
+   "reference database or citation tool"
+  ],
+  [
+   "Aljamaan_2024",
+   "Bing",
+   "not_reported",
+   "browsing or live search"
+  ],
+  [
+   "Civelekler_2026",
+   "DeepSeek-R1",
+   "none",
+   "none (no real-time access to PubMed or other databases; RAG intentionally excluded)"
+  ],
+  [
+   "Civelekler_2026",
+   "ChatGPT (GPT-5.1)",
+   "none",
+   "none (no real-time access to PubMed or other databases; RAG intentionally excluded)"
+  ],
+  [
+   "Civelekler_2026",
+   "Copilot (Microsoft Copilot 4.2)",
+   "none",
+   "none (no real-time access to PubMed or other databases; RAG intentionally excluded)"
+  ],
+  [
+   "Civelekler_2026",
+   "Gemini (Google Gemini Ultra 2.5)",
+   "none",
+   "none (no real-time access to PubMed or other databases; RAG intentionally excluded)"
+  ],
+  [
+   "Dhaimade_2026",
+   "GPT-5.0 (Full Test)",
+   "none",
+   "none (not reported; consumer web interfaces)"
+  ],
+  [
+   "Dhaimade_2026",
+   "GPT-5.0 (Individual Question)",
+   "none",
+   "none (not reported; consumer web interfaces)"
+  ],
+  [
+   "Dhaimade_2026",
+   "Claude Sonnet 4.0 (Individual Question)",
+   "none",
+   "none (not reported; consumer web interfaces)"
+  ],
+  [
+   "Güneş_2026",
+   "Claude 3.5 Sonnet",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Güneş_2026",
+   "Claude 3 Opus",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Güneş_2026",
+   "ChatGPT-4o",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Güneş_2026",
+   "ChatGPT-4o with canvas",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Güneş_2026",
+   "ChatGPT o1-preview",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Güneş_2026",
+   "Gemini 1.5 Pro",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Hasnain_2025",
+   "ChatGPT",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Hasnain_2025",
+   "DeepSeek",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Metze_2024",
+   "ChatGPT-4",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Nieves-Lopez_2026",
+   "ChatGPT-5.4",
+   "not_reported",
+   "unclear"
+  ],
+  [
+   "Nieves-Lopez_2026",
+   "Gemini-3",
+   "not_reported",
+   "unclear"
+  ],
+  [
+   "Nieves-Lopez_2026",
+   "Copilot",
+   "not_reported",
+   "unclear"
+  ],
+  [
+   "Shi_2026",
+   "AI Research Army (pipeline)",
+   "database",
+   "reference database or citation tool access (multi-agent citation verification and repair pipeline)"
+  ],
+  [
+   "Shi_2026",
+   "AI Scientist",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Shi_2026",
+   "Baseline (GPT-4)",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Shi_2026",
+   "AI-Researcher",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Shi_2026",
+   "Data-to-Paper",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Shi_2026",
+   "Agent Laboratory",
+   "not_reported",
+   "none"
+  ],
+  [
+   "Singh_2026",
+   "GPT-5",
+   "none",
+   "unclear"
+  ],
+  [
+   "Tas_2026",
+   "ChatGPT",
+   "not_reported",
+   "unclear"
+  ],
+  [
+   "Tas_2026",
+   "Gemini",
+   "not_reported",
+   "unclear"
+  ],
+  [
+   "Tas_2026",
+   "Perplexity",
+   "not_reported",
+   "unclear"
+  ],
+  [
+   "UçarGündoğar_2026",
+   "ChatGPT-4o",
+   "none",
+   "unclear"
+  ],
+  [
+   "UçarGündoğar_2026",
+   "DeepSeek R1",
+   "none",
+   "unclear"
+  ]
+ ],
+ "numeric_diffs": [
+  [
+   "Civelekler_2026",
+   "DeepSeek-R1",
+   "n_fully_accurate",
+   "15",
+   "22"
+  ],
+  [
+   "Civelekler_2026",
+   "ChatGPT (GPT-5.1)",
+   "n_fully_accurate",
+   "4",
+   "18"
+  ],
+  [
+   "Civelekler_2026",
+   "Copilot (Microsoft Copilot 4.2)",
+   "n_fully_accurate",
+   "7",
+   "18"
+  ],
+  [
+   "Civelekler_2026",
+   "Gemini (Google Gemini Ultra 2.5)",
+   "n_fully_accurate",
+   "4",
+   "5"
+  ],
+  [
+   "Jędrzejczak_2024",
+   "ChatGPT-4 - Session 1",
+   "refs_generated",
+   "76",
+   "231"
+  ],
+  [
+   "Jędrzejczak_2024",
+   "ChatGPT-4 - Session 1",
+   "n_fabricated",
+   "5",
+   "17"
+  ],
+  [
+   "Jędrzejczak_2024",
+   "ChatGPT-4 - Session 1",
+   "n_fully_accurate",
+   "10",
+   "86"
+  ],
+  [
+   "Jędrzejczak_2024",
+   "ChatGPT-4 - Session 1",
+   "n_bad_doi",
+   "5",
+   "10"
+  ],
+  [
+   "Jędrzejczak_2024",
+   "Gemini Advanced - Session 1",
+   "refs_generated",
+   "65",
+   "193"
+  ],
+  [
+   "Jędrzejczak_2024",
+   "Gemini Advanced - Session 1",
+   "n_fabricated",
+   "17",
+   "30"
+  ],
+  [
+   "Jędrzejczak_2024",
+   "Gemini Advanced - Session 1",
+   "n_fully_accurate",
+   "4",
+   "26"
+  ],
+  [
+   "Jędrzejczak_2024",
+   "Gemini Advanced - Session 1",
+   "n_bad_doi",
+   "0",
+   "1"
+  ],
+  [
+   "Pastucha_2026",
+   "ChatGPT-4",
+   "n_fully_accurate",
+   "46",
+   "86"
+  ],
+  [
+   "Pastucha_2026",
+   "ChatGPT-4.1",
+   "n_fully_accurate",
+   "1",
+   "81"
+  ],
+  [
+   "Pastucha_2026",
+   "ChatGPT-4.1 (web search)",
+   "n_fully_accurate",
+   "33",
+   "152"
+  ],
+  [
+   "Pastucha_2026",
+   "Gemini 1.5 Pro",
+   "n_fully_accurate",
+   "7",
+   "26"
+  ],
+  [
+   "Pastucha_2026",
+   "Gemini 2.5 Pro",
+   "n_fully_accurate",
+   "55",
+   "159"
+  ],
+  [
+   "Pastucha_2026",
+   "Gemini 2.5 Pro (web search)",
+   "n_fully_accurate",
+   "71",
+   "124"
+  ],
+  [
+   "Shi_2026",
+   "AI Research Army (pipeline)",
+   "n_fabricated",
+   "1",
+   "2"
+  ],
+  [
+   "Shi_2026",
+   "AI Scientist",
+   "n_fabricated",
+   "2",
+   "3"
+  ],
+  [
+   "Shi_2026",
+   "AI Research Army (single)",
+   "n_fabricated",
+   "3",
+   "5"
+  ],
+  [
+   "Shi_2026",
+   "Baseline (GPT-4)",
+   "n_fabricated",
+   "6",
+   "8"
+  ],
+  [
+   "Shi_2026",
+   "AI-Researcher",
+   "n_fabricated",
+   "22",
+   "23"
+  ],
+  [
+   "Shi_2026",
+   "Data-to-Paper",
+   "n_fabricated",
+   "30",
+   "31"
+  ],
+  [
+   "Shi_2026",
+   "Agent Laboratory",
+   "n_fabricated",
+   "35",
+   "36"
+  ]
+ ]
+}

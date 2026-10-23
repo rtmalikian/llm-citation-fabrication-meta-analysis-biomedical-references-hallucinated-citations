@@ -1,0 +1,98 @@
+record_id,call,flag,reason
+R16378,exclude,,Systematic review and meta-analysis of MIH prevalence; no LLM and no citation task
+R16379,exclude,,Scoping review of LLMs in dentistry; review type with no primary citation data
+R16380,exclude,,"Systematic review of MIH aetiology; clinical topic, no LLM"
+R16381,exclude,,LLM responses to pediatric dentistry questions rated for quality/readability; no citation or reference outcome
+R16382,exclude,,ChatGPT orthopaedic board exam question answering; no citation outcome
+R16383,exclude,,LLM guideline-concordance answers on hip dysplasia; no citation generation or verification
+R16384,exclude,,ChatGPT-4 USMLE Step 1 question performance; no citation outcome
+R16385,exclude,,AAOS hip fracture clinical practice guideline; not an LLM study
+R16386,exclude,,LLM concordance with rotator cuff guidelines; no citation outcome
+R16387,exclude,,"Chatbot vs physician answers to patient questions, quality and empathy; no citation outcome"
+R16388,exclude,,LLM vs physician rheumatology question answers; no citation outcome
+R16389,exclude,,"ChatGPT hip fracture guideline recommendations; hallucination mentioned only generally, no citation outcome or counts"
+R16390,exclude,,Commentary on ChatGPT for cancer information; no primary data and no citation outcome
+R16391,exclude,,Chatbot ophthalmic board question performance; no citation outcome
+R16392,exclude,,LLM oral pathology multiple-choice performance; no citation outcome
+R16393,exclude,,Systematic review of AI dental image detection; no LLM citation task
+R16394,exclude,,LLM answers to endodontic patient FAQs rated for accuracy; no citation or reference outcome
+R16395,exclude,,"Narrative review of AI in clinical dentistry; review type, no citation data"
+R16396,exclude,,Review of AI and human intelligence in medicine; no LLM citation study
+R16397,exclude,,ChatGPT endodontic question-answer consistency and accuracy; no citation outcome
+R16398,exclude,,Narrative review of AI in dentistry; no primary citation data
+R16399,exclude,,Multimodal AI diagnostic accuracy on oral lesion cases; no citation task
+R16400,exclude,,LLM critical care multiple-choice benchmark; no citation outcome
+R16401,exclude,,"Randomised trial of hypothermia vs normothermia after cardiac arrest; clinical, no LLM"
+R16402,exclude,,Consensus statement on multimodality neuromonitoring; no LLM or citation task
+R16403,exclude,,"Randomised trial of andexanet for intracerebral haemorrhage; clinical, no LLM"
+R16404,exclude,,Editorial piece on reporting AI evaluation results; no citation outcome or primary citation data
+R16405,exclude,,ChatGPT critical care recommendations rated for appropriateness/readability; no citation outcome
+R16406,exclude,,"Randomised trial of blood-pressure lowering in intracerebral haemorrhage; clinical, no LLM"
+R16407,exclude,,LLM hallucination and diagnosis on image-based multiple-choice tasks; plainly a non-citation task
+R16408,exclude,,"Scoping review of LLMs in critical care; review type, no primary citation data"
+R16409,exclude,,LLM diagnostic performance on critical illness cases; no citation outcome
+R16410,exclude,,"INTERACT3 randomised trial of a care bundle in cerebral haemorrhage; clinical, no LLM"
+R16411,exclude,,"Roadmap article on AI in critical care; editorial type, no citation study"
+R16412,exclude,,"LLM approximating meta-analysis effect estimates; outcome is effect concordance, no citation generation or verification counts"
+R16413,exclude,,Delphi consensus on neuromonitoring practice standards; no LLM
+R16414,exclude,,"Systematic review of super-refractory status epilepticus outcomes; clinical, no LLM"
+R16415,exclude,,Generative LLM performance on orthopaedic in-training examination; no citation outcome
+R16416,exclude,,ChatGPT orthopaedic training examination questions including images; no citation outcome
+R16417,exclude,,OITE scores predicting board pass rates; no LLM and no citation task
+R16418,exclude,,Editorial on LLMs in medical education; no citation outcome or primary data
+R16419,exclude,,LLM performance on orthopaedic in-training examination; no citation outcome
+R16420,exclude,,"Vision-language models in thoracic imaging; reasoning hallucination only, no citation task"
+R16421,exclude,,LLM performance on UK neurology specialty examination; no citation outcome
+R16422,exclude,,"General overview of AI in medicine trends; no LLM citation study (title only, no abstract)"
+R16423,exclude,,PRISMA 2020 reporting guideline; methods guideline with no LLM citation task
+R16424,exclude,,"Scoping review of AI threats to patient rights and safety; review type, no citation outcome"
+R16425,exclude,,Experiment on user susceptibility to hallucinated quiz information; non-citation hallucination task
+R16426,exclude,,Ontology-driven healthcare data cleaning and compression methods paper; no LLM citation task
+R16427,exclude,,Experiment on forewarning about AI hallucination and misinformation statements; no citation outcome
+R16428,exclude,,"Survey of AI scientists (title only, no abstract); no LLM citation generation or verification visible"
+R16429,exclude,,AI Scientist automated discovery system for general science; no biomedical citation verification outcome
+R16430,include,UNCLEAR,"No title, authors or abstract in record, DOI only (NEJM AI); abstract missing so cannot be plainly excluded under sensitive rule"
+R16431,exclude,,LLM agents as research assistants system paper; no citation verification outcome visible and not a biomedical citation study
+R16432,include,UNCLEAR,"No title, authors or abstract in record, DOI only; abstract missing so cannot be plainly excluded under sensitive rule"
+R16433,exclude,,AI-Researcher autonomous scientific innovation system; no biomedical citation verification outcome visible
+R16434,exclude,,"STROBE reporting guideline for observational studies; methods guideline, no LLM"
+R16435,exclude,,"Taxonomy and systematic review of ChatGPT in healthcare; review type, no primary citation data"
+R16436,exclude,,"Evidence-based review of open fracture management; clinical, no LLM"
+R16437,exclude,,"Review of open fracture best practices; clinical, no LLM citation task"
+R16438,include,UNCLEAR,"No title, authors or abstract in record, DOI only; abstract missing so cannot be plainly excluded under sensitive rule"
+R16439,include,GEN,"Chatbots answering audiological questions; provision of references and number of errors explicitly examined, reference-level counts plausible at full text"
+R16440,exclude,,"No abstract; DOI indicates a 1995 otolaryngology article, pre-LLM clinical record"
+R16441,exclude,,Adult sinusitis clinical practice guideline update; no LLM
+R16442,exclude,,Sudden hearing loss clinical practice guideline update; no LLM
+R16443,exclude,,"Basic protocol for functional voice assessment; clinical methods, no LLM"
+R16444,exclude,,"Review and standards for intraoperative neural monitoring in thyroid surgery; clinical, no LLM"
+R16445,exclude,,Tonsillectomy clinical practice guideline; no LLM
+R16446,exclude,,"No abstract; DOI indicates a 1995 otolaryngology article, pre-LLM clinical record"
+R16447,exclude,,Allergic rhinitis clinical practice guideline; no LLM
+R16448,exclude,,EEG study of music listening and gamma synchrony; no LLM and no citation task
+R16449,exclude,,"No abstract; DOI indicates a 1995 otolaryngology article, pre-LLM clinical record"
+R16450,exclude,,Otitis media with effusion clinical practice guideline update; no LLM
+R16451,exclude,,Bell's palsy clinical practice guideline; no LLM
+R16452,exclude,,Tympanostomy tubes clinical practice guideline; no LLM
+R16453,exclude,,Tinnitus clinical practice guideline; no LLM
+R16454,exclude,,Voice management in thyroid surgery clinical practice guideline; no LLM
+R16455,exclude,,Hoarseness (dysphonia) clinical practice guideline; no LLM
+R16456,exclude,,"Nutritional support guideline summary for head and neck cancer; clinical, no LLM"
+R16457,exclude,,Acute otitis externa clinical practice guideline update; no LLM
+R16458,exclude,,"UK guideline on salivary gland tumour management; clinical, no LLM"
+R16459,exclude,,"Peritonsillar abscess management cohort study and meta-analyses; clinical, no LLM"
+R16460,exclude,,"Guidelines for diagnosing noise-induced hearing loss in medicolegal settings; clinical, no LLM"
+R16461,exclude,,"Guidelines for nasal provocation and airflow measurement; clinical methods, no LLM"
+R16462,exclude,,Survey of speech-language pathologists assessing bilingual students; no LLM or citation task
+R16463,exclude,,"Synthesis of treatment guidelines for acquired apraxia of speech; clinical guideline, no LLM (title only)"
+R16464,exclude,,"Literature review and practical guideline on tracheostomy in COVID-19; clinical, no LLM citation task"
+R16465,exclude,,Statistical methods paper on observer agreement and kappa statistics; no LLM
+R16466,exclude,,ChatGPT accuracy and repeatability on hearing examination questions; no citation or reference outcome
+R16467,exclude,,Nature news piece on paper-mill fake papers; editorial/news type with no primary LLM citation data
+R16468,exclude,,Systematic review and meta-analysis of human quotation errors in medical journals; not a language model study
+R16469,exclude,,"OpenAlex scholarly index description; database methods paper, no LLM citation audit (title only)"
+R16470,exclude,,"Bibliometric reference coverage comparison of OpenAlex, Web of Science and Scopus; no LLM and no fabricated-citation audit"
+R16471,exclude,,"Evaluation of academic search systems for systematic reviews; methods study, no LLM citation generation"
+R16472,exclude,,"Surgical comparison of ureteroileal anastomosis techniques; clinical, no LLM"
+R16473,exclude,,Systematic review of biomedical journal submission-to-publication times; no LLM citation task
+R16474,include,AUDIT,"Cross-sectional audit of 200,000 published systematic reviews for fabricated paper-mill articles and citations, with stated corpus, detection matching and counts"

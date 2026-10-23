@@ -1,0 +1,116 @@
+record_id,adjudicator_call,stratum,reason
+R1366,exclude,,no citation outcome
+R1398,exclude,,no citation outcome
+R1433,maybe,GEN,Citation validity assessed for exam-answer citations with frequent hallucinations but reference denominator and named external verification source not stated
+R1456,exclude,,no citation outcome
+R1482,exclude,,review or editorial type
+R1566,exclude,,no citation outcome
+R1584,exclude,,review or editorial type
+R1592,exclude,,no citation outcome
+R1600,exclude,,no citation outcome
+R1641,exclude,,no citation outcome
+R1646,exclude,,no citation outcome
+R1651,exclude,,review or editorial type
+R1660,exclude,,no citation outcome
+R1747,maybe,GEN,825 LLM-generated psychiatric citations with fabrication and accuracy rates but external verification source not named in abstract
+R1770,exclude,,no citation outcome
+R1858,exclude,,no citation outcome
+R1860,exclude,,no citation outcome
+R1864,exclude,,no citation outcome
+R1869,exclude,,topic not biomedical and no biomedical split
+R1888,exclude,,no citation outcome
+R1908,exclude,,no citation outcome
+R1930,exclude,,no citation outcome
+R1958,exclude,,no citation outcome
+R1969,exclude,,no citation outcome
+R1981,exclude,,no citation outcome
+R1990,exclude,,no citation outcome
+R2004,exclude,,no citation outcome
+R2092,exclude,,no citation outcome
+R2106,exclude,,no citation outcome
+R2117,exclude,,no citation outcome
+R2123,exclude,,review or editorial type
+R2124,maybe,GEN,Thin abstract: ChatGPT prompted for answers with supporting references and evidence existence investigated but topic denominator and named verification source not tellable
+R2128,exclude,,no citation outcome
+R2130,exclude,,topic not biomedical and no biomedical split
+R2131,exclude,,topic not biomedical and no biomedical split
+R2132,exclude,,no external verification
+R2133,exclude,,topic not biomedical and no biomedical split
+R2139,exclude,,no denominator
+R2142,exclude,,review or editorial type
+R2148,exclude,,review or editorial type
+R2149,exclude,,no citation outcome
+R2151,exclude,,review or editorial type
+R2170,exclude,,no citation outcome
+R2193,exclude,,no citation outcome
+R2196,maybe,GEN,References in dentistry responses evaluated with fabrication rate reported but reference denominator and named external verification source not stated
+R2197,exclude,,no citation outcome
+R2203,exclude,,no citation outcome
+R2204,exclude,,no citation outcome
+R2214,exclude,,no denominator
+R2215,exclude,,review or editorial type
+R2230,exclude,,no citation outcome
+R2234,exclude,,no citation outcome
+R2254,exclude,,review or editorial type
+R2262,exclude,,no denominator
+R2268,exclude,,no citation outcome
+R2269,exclude,,no citation outcome
+R2273,exclude,,no citation outcome
+R2277,exclude,,no citation outcome
+R2278,exclude,,no citation outcome
+R2282,maybe,GEN,Reference authenticity verified with fabricated proportions by model in hypospadias consultation but total reference denominator and named external source not stated
+R2290,exclude,,no citation outcome
+R2295,exclude,,no citation outcome
+R2313,exclude,,no citation outcome
+R2314,maybe,GEN,383 of 3250 GPT-4 references reported hallucinated via a named reference evaluation tool but external verification source or database not named in abstract
+R2329,exclude,,no citation outcome
+R2331,exclude,,no citation outcome
+R2339,exclude,,no citation outcome
+R2352,maybe,GEN,LLMs generated SMILE literature reviews with all references verified for authenticity and severe fabrication reported but reference count and named verification source not stated
+R2353,exclude,,no citation outcome
+R2362,exclude,,no denominator
+R2378,exclude,,no citation outcome
+R2383,exclude,,no citation outcome
+R2394,exclude,,no citation outcome
+R2426,exclude,,no citation outcome
+R2433,exclude,,no citation outcome
+R2438,exclude,,no citation outcome
+R2444,exclude,,no citation outcome
+R2454,exclude,,no citation outcome
+R2456,exclude,,no citation outcome
+R2474,exclude,,review or editorial type
+R2475,maybe,GEN,Journal version of AAP examination study: citation validity assessed with frequent hallucinations but reference denominator and named external verification source not stated
+R2483,exclude,,no citation outcome
+R2492,maybe,GEN,Open-ended responses coded for citation behavior with reference counts and unrelated-reference counts per case but existence verification against a named external source not described
+R2496,exclude,,no citation outcome
+R2498,exclude,,review or editorial type
+R2510,exclude,,no citation outcome
+R2520,exclude,,no citation outcome
+R2523,exclude,,review or editorial type
+R2526,exclude,,no citation outcome
+R2528,exclude,,review or editorial type
+R2533,exclude,,no citation outcome
+R2536,exclude,,no citation outcome
+R2537,exclude,,no citation outcome
+R2551,maybe,GEN,Authenticity of references in exam answers verified with 37.7-43.9 percent not verifiable but total reference denominator and named external source not stated
+R2577,exclude,,no citation outcome
+R2594,exclude,,review or editorial type
+R2604,exclude,,review or editorial type
+R2620,include,GEN,AI chat tools prompted for medical literature searches with numbers of real and hallucinated articles reported per tool and PubMed used as the named external comparator
+R2629,exclude,,no citation outcome
+R2645,exclude,,no citation outcome
+R2662,exclude,,no citation outcome
+R2673,exclude,,no citation outcome
+R2680,exclude,,no citation outcome
+R2697,exclude,,no citation outcome
+R2708,exclude,,no citation outcome
+R2740,exclude,,no citation outcome
+R2748,exclude,,no citation outcome
+R2750,exclude,,no citation outcome
+R2771,exclude,,no citation outcome
+R2823,exclude,,no denominator
+R2833,exclude,,no citation outcome
+R2834,exclude,,no citation outcome
+R2837,maybe,GEN,Prior authorization letters assessed for citation presence and validity with counts per letter (27 of 29 valid) but reference-level denominator and citation verification source not clear from abstract
+R2838,exclude,,no citation outcome
+R2850,exclude,,no citation outcome

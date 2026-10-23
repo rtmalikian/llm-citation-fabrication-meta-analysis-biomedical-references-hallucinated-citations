@@ -1,0 +1,130 @@
+[
+ [
+  "R0047",
+  "DiFebo_2026",
+  "ChatGPT-5",
+  "refs_requested (one blank)",
+  "160",
+  ""
+ ],
+ [
+  "R0047",
+  "DiFebo_2026",
+  "Elicit",
+  "refs_requested (one blank)",
+  "160",
+  ""
+ ],
+ [
+  "R0047",
+  "DiFebo_2026",
+  "Consensus",
+  "refs_requested (one blank)",
+  "160",
+  ""
+ ],
+ [
+  "R0047",
+  "DiFebo_2026",
+  "Scite",
+  "refs_requested (one blank)",
+  "160",
+  ""
+ ],
+ [
+  "R0047",
+  "DiFebo_2026",
+  "ChatGPT-5 (clinical-studies subanalysis)",
+  "refs_requested (one blank)",
+  "",
+  "59"
+ ],
+ [
+  "R0047",
+  "DiFebo_2026",
+  "ChatGPT-5 (clinical-studies subanalysis)",
+  "n_major_inaccuracy_incl_fabricated (one blank)",
+  "10",
+  ""
+ ],
+ [
+  "R11480",
+  "Moskatel_2023",
+  "ChatGPT-3.5",
+  "n_major_inaccuracy_incl_fabricated (one blank)",
+  "",
+  "82"
+ ],
+ [
+  "R11480",
+  "Moskatel_2023",
+  "ChatGPT-3.5",
+  "n_fully_accurate (one blank)",
+  "",
+  "33"
+ ],
+ [
+  "R5403",
+  "Schumacher_2024",
+  "ChatGPT-4o",
+  "ARM_UNMATCHED_A",
+  "",
+  ""
+ ],
+ [
+  "R5403",
+  "Schumacher_2024",
+  "ChatGPT 4.o",
+  "ARM_UNMATCHED_B",
+  "",
+  ""
+ ],
+ [
+  "R7018",
+  "Woodrow_2025",
+  "ChatGPT-4 with ScholarAI plugin",
+  "refs_generated (one blank)",
+  "",
+  "56"
+ ],
+ [
+  "R7018",
+  "Woodrow_2025",
+  "ChatGPT-4 with ScholarAI plugin",
+  "n_major_inaccuracy_incl_fabricated (one blank)",
+  "",
+  "11"
+ ],
+ [
+  "R7018",
+  "Woodrow_2025",
+  "Assistant by scite",
+  "refs_generated (one blank)",
+  "",
+  "100"
+ ],
+ [
+  "R7018",
+  "Woodrow_2025",
+  "Assistant by scite",
+  "n_major_inaccuracy_incl_fabricated (one blank)",
+  "",
+  "62"
+ ],
+ [
+  "R7279",
+  "Ghanem_2024",
+  "ChatGPT-4",
+  "refs_requested (one blank)",
+  "",
+  "30"
+ ],
+ [
+  "R7837",
+  "Suppadungsuk_2023",
+  "ChatGPT-3.5",
+  "n_fabricated (one blank)",
+  "",
+  "192"
+ ]
+]
